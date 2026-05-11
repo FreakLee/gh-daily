@@ -18,7 +18,7 @@ HTTP_USER_AGENT = "gh-daily/0.1 (+https://github.com/)"
 
 # Summarizer knobs
 SUMMARIZER_PROVIDER = "github_models"   # "github_models" | "claude" | "none"
-SUMMARIZER_GH_MODEL = "gpt-4o-mini"
+SUMMARIZER_GH_MODEL = "gpt-4o-mini"        # 免费档限流宽松;DeepSeek-V3 中文好但限流严(1/分钟)
 SUMMARIZER_CLAUDE_MODEL = "claude-haiku-4-5-20251001"
 SUMMARIZER_MAX_CHARS = 60
 SUMMARIZER_TIMEOUT_SECONDS = 30
