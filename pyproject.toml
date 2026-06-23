@@ -10,6 +10,7 @@ dependencies = [
     "rich>=13.7",
     "markdown-it-py>=3.0",
     "premailer>=3.10",
+    "feedparser>=6.0",
 ]
 
 [project.optional-dependencies]

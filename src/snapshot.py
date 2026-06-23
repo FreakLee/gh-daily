@@ -1,32 +1,29 @@
-"""SQLite-backed daily snapshot store.
+"""SQLite-backed daily snapshot store, used for GitHub star deltas.
 
-Schema follows docs/superpowers/specs/2026-05-11-github-daily-design.md §3.1.
-Idempotent on re-runs: primary key (snapshot_date, repo_full_name).
+Only sources with a monotonic count (GitHub stars) snapshot here; HN/papers/RSS
+score themselves at fetch time. Idempotent on re-runs via PK (date, item_id).
 """
 
 from __future__ import annotations
 
-import json
 import sqlite3
 from contextlib import closing
 from datetime import date as Date
 from pathlib import Path
 
-from .models import RepoMeta
+from .models import Item
 
 SCHEMA_SQL = """
 CREATE TABLE IF NOT EXISTS snapshots (
     snapshot_date  TEXT NOT NULL,
-    repo_full_name TEXT NOT NULL,
+    item_id        TEXT NOT NULL,
     stars          INTEGER NOT NULL,
-    description    TEXT,
-    language       TEXT,
-    topics         TEXT,
+    title          TEXT,
     source         TEXT NOT NULL,
-    PRIMARY KEY (snapshot_date, repo_full_name)
+    PRIMARY KEY (snapshot_date, item_id)
 );
-CREATE INDEX IF NOT EXISTS idx_repo_date
-    ON snapshots(repo_full_name, snapshot_date);
+CREATE INDEX IF NOT EXISTS idx_item_date
+    ON snapshots(item_id, snapshot_date);
 """
 
 
@@ -37,93 +34,50 @@ def init_db(db_path: Path) -> None:
         conn.commit()
 
 
-def upsert_snapshot(db_path: Path, snapshot_date: Date, repo: RepoMeta) -> None:
-    with closing(sqlite3.connect(db_path)) as conn:
-        conn.execute(
-            "INSERT OR REPLACE INTO snapshots"
-            " (snapshot_date, repo_full_name, stars, description, language, topics, source)"
-            " VALUES (?, ?, ?, ?, ?, ?, ?)",
-            (
-                snapshot_date.isoformat(),
-                repo.full_name,
-                repo.stars_total,
-                repo.description,
-                repo.language,
-                json.dumps(repo.topics, ensure_ascii=False),
-                repo.source,
-            ),
-        )
-        conn.commit()
+def _stars(item: Item) -> int | None:
+    val = item.extra.get("stars_total")
+    return int(val) if val is not None else None
 
 
-def upsert_many(db_path: Path, snapshot_date: Date, repos: list[RepoMeta]) -> None:
-    if not repos:
+def upsert_many(db_path: Path, snapshot_date: Date, items: list[Item]) -> None:
+    rows = [
+        (snapshot_date.isoformat(), it.id, _stars(it), it.title, it.source)
+        for it in items
+        if _stars(it) is not None
+    ]
+    if not rows:
         return
     with closing(sqlite3.connect(db_path)) as conn:
         conn.executemany(
             "INSERT OR REPLACE INTO snapshots"
-            " (snapshot_date, repo_full_name, stars, description, language, topics, source)"
-            " VALUES (?, ?, ?, ?, ?, ?, ?)",
-            [
-                (
-                    snapshot_date.isoformat(),
-                    r.full_name,
-                    r.stars_total,
-                    r.description,
-                    r.language,
-                    json.dumps(r.topics, ensure_ascii=False),
-                    r.source,
-                )
-                for r in repos
-            ],
+            " (snapshot_date, item_id, stars, title, source) VALUES (?, ?, ?, ?, ?)",
+            rows,
         )
         conn.commit()
 
 
-def get_previous_stars(
-    db_path: Path,
-    repo_full_name: str,
-    before_date: Date,
-) -> int | None:
+def get_previous_stars(db_path: Path, item_id: str, before_date: Date) -> int | None:
     """Most recent star count strictly before `before_date`. None if not seen."""
     with closing(sqlite3.connect(db_path)) as conn:
         row = conn.execute(
             "SELECT stars FROM snapshots"
-            " WHERE repo_full_name = ? AND snapshot_date < ?"
+            " WHERE item_id = ? AND snapshot_date < ?"
             " ORDER BY snapshot_date DESC LIMIT 1",
-            (repo_full_name, before_date.isoformat()),
+            (item_id, before_date.isoformat()),
         ).fetchone()
     return row[0] if row else None
 
 
-def snapshots_in_range(
-    db_path: Path,
-    start_date: Date,
-    end_date: Date,
-) -> list[tuple[str, str, int]]:
-    """For weekly aggregation: returns [(date, repo, stars), ...]."""
-    with closing(sqlite3.connect(db_path)) as conn:
-        rows = conn.execute(
-            "SELECT snapshot_date, repo_full_name, stars FROM snapshots"
-            " WHERE snapshot_date >= ? AND snapshot_date <= ?"
-            " ORDER BY repo_full_name, snapshot_date",
-            (start_date.isoformat(), end_date.isoformat()),
-        ).fetchall()
-    return rows
+def compute_delta(db_path: Path, item: Item, today: Date) -> float:
+    """Today's star delta from the most recent earlier snapshot.
 
-
-def compute_delta(
-    db_path: Path,
-    repo: RepoMeta,
-    today: Date,
-) -> int:
-    """Today's star delta, computed from the most recent earlier snapshot.
-
-    Falls back to `repo.stars_today` (which trending reports directly) when
-    we've never seen this repo before — common in early days before the
-    snapshot history fills in.
+    Falls back to the source-reported score (trending's own daily delta) when the
+    repo has no prior snapshot — common early on before history fills in.
     """
-    prev = get_previous_stars(db_path, repo.full_name, today)
+    stars_total = _stars(item)
+    if stars_total is None:
+        return item.score
+    prev = get_previous_stars(db_path, item.id, today)
     if prev is None:
-        return repo.stars_today
-    return max(0, repo.stars_total - prev)
+        return item.score
+    return float(max(0, stars_total - prev))

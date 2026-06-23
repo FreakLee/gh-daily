@@ -1,32 +1,41 @@
-"""Pick the day's repos: sort by today's star delta, threshold, top-N."""
+"""Per-source quota selection.
+
+Heat from different sources isn't comparable (GitHub stars vs HN points vs
+recency), so we never sort globally. Each source fills a fixed number of slots,
+ranked only within itself. Items already published recently (history dedup) and
+items below a source's `SOURCE_MIN_SCORE` floor are dropped first.
+"""
 
 from __future__ import annotations
 
+from collections import defaultdict
+
 from . import config
-from .models import RepoMeta
+from .models import Item
 
 
-def select_picks(
-    candidates: list[RepoMeta],
+def select_for_category(
+    items: list[Item],
+    quotas: dict[str, int],
     *,
-    min_delta: int = config.MIN_DELTA_THRESHOLD,
-    max_picks: int = config.MAX_PICKS,
     dedup_against: set[str] | None = None,
-) -> list[RepoMeta]:
-    """Return up to `max_picks` repos sorted by `stars_today` desc.
-
-    `dedup_against` is a set of `full_name` strings already published recently;
-    they are excluded. M1 passes None (no history yet).
-    """
+) -> list[Item]:
+    """Return picks grouped by source, in `quotas` order."""
     dedup = dedup_against or set()
+    by_source: dict[str, list[Item]] = defaultdict(list)
+    for item in items:
+        if item.id in dedup:
+            continue
+        if item.score < config.SOURCE_MIN_SCORE.get(item.source, 0):
+            continue
+        by_source[item.source].append(item)
 
-    eligible = [
-        repo for repo in candidates
-        if repo.stars_today >= min_delta and repo.full_name not in dedup
-    ]
-    eligible.sort(key=lambda r: r.stars_today, reverse=True)
-    return eligible[:max_picks]
+    picks: list[Item] = []
+    for source, quota in quotas.items():
+        ranked = sorted(by_source.get(source, []), key=lambda x: x.score, reverse=True)
+        picks.extend(ranked[:quota])
+    return picks
 
 
-def is_enough(picks: list[RepoMeta], *, min_picks: int = config.MIN_PICKS) -> bool:
+def is_enough(picks: list[Item], *, min_picks: int = config.MIN_PICKS) -> bool:
     return len(picks) >= min_picks

@@ -1,4 +1,4 @@
-"""Publish history (data/history.json) — drives 7-day dedup and weekly tags."""
+"""Publish history — drives 7-day dedup. One file per category (data/history-<cat>.json)."""
 
 from __future__ import annotations
 
@@ -9,10 +9,11 @@ from typing import TypedDict
 
 
 class Issue(TypedDict):
-    date: str        # 'YYYY-MM-DD'
-    mode: str        # 'daily' | 'weekly'
-    repos: list[str] # full_names
-    url: str         # archive URL (empty in early milestones)
+    date: str          # 'YYYY-MM-DD'
+    category: str      # 'tech' | 'finance'
+    mode: str          # 'daily' | 'weekly'
+    items: list[str]   # item ids (urls)
+    url: str           # archive URL (empty in early milestones)
 
 
 def load(history_path: Path) -> list[Issue]:
@@ -21,8 +22,7 @@ def load(history_path: Path) -> list[Issue]:
     text = history_path.read_text(encoding="utf-8")
     if not text.strip():
         return []
-    data = json.loads(text)
-    return list(data.get("issues", []))
+    return list(json.loads(text).get("issues", []))
 
 
 def save(history_path: Path, issues: list[Issue]) -> None:
@@ -36,21 +36,24 @@ def save(history_path: Path, issues: list[Issue]) -> None:
 def append_issue(
     history_path: Path,
     today: Date,
+    category: str,
     mode: str,
-    repos: list[str],
+    items: list[str],
     url: str = "",
 ) -> None:
     issues = load(history_path)
-    issues.append(Issue(date=today.isoformat(), mode=mode, repos=repos, url=url))
+    issues.append(
+        Issue(date=today.isoformat(), category=category, mode=mode, items=items, url=url)
+    )
     save(history_path, issues)
 
 
-def recent_repos(issues: list[Issue], today: Date, days: int) -> set[str]:
-    """Repos published in the last `days` days (excluding today)."""
+def recent_ids(issues: list[Issue], today: Date, days: int) -> set[str]:
+    """Item ids published in the last `days` days (excluding today)."""
     cutoff = today - timedelta(days=days)
     out: set[str] = set()
     for issue in issues:
         issue_date = Date.fromisoformat(issue["date"])
         if cutoff <= issue_date < today:
-            out.update(issue["repos"])
+            out.update(issue.get("items", []))
     return out

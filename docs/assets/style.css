@@ -1,75 +1,81 @@
 /*
- * 公众号 (WeChat Official Account) friendly styles.
+ * 公众号 (WeChat Official Account) friendly styles — applied to #content-to-copy,
+ * i.e. the part the user copies and pastes into the WeChat editor.
  *
- * Lessons from real paste-test:
- *   - WeChat STRIPS background-color / border on block elements (div, p, section).
- *   - WeChat KEEPS background-color on inline elements (span).
- *   - WeChat KEEPS text properties everywhere (color, font-*, line-height,
- *     margin, padding, text-align).
+ * Hard rules learned from real paste-tests (DO NOT rely on anything else):
+ *   - WeChat STRIPS background-color / border on BLOCK elements (div, p, section).
+ *   - WeChat KEEPS background-color / padding / border-radius on INLINE elements (span).
+ *   - WeChat KEEPS text properties everywhere (color, font-*, line-height, margin,
+ *     padding, text-align).
  *   - <hr> survives reliably.
  *
- * Design: flat list, separator-driven. No card backgrounds. Visual anchors
- * come from inline span badges + horizontal rules + typography.
+ * So every bit of color/emphasis below lives on inline <span>s (pills, badges,
+ * section labels). No card backgrounds, no left-border accent bars — those vanish.
+ *
+ * Category accent is switched via `.tech` / `.finance` on .digest-root.
  */
 
 .digest-root {
   font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Microsoft YaHei", sans-serif;
   color: #2c3e50;
   font-size: 16px;
-  line-height: 1.75;
+  line-height: 1.8;
   padding: 0;
 }
 
+/* ---------- header ---------- */
 .digest-title {
-  font-size: 22px;
-  font-weight: 700;
+  font-size: 23px;
+  font-weight: 800;
   color: #1a202c;
-  margin: 0 0 12px 0;
+  margin: 0 0 10px 0;
   padding: 0;
   line-height: 1.4;
   text-align: center;
 }
 
 .digest-summary {
-  color: #5a6c7d;
-  font-size: 15px;
-  margin: 0 0 4px 0;
+  margin: 0 0 6px 0;
   padding: 0;
   text-align: center;
 }
 
+/* the centered summary text sits inside an inline pill so it keeps its tint */
+.digest-summary-pill {
+  display: inline-block;
+  background-color: #f2f4f7;
+  color: #5a6c7d;
+  font-size: 13px;
+  padding: 4px 14px;
+  border-radius: 14px;
+}
+
 .digest-sep {
   border: none;
-  border-top: 1px solid #cbd5e0;
-  margin: 20px 0;
+  border-top: 1px solid #e2e8f0;
+  margin: 18px 0;
   height: 0;
 }
 
-.repo-sep {
-  border: none;
-  border-top: 1px dashed #cbd5e0;
-  margin: 20px 0;
-  height: 0;
-}
-
+/* ---------- item ---------- */
 .repo-header {
-  margin: 0 0 10px 0;
+  margin: 0 0 9px 0;
   padding: 0;
-  font-size: 18px;
+  font-size: 17px;
   font-weight: 700;
   color: #1a202c;
-  line-height: 1.4;
+  line-height: 1.5;
 }
 
 .repo-num {
   display: inline-block;
   background-color: #2c3e50;
   color: #ffffff;
-  font-size: 14px;
+  font-size: 13px;
   font-weight: 700;
-  padding: 2px 10px;
-  margin-right: 10px;
-  border-radius: 3px;
+  padding: 1px 9px;
+  margin-right: 9px;
+  border-radius: 10px;
 }
 
 .repo-name {
@@ -80,50 +86,84 @@
 .repo-desc {
   margin: 0 0 10px 0;
   padding: 0;
-  color: #2c3e50;
-  font-size: 15px;
-  line-height: 1.75;
+  color: #2d3748;
+  font-size: 15.5px;
+  line-height: 1.8;
 }
 
 .repo-meta {
-  margin: 0 0 6px 0;
+  margin: 0 0 7px 0;
   padding: 0;
-  color: #4a5568;
   font-size: 13px;
-  line-height: 1.6;
+  line-height: 2;
 }
 
+/* source chip — the per-item anchor, accent-tinted (set in category block) */
+.repo-source {
+  display: inline-block;
+  background-color: #edf2f7;
+  color: #2d3748;
+  font-weight: 700;
+  padding: 2px 10px;
+  margin-right: 8px;
+  border-radius: 12px;
+}
+
+/* heat chip (⭐/分/赞) — neutral */
+.repo-metric {
+  display: inline-block;
+  background-color: #f2f4f7;
+  color: #5a6c7d;
+  font-weight: 600;
+  padding: 2px 10px;
+  margin-right: 8px;
+  border-radius: 12px;
+}
+
+/* secondary chips (language / topic / 人物) — neutral */
 .repo-meta-bit {
   display: inline-block;
-  margin-right: 14px;
-  color: #4a5568;
+  background-color: #f2f4f7;
+  color: #5a6c7d;
+  padding: 2px 10px;
+  margin-right: 8px;
+  border-radius: 12px;
 }
 
 .repo-link {
   margin: 0;
   padding: 0;
-  color: #3182ce;
-  font-size: 13px;
+  color: #718096;
+  font-size: 12.5px;
   word-break: break-all;
   line-height: 1.6;
 }
+.repo-link a { color: #3182ce; }
 
+.repo-sep {
+  border: none;
+  border-top: 1px dashed #e2e8f0;
+  margin: 18px 0;
+  height: 0;
+}
+
+/* ---------- footer ---------- */
 .digest-footer {
   margin: 0;
   padding: 0;
   color: #a0aec0;
-  font-size: 13px;
+  font-size: 12.5px;
   text-align: center;
-  line-height: 1.8;
+  line-height: 1.9;
 }
 
-.tag {
-  display: inline-block;
-  background-color: #2e7d32;
-  color: #ffffff;
-  font-size: 12px;
-  padding: 2px 8px;
-  margin-right: 8px;
-  border-radius: 3px;
-  font-weight: 600;
-}
+/* ---------- category accents (inline spans only, so they survive WeChat) ---------- */
+/* tech — Apple blue */
+.tech .repo-num            { background-color: #0071e3; }
+.tech .repo-source         { background-color: #e8f1fd; color: #0058b9; }
+.tech .digest-summary-pill { background-color: #e8f1fd; color: #0058b9; }
+
+/* finance — red (国内财经语境) */
+.finance .repo-num            { background-color: #d93025; }
+.finance .repo-source         { background-color: #fdecec; color: #c5221a; }
+.finance .digest-summary-pill { background-color: #fdecec; color: #c5221a; }
