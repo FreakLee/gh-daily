@@ -1,0 +1,46 @@
+name: daily-digest
+
+# 周一~周五 08:00 北京时间 = 00:00 UTC。可改 cron。
+on:
+  schedule:
+    - cron: "0 0 * * 1-5"
+  workflow_dispatch: {}        # 允许在 Actions 页面手动触发(测试用)
+
+permissions:
+  contents: write              # 需要把生成的 docs/ + data/ 提交回仓库
+
+concurrency:
+  group: daily-digest
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install
+        run: pip install -e .
+
+      - name: Generate digest (text-only; Draw Things/微信草稿 仅本地)
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+        run: python -m src.main --no-image
+
+      - name: Commit artifacts
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/ data/
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore(daily): $(date -u +%Y-%m-%d) digest [skip ci]"
+            git push
+          fi
