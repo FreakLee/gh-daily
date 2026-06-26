@@ -50,7 +50,7 @@ def build_prompt(picks: list[Item], category: str, summarizer: Summarizer) -> st
     except Exception as exc:
         logger.warning("cover: prompt generation failed: %s", exc)
         return None
-    scene = scene.strip().strip('"').strip()
+    scene = scene.strip().strip('"').strip().rstrip(".,;:、，。 ")
     if not scene:
         return None
     suffix = config.COVER_STYLE_SUFFIX.get(category, "")
