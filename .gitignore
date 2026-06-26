@@ -8,6 +8,7 @@ build/
 dist/
 .DS_Store
 run.log
+.wechat_token.json
 
 # Generated cover images (embedded as data-uri in the HTML; the standalone PNGs
 # are just convenience exports for setting as the 公众号 封面). Keep asset icons.

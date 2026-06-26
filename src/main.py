@@ -21,7 +21,7 @@ from pathlib import Path
 
 from dotenv import load_dotenv
 
-from . import config, history, illustrate, render, select, snapshot, sources, summarize
+from . import config, history, illustrate, render, select, snapshot, sources, summarize, wechat
 from .models import Item
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
@@ -51,6 +51,8 @@ def main() -> int:
                         help="Do not write to data/ or docs/; just print markdown.")
     parser.add_argument("--no-image", action="store_true",
                         help="Skip the Draw Things cover image.")
+    parser.add_argument("--draft", action="store_true",
+                        help="本地:把每期推送为公众号草稿(需 WECHAT_APPID/SECRET + IP 白名单)。")
     args = parser.parse_args()
 
     now = datetime.now(config.TIMEZONE)
@@ -65,7 +67,8 @@ def main() -> int:
 
     exit_code = 0
     for category in categories:
-        rc = run_category(category, summarizer, now, dry_run=args.dry_run, no_image=args.no_image)
+        rc = run_category(category, summarizer, now, dry_run=args.dry_run,
+                          no_image=args.no_image, draft=args.draft)
         exit_code = exit_code or rc
 
     if not args.dry_run:
@@ -74,7 +77,8 @@ def main() -> int:
     return exit_code
 
 
-def run_category(category: str, summarizer, now: datetime, *, dry_run: bool, no_image: bool) -> int:
+def run_category(category: str, summarizer, now: datetime, *, dry_run: bool,
+                 no_image: bool, draft: bool = False) -> int:
     today = now.date()
     label = config.CATEGORY_TITLES.get(category, category)
     print(f"\n========== {label} ==========", file=sys.stderr)
@@ -153,6 +157,20 @@ def run_category(category: str, summarizer, now: datetime, *, dry_run: bool, no_
         )
         _write_category_index(cat_dir / "index.html", category, history.load(hist_path))
         print(f"[6/6] wrote docs/{category}/today.html (+ archive)", file=sys.stderr)
+
+        # 9. Optional: push to WeChat as a draft (local only).
+        if draft:
+            print("[+] creating WeChat draft ...", file=sys.stderr)
+            body_html = render.render_inlined_body(picks, category=category, now=now)
+            media_id = wechat.create_draft(
+                title=render.issue_title(category, now),
+                content_html=body_html,
+                digest=f"今日 {len(picks)} 条 · {label}",
+                cover_png=cover_png,
+            )
+            if media_id:
+                print(f"[+] WeChat 草稿已创建 (media_id={media_id});打开公众号 App 即可发布",
+                      file=sys.stderr)
 
     print(f"\n{md_text}")
     return 0

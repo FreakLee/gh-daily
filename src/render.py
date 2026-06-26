@@ -31,6 +31,11 @@ def _title(category: str, now: datetime) -> str:
     return f"{base} · {now.month}月{now.day}日（{weekday}）"
 
 
+def issue_title(category: str, now: datetime) -> str:
+    """Public accessor for the issue title (used by the WeChat draft module)."""
+    return _title(category, now)
+
+
 def _sources_line(items: list[Item]) -> str:
     seen = []
     for it in items:
@@ -306,3 +311,13 @@ def render_full_page(
         accent=accent,
         accent_dark=accent_dark,
     )
+
+
+def render_inlined_body(items: list[Item], *, category: str, now: datetime | None = None) -> str:
+    """Inlined content body only (no page shell, no cover image) — for WeChat draft.
+
+    The cover goes in as the WeChat 封面/thumb separately; data-uri images don't
+    survive the WeChat editor, so we never embed it in the content here.
+    """
+    now = now or datetime.now(config.TIMEZONE)
+    return inline_css(render_html_body(items, category=category, now=now))

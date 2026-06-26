@@ -150,6 +150,18 @@ COVER_NEGATIVE_PROMPT = ("text, words, letters, typography, watermark, signature
                          "robot, human brain, circuit board cliche, dated")
 
 # ---------------------------------------------------------------------------
+# WeChat 公众号 草稿 API (本地运行,--draft)
+# ---------------------------------------------------------------------------
+# AppID/AppSecret 从 .env 读(WECHAT_APPID / WECHAT_APPSECRET)。
+# 前提:账号已认证有接口权限,且把本机公网 IP 加入「IP 白名单」(获取 access_token 必需)。
+# 草稿必须有封面图(thumb),所以 --draft 时需要 Draw Things 生成的封面;若拿不到封面则跳过该条。
+WECHAT_AUTHOR = "FIRE-Lee"             # 草稿署名,改成你的笔名
+WECHAT_TOKEN_ENDPOINT = "https://api.weixin.qq.com/cgi-bin/token"
+WECHAT_MATERIAL_ENDPOINT = "https://api.weixin.qq.com/cgi-bin/material/add_material"
+WECHAT_DRAFT_ENDPOINT = "https://api.weixin.qq.com/cgi-bin/draft/add"
+WECHAT_TIMEOUT_SECONDS = 60
+
+# ---------------------------------------------------------------------------
 # Bark (used from M3)
 # ---------------------------------------------------------------------------
 BARK_BASE = "https://api.day.app"
