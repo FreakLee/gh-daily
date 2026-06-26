@@ -16,6 +16,7 @@ from __future__ import annotations
 import json
 import logging
 import os
+import re
 import time
 from pathlib import Path
 
@@ -136,3 +137,54 @@ def create_draft(*, title: str, content_html: str, digest: str,
     except Exception as exc:
         logger.warning("WeChat draft failed: %s", exc)
         return None
+
+
+def get_public_ip() -> str | None:
+    for url in ("https://api.ipify.org", "https://ifconfig.me/ip"):
+        try:
+            return httpx.get(url, timeout=8).text.strip()
+        except Exception:
+            continue
+    return None
+
+
+def _check_cli() -> int:
+    """零成本白名单自检:只拿 access_token,不调 DeepSeek、不出图、不建草稿。
+
+    用法: python -m src.wechat
+    """
+    import sys
+
+    from dotenv import load_dotenv
+
+    load_dotenv()
+    logging.basicConfig(level=logging.INFO, format="%(message)s")
+
+    appid = os.environ.get("WECHAT_APPID")
+    secret = os.environ.get("WECHAT_APPSECRET")
+    if not (appid and secret):
+        print("❌ .env 里缺 WECHAT_APPID / WECHAT_APPSECRET")
+        return 1
+
+    _TOKEN_CACHE.unlink(missing_ok=True)   # 强制真实请求,不吃缓存
+    try:
+        token = get_access_token(appid, secret)
+        print(f"✅ access_token 获取成功(前6位 {token[:6]}…)。白名单 OK,可以跑 --draft 了。")
+        return 0
+    except Exception as exc:
+        msg = str(exc)
+        print(f"❌ 失败: {msg}")
+        # 微信 40164 的 errmsg 自带它实际看到的 IP,这才是该加白名单的那个
+        # (代理分流下,和本机 ipify 查到的可能不同,以这个为准)。
+        m = re.search(r"invalid ip ([0-9.]+)", msg)
+        if m:
+            print(f"\n👉 把这个 IP 加进白名单(微信实际看到的):  {m.group(1)}")
+            print("   加完等 1~2 分钟,再跑 `python -m src.wechat` 复测(不花 DeepSeek)。")
+        else:
+            ip = get_public_ip()
+            print(f"   本机出口 IP 约为 {ip or '(查询失败)'};若分流代理,请以微信报错里的 IP 为准。")
+        return 2
+
+
+if __name__ == "__main__":
+    raise SystemExit(_check_cli())

@@ -175,6 +175,25 @@
         "https://36kr.com/newsflashes/3869267145610246?f=rss"
       ],
       "url": "tech/archive/2026-06-26.html"
+    },
+    {
+      "date": "2026-06-26",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/garrytan/gstack",
+        "https://github.com/shanraisshan/claude-code-best-practice",
+        "https://github.com/opendatalab/MinerU",
+        "https://scrollprize.org/firstscroll",
+        "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
+        "https://om.co/2026/06/24/1966-2026/",
+        "https://huggingface.co/papers/2606.24775",
+        "https://huggingface.co/papers/2606.26058",
+        "https://arxiv.org/abs/2606.26095v1",
+        "https://sspai.com/post/111518",
+        "https://sspai.com/post/111421"
+      ],
+      "url": "tech/archive/2026-06-26.html"
     }
   ]
 }
