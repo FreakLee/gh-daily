@@ -15,7 +15,7 @@ TIMEZONE = ZoneInfo("Asia/Shanghai")
 CATEGORIES = ["tech", "finance"]
 
 CATEGORY_TITLES = {
-    "tech": "科技 / AI 日报",
+    "tech": "AI科技日报",
     "finance": "财经晨报",
 }
 
@@ -120,7 +120,7 @@ SUMMARIZER_DEEPSEEK_MODEL = "deepseek-chat"
 DEEPSEEK_ENDPOINT = "https://api.deepseek.com/v1/chat/completions"
 
 # Display length caps (safety net; AI output already obeys the prompt length).
-TITLE_MAX_CHARS = 48
+TITLE_MAX_CHARS = 80
 SUMMARY_MAX_CHARS = 100
 
 # ---------------------------------------------------------------------------
