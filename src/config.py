@@ -144,7 +144,10 @@ COVER_STYLE_SUFFIX = {
                "minimal, professional, generous negative space, flat design, high quality",
 }
 COVER_NEGATIVE_PROMPT = ("text, words, letters, typography, watermark, signature, logo, "
-                         "low quality, blurry, jpeg artifacts, ugly, deformed, cluttered")
+                         "low quality, blurry, jpeg artifacts, ugly, deformed, cluttered, "
+                         "retro, vintage, 1990s, 2000s, CRT monitor, boxy monitor, beige computer, "
+                         "old technology, steam train, locomotive, gears, cogwheels, light bulb, "
+                         "robot, human brain, circuit board cliche, dated")
 
 # ---------------------------------------------------------------------------
 # Bark (used from M3)
