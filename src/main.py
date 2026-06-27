@@ -15,6 +15,7 @@ from __future__ import annotations
 
 import argparse
 import logging
+import re
 import sys
 from datetime import datetime
 from pathlib import Path
@@ -52,7 +53,9 @@ def main() -> int:
     parser.add_argument("--no-image", action="store_true",
                         help="Skip the Draw Things cover image.")
     parser.add_argument("--draft", action="store_true",
-                        help="本地:把每期推送为公众号草稿(需 WECHAT_APPID/SECRET + IP 白名单)。")
+                        help="本地:跑完整管线并推送为公众号草稿(需 WECHAT_APPID/SECRET + IP 白名单)。")
+    parser.add_argument("--draft-only", action="store_true",
+                        help="本地:复用云端已生成的 docs/今日内容,只出封面+建草稿,不重新抓取/总结。")
     args = parser.parse_args()
 
     now = datetime.now(config.TIMEZONE)
@@ -64,6 +67,12 @@ def main() -> int:
     except RuntimeError as exc:
         print(f"[fail] summarizer init: {exc}", file=sys.stderr)
         return 2
+
+    if args.draft_only:
+        exit_code = 0
+        for category in categories:
+            exit_code = run_draft_only(category, summarizer, now) or exit_code
+        return exit_code
 
     exit_code = 0
     for category in categories:
@@ -173,6 +182,48 @@ def run_category(category: str, summarizer, now: datetime, *, dry_run: bool,
                       file=sys.stderr)
 
     print(f"\n{md_text}")
+    return 0
+
+
+def run_draft_only(category: str, summarizer, now: datetime) -> int:
+    """Reuse the already-generated docs/<cat>/today.html (e.g. from the cloud
+    Actions run) → make a cover → create a WeChat draft. No fetch, no re-summarize,
+    so Pages and 公众号 stay identical and we don't double-spend on DeepSeek."""
+    label = config.CATEGORY_TITLES.get(category, category)
+    today_html = DOCS_DIR / category / "today.html"
+    if not today_html.exists():
+        print(f"[skip] {category}: {today_html} 不存在,先让云端或本地生成内容(git pull?)",
+              file=sys.stderr)
+        return 0
+
+    html = today_html.read_text(encoding="utf-8")
+    m = re.search(r'(<section class="digest-root.*?</section>)', html, re.S)
+    if not m:
+        print(f"[skip] {category}: 无法从 today.html 提取正文", file=sys.stderr)
+        return 0
+    body_html = m.group(1)
+    # Drop any embedded cover image — in a WeChat draft the cover is the thumb,
+    # and data-uri images don't survive the editor (they'd also bloat the body).
+    body_html = re.sub(r'<p class="cover".*?</p>', "", body_html, flags=re.S)
+    titles = re.findall(r'class="repo-name"[^>]*>([^<]+)<', html)
+    n = len(titles)
+
+    print(f"[draft-only] {label}: 复用 today.html({n} 条),生成封面 ...", file=sys.stderr)
+    cover_png = illustrate.make_cover_from_titles(titles[:5], category, summarizer)
+
+    media_id = wechat.create_draft(
+        title=render.issue_title(category, now),
+        content_html=body_html,
+        digest=f"今日 {n} 条 · {label}",
+        cover_png=cover_png,
+    )
+    if media_id:
+        # 把封面也存一份,方便你需要时手动用
+        (DOCS_DIR / category / "today.png").write_bytes(cover_png)
+        print(f"[draft-only] {label}: 草稿已创建 (media_id={media_id});打开公众号 App 发布",
+              file=sys.stderr)
+    else:
+        print(f"[draft-only] {label}: 草稿未创建(见上方警告)", file=sys.stderr)
     return 0
 
 

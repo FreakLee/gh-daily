@@ -94,6 +94,13 @@ def generate(prompt: str) -> bytes | None:
         return None
 
 
+def make_cover_from_titles(titles: list[str], category: str, summarizer: Summarizer) -> bytes | None:
+    """Cover from a list of headline strings (for --draft-only, which reuses
+    already-generated content and has no Item objects)."""
+    picks = [Item(id="", title=t, url="", source="", category=category) for t in titles]
+    return make_cover(picks, category, summarizer)
+
+
 def make_cover(picks: list[Item], category: str, summarizer: Summarizer) -> bytes | None:
     """Build a prompt and render it. Returns PNG bytes or None (best-effort)."""
     prompt = build_prompt(picks, category, summarizer)
