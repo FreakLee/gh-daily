@@ -7,6 +7,7 @@ Use this as the "深度/认知" layer rather than a popularity ranking.
 from __future__ import annotations
 
 import logging
+import re
 
 import feedparser
 
@@ -42,6 +43,10 @@ def fetch() -> list[Item]:
             continue
         abstract = " ".join((entry.get("summary") or "").split()).strip()
         primary = entry.get("arxiv_primary_category", {}).get("term", "")
+        # Bare arXiv id (strip version), e.g. "2606.27377" — matches HF paper id,
+        # so the same paper from HF + arXiv can be de-duplicated in select.py.
+        m = re.search(r"(\d{4}\.\d{4,5})", entry.get("id") or url)
+        arxiv_id = m.group(1) if m else None
 
         items.append(
             Item(
@@ -56,6 +61,7 @@ def fetch() -> list[Item]:
                 tags=[f"🏷️ {primary}"] if primary else [],
                 source_label="arXiv",
                 published=entry.get("published"),
+                extra={"arxiv_id": arxiv_id} if arxiv_id else {},
             )
         )
     logger.info("arxiv: parsed %d papers", len(items))
