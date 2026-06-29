@@ -1,9 +1,10 @@
 name: daily-digest
 
-# 周一~周五 08:00 北京时间 = 00:00 UTC。可改 cron。
+# 周一~周五 ~08:17 北京时间 = 00:17 UTC。
+# 故意避开 00:00 整点(GitHub 定时任务最拥堵的时刻,易被延迟/丢弃)。
 on:
   schedule:
-    - cron: "0 0 * * 1-5"
+    - cron: "17 0 * * 1-5"
   workflow_dispatch: {}        # 允许在 Actions 页面手动触发(测试用)
 
 permissions:
