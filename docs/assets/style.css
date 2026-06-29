@@ -95,7 +95,7 @@
   margin: 0 0 7px 0;
   padding: 0;
   font-size: 13px;
-  line-height: 2;
+  line-height: 2.4;   /* 多个药丸换行时,给行与行留出垂直间距,避免重叠 */
 }
 
 /* source chip — the per-item anchor, accent-tinted (set in category block) */
@@ -104,8 +104,8 @@
   background-color: #edf2f7;
   color: #2d3748;
   font-weight: 700;
-  padding: 2px 10px;
-  margin-right: 8px;
+  padding: 3px 11px;
+  margin: 0 8px 6px 0;
   border-radius: 12px;
 }
 
@@ -115,8 +115,8 @@
   background-color: #f2f4f7;
   color: #5a6c7d;
   font-weight: 600;
-  padding: 2px 10px;
-  margin-right: 8px;
+  padding: 3px 11px;
+  margin: 0 8px 6px 0;
   border-radius: 12px;
 }
 
@@ -125,8 +125,8 @@
   display: inline-block;
   background-color: #f2f4f7;
   color: #5a6c7d;
-  padding: 2px 10px;
-  margin-right: 8px;
+  padding: 3px 11px;
+  margin: 0 8px 6px 0;
   border-radius: 12px;
 }
 

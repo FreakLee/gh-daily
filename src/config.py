@@ -87,14 +87,25 @@ RSS_PER_FEED = 25        # parse at most this many items per feed
 
 # "言论反向捞":当一条财经新闻提到这些关键政商人物时,加权重并打标签,
 # 因为他们的发言常常左右市场。命中即 score += FIGURE_BOOST。
+# 命中即加权置顶并打标签(关键词尽量用较长、唯一的形式,避免误伤,
+# 如用 "meta platforms" 而非 "meta"——后者会匹配到 metal/metaverse)。
 FIGURE_KEYWORDS = {
+    # 政界
     "特朗普": ["trump", "特朗普"],
-    "马斯克": ["musk", "马斯克"],
-    "黄仁勋": ["jensen huang", "nvidia ceo", "黄仁勋"],
+    "普京": ["putin", "普京"],
+    # 央行
     "沃什": ["warsh", "沃什"],            # 现任美联储主席(2026-05 上任,接替鲍威尔)
     "美联储": ["powell", "fomc", "federal reserve", "鲍威尔", "美联储"],  # 机构 + 前主席
     "贝森特": ["bessent", "贝森特"],
     "拉加德": ["lagarde", "ecb", "拉加德"],
+    # 商界 / 科技公司及其掌门
+    "马斯克": ["musk", "马斯克"],
+    "黄仁勋": ["jensen huang", "nvidia ceo", "黄仁勋"],
+    "OpenAI": ["openai", "sam altman", "altman", "奥特曼", "阿尔特曼"],
+    "Anthropic": ["anthropic", "claude", "amodei", "阿莫迪"],
+    "谷歌": ["alphabet", "google", "pichai", "皮查伊"],
+    "微软": ["microsoft", "nadella", "纳德拉"],
+    "Meta": ["meta platforms", "zuckerberg", "扎克伯格", "脸书"],
 }
 FIGURE_BOOST = 100.0     # large enough to float figure-mentions to the top
 

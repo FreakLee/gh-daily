@@ -64,7 +64,7 @@ class RssSource:
         if figures:
             score += config.FIGURE_BOOST
 
-        tags = [f"🗣️ {name}" for name in figures]
+        tags = [f"🗣️ {name}" for name in figures[:4]]   # 最多显示 4 个,避免标签过多
 
         return Item(
             id=url,
