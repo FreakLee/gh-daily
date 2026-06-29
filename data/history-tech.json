@@ -194,6 +194,25 @@
         "https://sspai.com/post/111421"
       ],
       "url": "tech/archive/2026-06-26.html"
+    },
+    {
+      "date": "2026-06-29",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/xbtlin/ai-berkshire",
+        "https://github.com/simplex-chat/simplex-chat",
+        "https://github.com/ripienaar/free-for-dev",
+        "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+        "https://pudding.cool/2026/06/menu-story/",
+        "https://antoine.fi/mri-analysis-using-claude-code-opus",
+        "https://huggingface.co/papers/2606.27377",
+        "https://huggingface.co/papers/2606.26025",
+        "https://arxiv.org/abs/2606.27369v1",
+        "https://sspai.com/post/110935",
+        "https://36kr.com/newsflashes/3873494255129862?f=rss"
+      ],
+      "url": "tech/archive/2026-06-29.html"
     }
   ]
 }
