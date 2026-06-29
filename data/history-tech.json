@@ -213,6 +213,26 @@
         "https://36kr.com/newsflashes/3873494255129862?f=rss"
       ],
       "url": "tech/archive/2026-06-29.html"
+    },
+    {
+      "date": "2026-06-29",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/xbtlin/ai-berkshire",
+        "https://github.com/simplex-chat/simplex-chat",
+        "https://github.com/ripienaar/free-for-dev",
+        "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+        "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
+        "https://antoine.fi/mri-analysis-using-claude-code-opus",
+        "https://huggingface.co/papers/2606.26025",
+        "https://huggingface.co/papers/2606.26300",
+        "https://arxiv.org/abs/2606.28323v1",
+        "https://sspai.com/post/111462",
+        "https://sspai.com/post/111639",
+        "https://36kr.com/p/3873786445813001?f=rss"
+      ],
+      "url": "tech/archive/2026-06-29.html"
     }
   ]
 }
