@@ -25,6 +25,8 @@ echo "▶ 2/4 等待云端跑完 (run $RUN_ID,约 1 分钟) ..."
 gh run watch "$RUN_ID" --exit-status --interval 15 >/dev/null
 
 echo "▶ 3/4 拉取最新内容 ..."
+git checkout -- docs data 2>/dev/null || true   # 丢弃上次本地嵌图改动,避免 pull 冲突
+git clean -fdq docs 2>/dev/null || true          # 删本地新增(归档等);gitignore 的 png 不动
 git pull --no-edit
 
 echo "▶ 4/4 出封面 + 建公众号草稿(确保 Draw Things 已开)..."

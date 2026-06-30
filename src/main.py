@@ -211,9 +211,15 @@ def run_draft_only(category: str, summarizer, now: datetime) -> int:
     print(f"[draft-only] {label}: 复用 today.html({n} 条),生成封面 ...", file=sys.stderr)
     cover_png = illustrate.make_cover_from_titles(titles[:5], category, summarizer)
     if cover_png:
-        # 出图就先存(与建草稿解耦):即使微信那步失败,本地也能拿到最新封面
+        # 出图就先落地(与建草稿解耦):即使微信那步失败,本地也保留最新封面。
         (DOCS_DIR / category / "today.png").write_bytes(cover_png)
-        print(f"[draft-only] {label}: 封面已更新 docs/{category}/today.png", file=sys.stderr)
+        # 并把封面嵌进 today.html 顶部 → 你手动复制网页时能连图一起带走(草稿仍走 thumb)。
+        cover_p = render._cover_html(illustrate.to_data_uri(cover_png))
+        page = re.sub(r'<p class="cover"[^>]*>.*?</p>', "", html, flags=re.S)  # 去掉旧封面(若有)
+        page = re.sub(r'(<hr class="digest-sep"[^>]*>)',
+                      lambda mm: cover_p + mm.group(1), page, count=1)
+        today_html.write_text(page, encoding="utf-8")
+        print(f"[draft-only] {label}: 封面已存 today.png 并嵌入 today.html 顶部", file=sys.stderr)
     else:
         print(f"[draft-only] {label}: 没拿到封面(Draw Things 没开?)——草稿需要封面,跳过",
               file=sys.stderr)
