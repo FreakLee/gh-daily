@@ -253,6 +253,26 @@
         "https://36kr.com/newsflashes/3874950654907649?f=rss"
       ],
       "url": "tech/archive/2026-06-30.html"
+    },
+    {
+      "date": "2026-06-30",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/msitarzewski/agency-agents",
+        "https://github.com/browser-use/video-use",
+        "https://github.com/HKUDS/Vibe-Trading",
+        "https://quesma.com/blog/qwen-36-is-awesome/",
+        "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
+        "https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/",
+        "https://huggingface.co/papers/2606.30616",
+        "https://huggingface.co/papers/2502.16886",
+        "https://arxiv.org/abs/2606.30645v1",
+        "https://sspai.com/post/111706",
+        "https://sspai.com/post/111707",
+        "https://36kr.com/newsflashes/3875137219761411?f=rss"
+      ],
+      "url": "tech/archive/2026-06-30.html"
     }
   ]
 }
