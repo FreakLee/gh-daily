@@ -233,6 +233,26 @@
         "https://36kr.com/p/3873786445813001?f=rss"
       ],
       "url": "tech/archive/2026-06-29.html"
+    },
+    {
+      "date": "2026-06-30",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/msitarzewski/agency-agents",
+        "https://github.com/browser-use/video-use",
+        "https://github.com/HKUDS/Vibe-Trading",
+        "https://quesma.com/blog/qwen-36-is-awesome/",
+        "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
+        "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
+        "https://huggingface.co/papers/2606.28128",
+        "https://huggingface.co/papers/2606.27378",
+        "https://arxiv.org/abs/2606.28309v1",
+        "https://sspai.com/post/111697",
+        "https://sspai.com/post/111369",
+        "https://36kr.com/newsflashes/3874950654907649?f=rss"
+      ],
+      "url": "tech/archive/2026-06-30.html"
     }
   ]
 }

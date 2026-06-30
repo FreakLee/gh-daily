@@ -202,6 +202,23 @@
         "https://finance.yahoo.com/markets/stocks/articles/walt-disney-company-dis-one-183548109.html"
       ],
       "url": "finance/archive/2026-06-29.html"
+    },
+    {
+      "date": "2026-06-30",
+      "category": "finance",
+      "mode": "daily",
+      "items": [
+        "https://wallstreetcn.com/articles/3775790",
+        "https://wallstreetcn.com/articles/3775783",
+        "https://wallstreetcn.com/articles/3775786",
+        "https://wallstreetcn.com/articles/3775784",
+        "https://www.cnbc.com/2026/06/29/stock-market-today-live-updates.html",
+        "https://www.cnbc.com/2026/06/29/trump-says-he-picks-sonderling-to-be-labor-secretary.html",
+        "https://www.cnbc.com/2026/06/29/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+        "https://finance.yahoo.com/markets/stocks/articles/trump-doubles-down-quantum-computing-144501136.html",
+        "https://finance.yahoo.com/technology/articles/meta-platforms-just-unveiled-smart-133002449.html"
+      ],
+      "url": "finance/archive/2026-06-30.html"
     }
   ]
 }
