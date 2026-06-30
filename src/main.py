@@ -210,6 +210,13 @@ def run_draft_only(category: str, summarizer, now: datetime) -> int:
 
     print(f"[draft-only] {label}: 复用 today.html({n} 条),生成封面 ...", file=sys.stderr)
     cover_png = illustrate.make_cover_from_titles(titles[:5], category, summarizer)
+    if cover_png:
+        # 出图就先存(与建草稿解耦):即使微信那步失败,本地也能拿到最新封面
+        (DOCS_DIR / category / "today.png").write_bytes(cover_png)
+        print(f"[draft-only] {label}: 封面已更新 docs/{category}/today.png", file=sys.stderr)
+    else:
+        print(f"[draft-only] {label}: 没拿到封面(Draw Things 没开?)——草稿需要封面,跳过",
+              file=sys.stderr)
 
     media_id = wechat.create_draft(
         title=render.issue_title(category, now),
@@ -218,12 +225,11 @@ def run_draft_only(category: str, summarizer, now: datetime) -> int:
         cover_png=cover_png,
     )
     if media_id:
-        # 把封面也存一份,方便你需要时手动用
-        (DOCS_DIR / category / "today.png").write_bytes(cover_png)
         print(f"[draft-only] {label}: 草稿已创建 (media_id={media_id});打开公众号 App 发布",
               file=sys.stderr)
     else:
-        print(f"[draft-only] {label}: 草稿未创建(见上方警告)", file=sys.stderr)
+        print(f"[draft-only] {label}: 草稿未创建(见上方警告,常见是 40164 IP 白名单)",
+              file=sys.stderr)
     return 0
 
 
