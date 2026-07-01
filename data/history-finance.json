@@ -236,6 +236,24 @@
         "https://finance.yahoo.com/markets/stocks/articles/h-m-closed-136-stores-012815718.html"
       ],
       "url": "finance/archive/2026-06-30.html"
+    },
+    {
+      "date": "2026-07-01",
+      "category": "finance",
+      "mode": "daily",
+      "items": [
+        "https://wallstreetcn.com/articles/3775901",
+        "https://wallstreetcn.com/articles/3775905",
+        "https://wallstreetcn.com/articles/3775907",
+        "https://wallstreetcn.com/articles/3775904",
+        "https://www.cnbc.com/2026/06/30/anthropic-says-trump-admin-has-lifted-export-controls-on-claude-fable-5-and-mythos-5.html",
+        "https://www.cnbc.com/2026/06/30/trump-financial-disclosure-released.html",
+        "https://www.cnbc.com/2026/06/30/trump-pierre-yared-council-economic-advisers.html",
+        "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-expands-operations-strategic-125743385.html",
+        "https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-best-stock-buy-125740195.html",
+        "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260630a.htm"
+      ],
+      "url": "finance/archive/2026-07-01.html"
     }
   ]
 }
