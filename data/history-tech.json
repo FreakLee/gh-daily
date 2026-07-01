@@ -293,6 +293,26 @@
         "https://36kr.com/newsflashes/3876372471968009?f=rss"
       ],
       "url": "tech/archive/2026-07-01.html"
+    },
+    {
+      "date": "2026-07-01",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/hasaneyldrm/exercises-dataset",
+        "https://github.com/usestrix/strix",
+        "https://github.com/obra/superpowers",
+        "https://thereallo.dev/blog/claude-code-prompt-steganography",
+        "https://www.anthropic.com/news/claude-sonnet-5",
+        "https://claude.com/product/claude-science",
+        "https://huggingface.co/papers/2606.28733",
+        "https://huggingface.co/papers/2606.26740",
+        "https://arxiv.org/abs/2606.30642v1",
+        "https://sspai.com/post/111773",
+        "https://sspai.com/post/111744",
+        "https://36kr.com/newsflashes/3876385206038537?f=rss"
+      ],
+      "url": "tech/archive/2026-07-01.html"
     }
   ]
 }
