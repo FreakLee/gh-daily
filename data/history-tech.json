@@ -332,6 +332,26 @@
         "https://36kr.com/newsflashes/3876612795773192?f=rss"
       ],
       "url": "tech/archive/2026-07-01.html"
+    },
+    {
+      "date": "2026-07-02",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/microsoft/AI-For-Beginners",
+        "https://github.com/diegosouzapw/OmniRoute",
+        "https://github.com/facebook/astryx",
+        "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
+        "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/",
+        "https://box2d.org/posts/2026/06/announcing-box3d/",
+        "https://huggingface.co/papers/2606.19297",
+        "https://huggingface.co/papers/2606.08671",
+        "https://arxiv.org/abs/2607.01233v1",
+        "https://sspai.com/post/111861",
+        "https://sspai.com/post/111709",
+        "https://36kr.com/newsflashes/3878007026249990?f=rss"
+      ],
+      "url": "tech/archive/2026-07-02.html"
     }
   ]
 }
