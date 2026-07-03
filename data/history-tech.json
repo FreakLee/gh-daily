@@ -352,6 +352,26 @@
         "https://36kr.com/newsflashes/3878007026249990?f=rss"
       ],
       "url": "tech/archive/2026-07-02.html"
+    },
+    {
+      "date": "2026-07-03",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/affaan-m/ECC",
+        "https://github.com/JuliusBrussee/caveman",
+        "https://github.com/santifer/career-ops",
+        "https://github.com/Chocobozzz/PeerTube",
+        "https://mathstodon.xyz/@iblech/116769502749142438",
+        "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
+        "https://huggingface.co/papers/2606.28322",
+        "https://huggingface.co/papers/2607.00466",
+        "https://arxiv.org/abs/2607.01232v1",
+        "https://sspai.com/post/110950",
+        "https://sspai.com/post/111069",
+        "https://36kr.com/newsflashes/3879184154505219?f=rss"
+      ],
+      "url": "tech/archive/2026-07-03.html"
     }
   ]
 }
