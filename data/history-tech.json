@@ -412,6 +412,26 @@
         "https://36kr.com/newsflashes/3879387599581440?f=rss"
       ],
       "url": "tech/archive/2026-07-03.html"
+    },
+    {
+      "date": "2026-07-04",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/ogulcancelik/herdr",
+        "https://github.com/safishamsi/graphify",
+        "https://github.com/harvard-edge/cs249r_book",
+        "https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/",
+        "https://phenomenalworld.org/analysis/the-anti-amazon/",
+        "https://github.com/jamesob/local-llm",
+        "https://huggingface.co/papers/2607.02440",
+        "https://huggingface.co/papers/2607.02255",
+        "https://arxiv.org/abs/2607.02513v1",
+        "https://sspai.com/prime/story/how-to-design-a-rental-living-room",
+        "https://sspai.com/post/111917",
+        "https://36kr.com/newsflashes/3879918674505988?f=rss"
+      ],
+      "url": "tech/archive/2026-07-04.html"
     }
   ]
 }
