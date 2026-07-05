@@ -432,6 +432,25 @@
         "https://36kr.com/newsflashes/3879918674505988?f=rss"
       ],
       "url": "tech/archive/2026-07-04.html"
+    },
+    {
+      "date": "2026-07-05",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/alibaba/page-agent",
+        "https://github.com/openai/codex-plugin-cc",
+        "https://github.com/mattpocock/skills",
+        "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
+        "https://javoriuski.com/post/youtube",
+        "https://peteris.rocks/blog/htop/",
+        "https://huggingface.co/papers/2606.30562",
+        "https://huggingface.co/papers/2607.01642",
+        "https://arxiv.org/abs/2607.02512v1",
+        "https://sspai.com/post/111645",
+        "https://36kr.com/newsflashes/3881144991854594?f=rss"
+      ],
+      "url": "tech/archive/2026-07-05.html"
     }
   ]
 }
