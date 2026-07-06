@@ -451,6 +451,25 @@
         "https://36kr.com/newsflashes/3881144991854594?f=rss"
       ],
       "url": "tech/archive/2026-07-05.html"
+    },
+    {
+      "date": "2026-07-06",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/Zackriya-Solutions/meetily",
+        "https://github.com/asgeirtj/system_prompts_leaks",
+        "https://github.com/Leonxlnx/taste-skill",
+        "https://organicmaps.app/",
+        "https://www.opentools.studio/",
+        "https://popcar.bearblog.dev/its-about-ownership/",
+        "https://huggingface.co/papers/2607.01647",
+        "https://huggingface.co/papers/2607.02517",
+        "https://arxiv.org/abs/2607.02510v1",
+        "https://sspai.com/post/111632",
+        "https://36kr.com/newsflashes/3883392742371335?f=rss"
+      ],
+      "url": "tech/archive/2026-07-06.html"
     }
   ]
 }
