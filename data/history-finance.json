@@ -447,6 +447,23 @@
         "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-july-5-2026-lock-in-up-to-410-apy-100000607.html"
       ],
       "url": "finance/archive/2026-07-06.html"
+    },
+    {
+      "date": "2026-07-07",
+      "category": "finance",
+      "mode": "daily",
+      "items": [
+        "https://wallstreetcn.com/articles/3776321",
+        "https://wallstreetcn.com/articles/3776327",
+        "https://wallstreetcn.com/articles/3776262",
+        "https://wallstreetcn.com/articles/3776322",
+        "https://www.cnbc.com/2026/07/06/microsoft-cuts-2point1percent-of-employees-as-xbox-unit-plans-to-spin-studios.html",
+        "https://www.cnbc.com/2026/07/06/alibaba-anthropic-ai-ban-claude-china.html",
+        "https://www.cnbc.com/2026/07/06/how-families-are-using-trump-accounts.html",
+        "https://finance.yahoo.com/markets/stocks/articles/where-alphabet-stock-5-years-123500637.html",
+        "https://finance.yahoo.com/technology/ai/articles/exposure-openai-ipo-123000522.html"
+      ],
+      "url": "finance/archive/2026-07-07.html"
     }
   ]
 }
