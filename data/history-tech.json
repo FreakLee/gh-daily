@@ -549,6 +549,26 @@
         "https://36kr.com/newsflashes/3884834786209795?f=rss"
       ],
       "url": "tech/archive/2026-07-07.html"
+    },
+    {
+      "date": "2026-07-07",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/addyosmani/agent-skills",
+        "https://github.com/ruvnet/RuView",
+        "https://github.com/firecrawl/firecrawl",
+        "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
+        "https://openwrt.org/toh/openwrt/one",
+        "https://www.comaps.app/",
+        "https://huggingface.co/papers/2606.29526",
+        "https://huggingface.co/papers/2607.02501",
+        "https://arxiv.org/abs/2607.05396v1",
+        "https://sspai.com/post/111655",
+        "https://sspai.com/post/112010",
+        "https://36kr.com/newsflashes/3885055580794886?f=rss"
+      ],
+      "url": "tech/archive/2026-07-07.html"
     }
   ]
 }

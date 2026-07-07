@@ -481,6 +481,23 @@
         "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-inc-amd-131620008.html"
       ],
       "url": "finance/archive/2026-07-07.html"
+    },
+    {
+      "date": "2026-07-07",
+      "category": "finance",
+      "mode": "daily",
+      "items": [
+        "https://wallstreetcn.com/articles/3776331",
+        "https://wallstreetcn.com/articles/3776348",
+        "https://wallstreetcn.com/articles/3776338",
+        "https://wallstreetcn.com/articles/3776339",
+        "https://www.cnbc.com/2026/07/07/trump-nato-turkey-russia-ukraine-spending.html",
+        "https://www.cnbc.com/2026/07/06/microsoft-cuts-2point1percent-of-employees-as-xbox-unit-plans-to-spin-studios.html",
+        "https://www.cnbc.com/2026/07/06/alibaba-anthropic-ai-ban-claude-china.html",
+        "https://finance.yahoo.com/technology/articles/mark-zuckerberg-doubles-down-raw-183002829.html",
+        "https://finance.yahoo.com/markets/articles/tech-rotation-fomc-other-key-170002288.html"
+      ],
+      "url": "finance/archive/2026-07-07.html"
     }
   ]
 }
