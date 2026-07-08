@@ -588,6 +588,25 @@
         "https://36kr.com/newsflashes/3886211898617862?f=rss"
       ],
       "url": "tech/archive/2026-07-08.html"
+    },
+    {
+      "date": "2026-07-08",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/MadsLorentzen/ai-job-search",
+        "https://github.com/TencentCloud/CubeSandbox",
+        "https://github.com/iOfficeAI/OfficeCLI",
+        "https://streetcomplete.app/",
+        "https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html",
+        "https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/",
+        "https://huggingface.co/papers/2607.04033",
+        "https://huggingface.co/papers/2607.05373",
+        "https://sspai.com/prime/story/home-made-beverages-2",
+        "https://sspai.com/post/112017",
+        "https://36kr.com/newsflashes/3886213073629189?f=rss"
+      ],
+      "url": "tech/archive/2026-07-08.html"
     }
   ]
 }
