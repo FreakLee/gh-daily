@@ -607,6 +607,26 @@
         "https://36kr.com/newsflashes/3886213073629189?f=rss"
       ],
       "url": "tech/archive/2026-07-08.html"
+    },
+    {
+      "date": "2026-07-08",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/MadsLorentzen/ai-job-search",
+        "https://github.com/TencentCloud/CubeSandbox",
+        "https://github.com/bradautomates/claude-video",
+        "https://streetcomplete.app/",
+        "https://fightchatcontrol.eu/chat-control-overview",
+        "https://www.youtube.com/watch?v=3R0Lp86GEBk",
+        "https://huggingface.co/papers/2607.06291",
+        "https://huggingface.co/papers/2607.03973",
+        "https://arxiv.org/abs/2607.06565v1",
+        "https://sspai.com/post/112049",
+        "https://sspai.com/prime/story/home-made-beverages-2",
+        "https://36kr.com/newsflashes/3886454881612039?f=rss"
+      ],
+      "url": "tech/archive/2026-07-08.html"
     }
   ]
 }
