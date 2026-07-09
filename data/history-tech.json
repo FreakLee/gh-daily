@@ -647,6 +647,26 @@
         "https://36kr.com/newsflashes/3887639578868226?f=rss"
       ],
       "url": "tech/archive/2026-07-09.html"
+    },
+    {
+      "date": "2026-07-09",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/obra/superpowers",
+        "https://github.com/Diolinux/PhotoGIMP",
+        "https://github.com/mvanhorn/last30days-skill",
+        "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+        "https://www.hmans.dev/blog/chatto-is-open-source",
+        "https://openai.com/index/introducing-gpt-live/",
+        "https://huggingface.co/papers/2607.02980",
+        "https://huggingface.co/papers/2607.06560",
+        "https://arxiv.org/abs/2607.06546v1",
+        "https://sspai.com/post/111923",
+        "https://sspai.com/post/112044",
+        "https://36kr.com/newsflashes/3887640971213573?f=rss"
+      ],
+      "url": "tech/archive/2026-07-09.html"
     }
   ]
 }
