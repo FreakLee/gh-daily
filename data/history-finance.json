@@ -587,6 +587,24 @@
         "https://finance.yahoo.com/research/reports/ARGUS_47549_MarketUpdate_1783532732000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
       ],
       "url": "finance/archive/2026-07-09.html"
+    },
+    {
+      "date": "2026-07-09",
+      "category": "finance",
+      "mode": "daily",
+      "items": [
+        "https://wallstreetcn.com/articles/3776518",
+        "https://wallstreetcn.com/articles/3776523",
+        "https://wallstreetcn.com/articles/3776524",
+        "https://wallstreetcn.com/articles/3776520",
+        "https://www.cnbc.com/2026/07/08/trump-e-jean-carroll-supreme-court-sex-abuse.html",
+        "https://www.cnbc.com/2026/07/08/world-cup-drives-google-search-to-record-queries-per-second.html",
+        "https://www.cnbc.com/2026/07/08/trump-iran-nato-summit-war-hormuz-strait.html",
+        "https://finance.yahoo.com/economy/articles/bank-america-warns-america-now-202300727.html",
+        "https://finance.yahoo.com/markets/options/articles/unusual-put-option-activity-johnson-173053189.html",
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260708a.htm"
+      ],
+      "url": "finance/archive/2026-07-09.html"
     }
   ]
 }
