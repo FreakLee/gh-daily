@@ -687,6 +687,26 @@
         "https://36kr.com/newsflashes/3887898638809860?f=rss"
       ],
       "url": "tech/archive/2026-07-09.html"
+    },
+    {
+      "date": "2026-07-10",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/VoltAgent/awesome-design-md",
+        "https://github.com/kyutai-labs/pocket-tts",
+        "https://github.com/vxcontrol/pentagi",
+        "https://openai.com/index/gpt-5-6/",
+        "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+        "https://18words.com/",
+        "https://huggingface.co/papers/2607.07708",
+        "https://huggingface.co/papers/2607.07608",
+        "https://arxiv.org/abs/2607.07707v1",
+        "https://sspai.com/post/112011",
+        "https://sspai.com/post/112083",
+        "https://36kr.com/newsflashes/3889070527134216?f=rss"
+      ],
+      "url": "tech/archive/2026-07-10.html"
     }
   ]
 }
