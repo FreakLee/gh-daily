@@ -787,6 +787,26 @@
         "https://36kr.com/newsflashes/3889827679402752?f=rss"
       ],
       "url": "tech/archive/2026-07-11.html"
+    },
+    {
+      "date": "2026-07-11",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+        "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+        "https://github.com/oven-sh/bun",
+        "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+        "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
+        "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
+        "https://huggingface.co/papers/2603.29616",
+        "https://huggingface.co/papers/2601.16211",
+        "https://arxiv.org/abs/2607.08763v1",
+        "https://sspai.com/post/112169",
+        "https://sspai.com/post/112097",
+        "https://36kr.com/newsflashes/3889827679402752?f=rss"
+      ],
+      "url": "tech/archive/2026-07-11.html"
     }
   ]
 }
