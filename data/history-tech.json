@@ -807,6 +807,25 @@
         "https://36kr.com/newsflashes/3889827679402752?f=rss"
       ],
       "url": "tech/archive/2026-07-11.html"
+    },
+    {
+      "date": "2026-07-12",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/malisper/pgrust",
+        "https://github.com/anthropics/claude-cookbooks",
+        "https://github.com/catchorg/Catch2",
+        "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
+        "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+        "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+        "https://huggingface.co/papers/2607.08758",
+        "https://huggingface.co/papers/2607.08770",
+        "https://arxiv.org/abs/2607.08757v1",
+        "https://sspai.com/post/68024",
+        "https://36kr.com/newsflashes/3891162734689031?f=rss"
+      ],
+      "url": "tech/archive/2026-07-12.html"
     }
   ]
 }
