@@ -846,6 +846,26 @@
         "https://36kr.com/newsflashes/3893306988296963?f=rss"
       ],
       "url": "tech/archive/2026-07-13.html"
+    },
+    {
+      "date": "2026-07-13",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/HKUDS/Vibe-Trading",
+        "https://github.com/k1tbyte/Wand-Enhancer",
+        "https://github.com/Dicklesworthstone/destructive_command_guard",
+        "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+        "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+        "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+        "https://huggingface.co/papers/2607.08768",
+        "https://huggingface.co/papers/2607.08765",
+        "https://arxiv.org/abs/2607.08758v1",
+        "https://sspai.com/post/112215",
+        "https://sspai.com/post/112035",
+        "https://36kr.com/newsflashes/3893307552807425?f=rss"
+      ],
+      "url": "tech/archive/2026-07-13.html"
     }
   ]
 }
