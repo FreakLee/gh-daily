@@ -886,6 +886,23 @@
         "https://36kr.com/newsflashes/3893534570822400?f=rss"
       ],
       "url": "tech/archive/2026-07-13.html"
+    },
+    {
+      "date": "2026-07-14",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/hasaneyldrm/exercises-dataset",
+        "https://github.com/coreyhaines31/marketingskills",
+        "https://github.com/OpenCut-app/OpenCut",
+        "https://huggingface.co/papers/2607.08964",
+        "https://huggingface.co/papers/2607.09657",
+        "https://arxiv.org/abs/2607.09654v1",
+        "https://sspai.com/post/112229",
+        "https://sspai.com/prime/story/inside-release-notes-260713",
+        "https://36kr.com/newsflashes/3894710038871041?f=rss"
+      ],
+      "url": "tech/archive/2026-07-14.html"
     }
   ]
 }
