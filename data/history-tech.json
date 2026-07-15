@@ -981,6 +981,26 @@
         "https://36kr.com/newsflashes/3896147406636928?f=rss"
       ],
       "url": "tech/archive/2026-07-15.html"
+    },
+    {
+      "date": "2026-07-15",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/mattpocock/skills",
+        "https://github.com/Graphify-Labs/graphify",
+        "https://github.com/Shubhamsaboo/awesome-llm-apps",
+        "https://prismml.com/news/bonsai-27b",
+        "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+        "https://www.artfish.ai/p/offloading-thinking-to-ai",
+        "https://huggingface.co/papers/2607.05394",
+        "https://huggingface.co/papers/2607.10383",
+        "https://arxiv.org/abs/2607.13034v1",
+        "https://sspai.com/post/112334",
+        "https://sspai.com/post/112320",
+        "https://36kr.com/newsflashes/3896356363814530?f=rss"
+      ],
+      "url": "tech/archive/2026-07-15.html"
     }
   ]
 }
