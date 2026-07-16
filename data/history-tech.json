@@ -1020,6 +1020,26 @@
         "https://36kr.com/newsflashes/3897558150219401?f=rss"
       ],
       "url": "tech/archive/2026-07-16.html"
+    },
+    {
+      "date": "2026-07-16",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/Nutlope/hallmark",
+        "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+        "https://github.com/moeru-ai/airi",
+        "https://thinkingmachines.ai/news/introducing-inkling/",
+        "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
+        "https://github.com/xai-org/grok-build",
+        "https://huggingface.co/papers/2607.10400",
+        "https://huggingface.co/papers/2607.11886",
+        "https://arxiv.org/abs/2607.14086v1",
+        "https://sspai.com/post/112373",
+        "https://sspai.com/post/112077",
+        "https://36kr.com/newsflashes/3897768944355204?f=rss"
+      ],
+      "url": "tech/archive/2026-07-16.html"
     }
   ]
 }
