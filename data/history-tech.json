@@ -1040,6 +1040,26 @@
         "https://36kr.com/newsflashes/3897768944355204?f=rss"
       ],
       "url": "tech/archive/2026-07-16.html"
+    },
+    {
+      "date": "2026-07-17",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/HKUDS/DeepTutor",
+        "https://github.com/codecrafters-io/build-your-own-x",
+        "https://github.com/openinterpreter/openinterpreter",
+        "https://www.kimi.com/blog/kimi-k3",
+        "https://community.oneplus.com/thread/2170715118587871237",
+        "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
+        "https://huggingface.co/papers/2607.13285",
+        "https://huggingface.co/papers/2607.13125",
+        "https://arxiv.org/abs/2607.14081v1",
+        "https://sspai.com/post/112400",
+        "https://sspai.com/post/112386",
+        "https://36kr.com/newsflashes/3898966997714565?f=rss"
+      ],
+      "url": "tech/archive/2026-07-17.html"
     }
   ]
 }
