@@ -1080,6 +1080,26 @@
         "https://36kr.com/newsflashes/3899182670497414?f=rss"
       ],
       "url": "tech/archive/2026-07-17.html"
+    },
+    {
+      "date": "2026-07-18",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/PostHog/posthog",
+        "https://github.com/RyanCodrai/turbovec",
+        "https://github.com/PrismML-Eng/Bonsai-demo",
+        "https://news.ycombinator.com/item?id=48945241",
+        "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
+        "https://stateofopensource.ai/",
+        "https://huggingface.co/papers/2607.14935",
+        "https://huggingface.co/papers/2607.14777",
+        "https://arxiv.org/abs/2607.15275v1",
+        "https://sspai.com/post/112444",
+        "https://sspai.com/post/112430",
+        "https://36kr.com/newsflashes/3899755294312329?f=rss"
+      ],
+      "url": "tech/archive/2026-07-18.html"
     }
   ]
 }
