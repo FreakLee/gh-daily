@@ -1100,6 +1100,25 @@
         "https://36kr.com/newsflashes/3899755294312329?f=rss"
       ],
       "url": "tech/archive/2026-07-18.html"
+    },
+    {
+      "date": "2026-07-19",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/Robbyant/lingbot-map",
+        "https://github.com/ibelick/ui-skills",
+        "https://github.com/tirth8205/code-review-graph",
+        "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
+        "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+        "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
+        "https://huggingface.co/papers/2607.14952",
+        "https://huggingface.co/papers/2607.15257",
+        "https://arxiv.org/abs/2607.15273v1",
+        "https://sspai.com/post/112398",
+        "https://36kr.com/newsflashes/3900908700436103?f=rss"
+      ],
+      "url": "tech/archive/2026-07-19.html"
     }
   ]
 }
