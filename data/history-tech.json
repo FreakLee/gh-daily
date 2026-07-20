@@ -1119,6 +1119,25 @@
         "https://36kr.com/newsflashes/3900908700436103?f=rss"
       ],
       "url": "tech/archive/2026-07-19.html"
+    },
+    {
+      "date": "2026-07-20",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/jamiepine/voicebox",
+        "https://github.com/bojieli/ai-agent-book",
+        "https://github.com/Flowseal/zapret-discord-youtube",
+        "https://news.ycombinator.com/item?id=48968606",
+        "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+        "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+        "https://huggingface.co/papers/2607.15207",
+        "https://huggingface.co/papers/2607.14202",
+        "https://arxiv.org/abs/2607.15272v1",
+        "https://sspai.com/post/112374",
+        "https://36kr.com/newsflashes/3903227747927682?f=rss"
+      ],
+      "url": "tech/archive/2026-07-20.html"
     }
   ]
 }

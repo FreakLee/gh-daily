@@ -990,6 +990,23 @@
         "https://finance.yahoo.com/markets/stocks/articles/trump-media-sell-wall-street-172000415.html"
       ],
       "url": "finance/archive/2026-07-19.html"
+    },
+    {
+      "date": "2026-07-20",
+      "category": "finance",
+      "mode": "daily",
+      "items": [
+        "https://wallstreetcn.com/articles/3777272",
+        "https://wallstreetcn.com/articles/3777368",
+        "https://wallstreetcn.com/articles/3777171",
+        "https://wallstreetcn.com/articles/3777361",
+        "https://www.cnbc.com/2026/07/19/earnings-playbook-alphabet-tesla-headline-this-weeks-big-reports.html",
+        "https://www.cnbc.com/2026/07/20/tsmc-arizona-fab-capacity-ai-chip-demand.html",
+        "https://www.cnbc.com/2026/07/19/us-says-it-targeted-iran-forces-after-deaths-of-two-american-troops.html",
+        "https://finance.yahoo.com/markets/stocks/articles/elon-musks-spacex-lost-1t-150000833.html",
+        "https://finance.yahoo.com/technology/ai/articles/openai-hardware-pivot-sends-blunt-131502059.html"
+      ],
+      "url": "finance/archive/2026-07-20.html"
     }
   ]
 }
