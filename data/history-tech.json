@@ -1158,6 +1158,26 @@
         "https://36kr.com/newsflashes/3903461149656964?f=rss"
       ],
       "url": "tech/archive/2026-07-20.html"
+    },
+    {
+      "date": "2026-07-21",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/diegosouzapw/OmniRoute",
+        "https://github.com/msitarzewski/agency-agents",
+        "https://github.com/every-app/open-seo",
+        "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+        "https://airport.apunen.com/",
+        "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
+        "https://huggingface.co/papers/2606.29538",
+        "https://huggingface.co/papers/2607.11683",
+        "https://arxiv.org/abs/2607.16183v1",
+        "https://sspai.com/post/112543",
+        "https://sspai.com/post/112453",
+        "https://36kr.com/newsflashes/3904625391371905?f=rss"
+      ],
+      "url": "tech/archive/2026-07-21.html"
     }
   ]
 }
