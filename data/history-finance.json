@@ -1041,6 +1041,23 @@
         "https://finance.yahoo.com/markets/stocks/articles/microsoft-cut-4-800-jobs-130000440.html"
       ],
       "url": "finance/archive/2026-07-21.html"
+    },
+    {
+      "date": "2026-07-21",
+      "category": "finance",
+      "mode": "daily",
+      "items": [
+        "https://wallstreetcn.com/articles/3777518",
+        "https://wallstreetcn.com/articles/3777521",
+        "https://wallstreetcn.com/articles/3777519",
+        "https://wallstreetcn.com/articles/3777520",
+        "https://www.cnbc.com/2026/07/21/strait-of-hormuz-traffic-renewed-us-iran-conflict-chokes-hormuz.html",
+        "https://www.cnbc.com/2026/07/20/trump-tariffs-canada-trade.html",
+        "https://www.cnbc.com/2026/07/20/trump-netanyahu-arrest-mamdani-new-york-israel.html",
+        "https://finance.yahoo.com/technology/ai/articles/jensen-huangs-staggering-4-trillion-210300335.html",
+        "https://finance.yahoo.com/markets/stocks/articles/trump-media-djt-climbs-paid-224604918.html"
+      ],
+      "url": "finance/archive/2026-07-21.html"
     }
   ]
 }
