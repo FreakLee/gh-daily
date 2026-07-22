@@ -1092,6 +1092,23 @@
         "https://finance.yahoo.com/research/reports/ARGUS_2999_AnalystReport_1784654558000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
       ],
       "url": "finance/archive/2026-07-22.html"
+    },
+    {
+      "date": "2026-07-22",
+      "category": "finance",
+      "mode": "daily",
+      "items": [
+        "https://wallstreetcn.com/articles/3777631",
+        "https://wallstreetcn.com/articles/3777627",
+        "https://wallstreetcn.com/articles/3777616",
+        "https://wallstreetcn.com/articles/3777617",
+        "https://www.cnbc.com/2026/07/22/trump-generic-drugs-tariffs-medicine-trade-.html",
+        "https://www.cnbc.com/2026/07/21/fed-mythos-ai-cybersecurity-banks-project-glasswing.html",
+        "https://www.cnbc.com/2026/07/21/openai-appoints-two-new-members-to-board-of-directors.html",
+        "https://finance.yahoo.com/research/reports/ARGUS_2999_AnalystReport_1784654558000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+        "https://finance.yahoo.com/research/reports/ARGUS_4213_AnalystReport_1784654558000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
+      ],
+      "url": "finance/archive/2026-07-22.html"
     }
   ]
 }
