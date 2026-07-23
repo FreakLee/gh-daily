@@ -1275,6 +1275,26 @@
         "https://36kr.com/newsflashes/3907472025589126?f=rss"
       ],
       "url": "tech/archive/2026-07-23.html"
+    },
+    {
+      "date": "2026-07-23",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/ruvnet/RuView",
+        "https://github.com/rohitg00/ai-engineering-from-scratch",
+        "https://github.com/schollz/croc",
+        "https://bento.page/slides/",
+        "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+        "https://twitter.com/na_announce/status/2079952538040672302",
+        "https://huggingface.co/papers/2607.19191",
+        "https://huggingface.co/papers/2607.16617",
+        "https://arxiv.org/abs/2607.20411v1",
+        "https://sspai.com/post/112647",
+        "https://sspai.com/post/112545",
+        "https://36kr.com/newsflashes/3907689610171776?f=rss"
+      ],
+      "url": "tech/archive/2026-07-23.html"
     }
   ]
 }

@@ -1126,6 +1126,23 @@
         "https://finance.yahoo.com/research/reports/ARGUS_3461_AnalystReport_1784742960000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
       ],
       "url": "finance/archive/2026-07-23.html"
+    },
+    {
+      "date": "2026-07-23",
+      "category": "finance",
+      "mode": "daily",
+      "items": [
+        "https://wallstreetcn.com/articles/3777745",
+        "https://wallstreetcn.com/articles/3777732",
+        "https://wallstreetcn.com/articles/3777723",
+        "https://wallstreetcn.com/articles/3777724",
+        "https://www.cnbc.com/2026/07/22/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
+        "https://www.cnbc.com/2026/07/23/oil-prices-today-wti-brent-trump-iran-hormuz.html",
+        "https://www.cnbc.com/2026/07/22/why-were-sticking-with-alphabet-despite-an-imperfect-quarter-and-more-ai-spending.html",
+        "https://finance.yahoo.com/markets/crypto/articles/popular-crypto-firm-files-chapter-213833642.html",
+        "https://finance.yahoo.com/markets/stocks/articles/spacex-earnings-calendar-very-convenient-164344670.html"
+      ],
+      "url": "finance/archive/2026-07-23.html"
     }
   ]
 }
