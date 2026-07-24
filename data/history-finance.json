@@ -1143,6 +1143,23 @@
         "https://finance.yahoo.com/markets/stocks/articles/spacex-earnings-calendar-very-convenient-164344670.html"
       ],
       "url": "finance/archive/2026-07-23.html"
+    },
+    {
+      "date": "2026-07-24",
+      "category": "finance",
+      "mode": "daily",
+      "items": [
+        "https://wallstreetcn.com/articles/3777823",
+        "https://wallstreetcn.com/articles/3777754",
+        "https://wallstreetcn.com/articles/3777821",
+        "https://wallstreetcn.com/articles/3777815",
+        "https://www.cnbc.com/2026/07/23/fridays-big-stock-stories-whats-likely-to-move-the-market.html",
+        "https://www.cnbc.com/2026/07/23/trump-tariffs-trade-deadline.html",
+        "https://www.cnbc.com/2026/07/23/doj-subpoenas-new-york-times-trump-plane.html",
+        "https://finance.yahoo.com/technology/ai/articles/amd-invest-5-billion-anthropic-123753765.html",
+        "https://finance.yahoo.com/markets/stocks/articles/giverny-capital-asset-management-trimmed-123601192.html"
+      ],
+      "url": "finance/archive/2026-07-24.html"
     }
   ]
 }
