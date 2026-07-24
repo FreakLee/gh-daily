@@ -1315,6 +1315,26 @@
         "https://36kr.com/newsflashes/3908880625145220?f=rss"
       ],
       "url": "tech/archive/2026-07-24.html"
+    },
+    {
+      "date": "2026-07-24",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/block/buzz",
+        "https://github.com/earthtojake/text-to-cad",
+        "https://github.com/ComposioHQ/awesome-claude-skills",
+        "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+        "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+        "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
+        "https://huggingface.co/papers/2607.20145",
+        "https://huggingface.co/papers/2607.21461",
+        "https://arxiv.org/abs/2607.21595v1",
+        "https://sspai.com/post/112677",
+        "https://sspai.com/post/112668",
+        "https://36kr.com/newsflashes/3909095652480130?f=rss"
+      ],
+      "url": "tech/archive/2026-07-24.html"
     }
   ]
 }
