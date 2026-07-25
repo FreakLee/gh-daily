@@ -1335,6 +1335,26 @@
         "https://36kr.com/newsflashes/3909095652480130?f=rss"
       ],
       "url": "tech/archive/2026-07-24.html"
+    },
+    {
+      "date": "2026-07-25",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/mattpocock/skills",
+        "https://github.com/CoreBunch/Instatic",
+        "https://github.com/citrolabs/ego-lite",
+        "https://www.anthropic.com/news/claude-opus-5",
+        "https://hhh.hn/hanwha-github-token/",
+        "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
+        "https://huggingface.co/papers/2607.20061",
+        "https://huggingface.co/papers/2605.09635",
+        "https://arxiv.org/abs/2607.21585v1",
+        "https://sspai.com/post/112692",
+        "https://sspai.com/post/112232",
+        "https://36kr.com/newsflashes/3909642046412167?f=rss"
+      ],
+      "url": "tech/archive/2026-07-25.html"
     }
   ]
 }
