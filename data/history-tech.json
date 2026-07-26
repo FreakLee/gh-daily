@@ -1355,6 +1355,24 @@
         "https://36kr.com/newsflashes/3909642046412167?f=rss"
       ],
       "url": "tech/archive/2026-07-25.html"
+    },
+    {
+      "date": "2026-07-26",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/obra/superpowers",
+        "https://github.com/affaan-m/ECC",
+        "https://github.com/palmier-io/palmier-pro",
+        "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
+        "https://anatolyzenkov.com/stolen-buttons",
+        "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+        "https://huggingface.co/papers/2607.21556",
+        "https://huggingface.co/papers/2607.21072",
+        "https://sspai.com/post/112093",
+        "https://36kr.com/p/3910880823202948?f=rss"
+      ],
+      "url": "tech/archive/2026-07-26.html"
     }
   ]
 }
