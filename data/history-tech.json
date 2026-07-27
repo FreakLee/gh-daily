@@ -1393,6 +1393,25 @@
         "https://36kr.com/newsflashes/3913119192323205?f=rss"
       ],
       "url": "tech/archive/2026-07-27.html"
+    },
+    {
+      "date": "2026-07-27",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/permissionlesstech/bitchat",
+        "https://github.com/pingdotgg/t3code",
+        "https://github.com/alibaba/open-code-review",
+        "https://killthecookiebanner.eu/",
+        "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
+        "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+        "https://huggingface.co/papers/2607.21553",
+        "https://huggingface.co/papers/2607.20709",
+        "https://sspai.com/post/112705",
+        "https://sspai.com/post/112769",
+        "https://36kr.com/newsflashes/3913367161804168?f=rss"
+      ],
+      "url": "tech/archive/2026-07-27.html"
     }
   ]
 }
