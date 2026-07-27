@@ -1211,6 +1211,23 @@
         "https://www.investors.com/news/stock-market-nasdaq-skids-oil-prices-jump-google-tesla-plunge/?src=A00220&yptr=yahoo"
       ],
       "url": "finance/archive/2026-07-26.html"
+    },
+    {
+      "date": "2026-07-27",
+      "category": "finance",
+      "mode": "daily",
+      "items": [
+        "https://wallstreetcn.com/articles/3777973",
+        "https://wallstreetcn.com/articles/3777917",
+        "https://wallstreetcn.com/articles/3777962",
+        "https://wallstreetcn.com/articles/3777937",
+        "https://www.cnbc.com/2026/07/26/new-uk-prime-minister-burnham-says-he-would-be-prepared-to-call-out-trump.html",
+        "https://www.cnbc.com/2026/07/26/election-midterms-dccc-chair-delbene-democrats.html",
+        "https://www.cnbc.com/2026/07/27/oil-price-wti-brent-slide-as-iran-reportedly-may-halt-attacks.html",
+        "https://finance.yahoo.com/technology/ai/articles/2-stocks-buy-now-google-133002218.html",
+        "https://finance.yahoo.com/markets/stocks/articles/2-neocloud-stocks-buy-now-131501165.html"
+      ],
+      "url": "finance/archive/2026-07-27.html"
     }
   ]
 }

@@ -1373,6 +1373,26 @@
         "https://36kr.com/p/3910880823202948?f=rss"
       ],
       "url": "tech/archive/2026-07-26.html"
+    },
+    {
+      "date": "2026-07-27",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/permissionlesstech/bitchat",
+        "https://github.com/pingdotgg/t3code",
+        "https://github.com/alibaba/open-code-review",
+        "https://killthecookiebanner.eu/",
+        "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
+        "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
+        "https://huggingface.co/papers/2607.21553",
+        "https://huggingface.co/papers/2607.20709",
+        "https://arxiv.org/abs/2607.21580v1",
+        "https://sspai.com/post/112769",
+        "https://sspai.com/post/112421",
+        "https://36kr.com/newsflashes/3913119192323205?f=rss"
+      ],
+      "url": "tech/archive/2026-07-27.html"
     }
   ]
 }
