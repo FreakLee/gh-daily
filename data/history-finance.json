@@ -1245,6 +1245,23 @@
         "https://finance.yahoo.com/markets/stocks/articles/80-stores-close-63-old-150700367.html"
       ],
       "url": "finance/archive/2026-07-27.html"
+    },
+    {
+      "date": "2026-07-28",
+      "category": "finance",
+      "mode": "daily",
+      "items": [
+        "https://wallstreetcn.com/articles/3778072",
+        "https://wallstreetcn.com/articles/3777993",
+        "https://wallstreetcn.com/articles/3778073",
+        "https://wallstreetcn.com/articles/3778064",
+        "https://www.cnbc.com/2026/07/27/stock-market-today-live-updates.html",
+        "https://www.cnbc.com/2026/07/27/anthropic-ceo-dario-amodei-isnt-advocating-open-weight-model-ban.html",
+        "https://www.cnbc.com/2026/07/27/trump-supreme-court-mail-in-voting-restrictions.html",
+        "https://finance.yahoo.com/technology/ai/articles/google-spent-490-million-day-163000234.html",
+        "https://finance.yahoo.com/technology/ai/articles/elon-musk-just-revealed-quiet-150002342.html"
+      ],
+      "url": "finance/archive/2026-07-28.html"
     }
   ]
 }
