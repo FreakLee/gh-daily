@@ -1452,6 +1452,25 @@
         "https://36kr.com/newsflashes/3914758594909569?f=rss"
       ],
       "url": "tech/archive/2026-07-28.html"
+    },
+    {
+      "date": "2026-07-29",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/moeru-ai/airi",
+        "https://github.com/opengeos/GeoLibre",
+        "https://github.com/yorukot/superfile",
+        "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
+        "https://taxa.substack.com/p/how-to-survive-boiling-water",
+        "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
+        "https://huggingface.co/papers/2607.24653",
+        "https://huggingface.co/papers/2607.23588",
+        "https://sspai.com/post/112820",
+        "https://sspai.com/post/112822",
+        "https://36kr.com/newsflashes/3915958682463881?f=rss"
+      ],
+      "url": "tech/archive/2026-07-29.html"
     }
   ]
 }
