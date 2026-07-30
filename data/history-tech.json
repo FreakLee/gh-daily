@@ -1511,6 +1511,26 @@
         "https://36kr.com/newsflashes/3917370654502531?f=rss"
       ],
       "url": "tech/archive/2026-07-30.html"
+    },
+    {
+      "date": "2026-07-30",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/1jehuang/jcode",
+        "https://github.com/virgiliojr94/book-to-skill",
+        "https://github.com/pascalorg/editor",
+        "https://github.com/drumih/turbo-fieldfare",
+        "https://www.superlogical.com/",
+        "https://christianselig.com/2026/07/vision-pro-house/",
+        "https://huggingface.co/papers/2607.25431",
+        "https://huggingface.co/papers/2607.25565",
+        "https://arxiv.org/abs/2607.27203v1",
+        "https://sspai.com/post/112881",
+        "https://sspai.com/post/112787",
+        "https://36kr.com/newsflashes/3917583820533127?f=rss"
+      ],
+      "url": "tech/archive/2026-07-30.html"
     }
   ]
 }
