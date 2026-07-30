@@ -1313,6 +1313,24 @@
         "https://finance.yahoo.com/markets/stocks/articles/cracker-barrel-ceo-departs-trump-160716516.html"
       ],
       "url": "finance/archive/2026-07-29.html"
+    },
+    {
+      "date": "2026-07-30",
+      "category": "finance",
+      "mode": "daily",
+      "items": [
+        "https://wallstreetcn.com/articles/3778273",
+        "https://wallstreetcn.com/articles/3778266",
+        "https://wallstreetcn.com/articles/3778264",
+        "https://wallstreetcn.com/articles/3778263",
+        "https://www.cnbc.com/2026/07/29/microsoft-msft-q4-earnings-report-2026.html",
+        "https://www.cnbc.com/2026/07/29/fed-meeting-interest-rates-warsh-stocks-bonds.html",
+        "https://www.cnbc.com/2026/07/29/openai-cfo-sarah-friar-tells-employees-arr-in-july-topped-all-of-q2.html",
+        "https://finance.yahoo.com/economy/policy/articles/secretary-bessent-cracks-down-non-160600716.html",
+        "https://finance.yahoo.com/small-business/articles/giant-wine-spirits-brand-files-170700174.html",
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm"
+      ],
+      "url": "finance/archive/2026-07-30.html"
     }
   ]
 }
