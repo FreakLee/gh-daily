@@ -1570,6 +1570,26 @@
         "https://36kr.com/newsflashes/3919008618851715?f=rss"
       ],
       "url": "tech/archive/2026-07-31.html"
+    },
+    {
+      "date": "2026-08-01",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/different-ai/openwork",
+        "https://github.com/deepfakes/faceswap",
+        "https://github.com/paperswithbacktest/awesome-systematic-trading",
+        "https://john.fun/elevators",
+        "https://artificialanalysis.ai/models/deepseek-v4-flash",
+        "https://github.com/yc-software/qm",
+        "https://huggingface.co/papers/2607.28618",
+        "https://huggingface.co/papers/2607.28227",
+        "https://arxiv.org/abs/2607.28627v1",
+        "https://sspai.com/post/112962",
+        "https://sspai.com/post/112961",
+        "https://36kr.com/p/3919386961177985?f=rss"
+      ],
+      "url": "tech/archive/2026-08-01.html"
     }
   ]
 }
