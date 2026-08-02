@@ -1590,6 +1590,25 @@
         "https://36kr.com/p/3919386961177985?f=rss"
       ],
       "url": "tech/archive/2026-08-01.html"
+    },
+    {
+      "date": "2026-08-02",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/bytedance/deer-flow",
+        "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+        "https://github.com/zhaoxuya520/reverse-skill",
+        "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
+        "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
+        "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/",
+        "https://huggingface.co/papers/2607.28568",
+        "https://huggingface.co/papers/2607.27919",
+        "https://arxiv.org/abs/2607.28623v1",
+        "https://sspai.com/post/112701",
+        "https://36kr.com/newsflashes/3920632482491776?f=rss"
+      ],
+      "url": "tech/archive/2026-08-02.html"
     }
   ]
 }
