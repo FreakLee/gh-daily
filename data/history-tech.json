@@ -1609,6 +1609,26 @@
         "https://36kr.com/newsflashes/3920632482491776?f=rss"
       ],
       "url": "tech/archive/2026-08-02.html"
+    },
+    {
+      "date": "2026-08-02",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/codecrafters-io/build-your-own-x",
+        "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+        "https://github.com/zhaoxuya520/reverse-skill",
+        "https://diataxis.fr/",
+        "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+        "https://victoriametrics.com/blog/go-1-27/index.html",
+        "https://huggingface.co/papers/2607.28568",
+        "https://huggingface.co/papers/2607.27919",
+        "https://arxiv.org/abs/2607.28623v1",
+        "https://sspai.com/post/112843",
+        "https://sspai.com/post/112701",
+        "https://36kr.com/newsflashes/3922183036694147?f=rss"
+      ],
+      "url": "tech/archive/2026-08-02.html"
     }
   ]
 }
