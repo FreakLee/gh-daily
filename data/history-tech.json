@@ -1648,6 +1648,26 @@
         "https://36kr.com/p/3923043072634498?f=rss"
       ],
       "url": "tech/archive/2026-08-03.html"
+    },
+    {
+      "date": "2026-08-03",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/lyogavin/airllm",
+        "https://github.com/Panniantong/Agent-Reach",
+        "https://github.com/esengine/DeepSeek-Reasonix",
+        "https://twitter.com/karpathy/status/2083749667410727319",
+        "https://pudding.cool/2026/07/essential-words/",
+        "https://github.com/wie-project/kakehashi",
+        "https://huggingface.co/papers/2607.27616",
+        "https://huggingface.co/papers/2607.27816",
+        "https://arxiv.org/abs/2607.29678v1",
+        "https://sspai.com/post/112551",
+        "https://sspai.com/post/113014",
+        "https://36kr.com/newsflashes/3923267483905667?f=rss"
+      ],
+      "url": "tech/archive/2026-08-03.html"
     }
   ]
 }
