@@ -1687,6 +1687,26 @@
         "https://36kr.com/newsflashes/3924453548177796?f=rss"
       ],
       "url": "tech/archive/2026-08-04.html"
+    },
+    {
+      "date": "2026-08-04",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/jamiepine/voicebox",
+        "https://github.com/firecrawl/pdf-inspector",
+        "https://github.com/shiyu-coder/Kronos",
+        "https://www.seangoedecke.com/llms-reward-expertise/",
+        "https://blog.exe.dev/devtools-must-be-open-source",
+        "https://openai.com/index/ten-advances-in-mathematics/",
+        "https://huggingface.co/papers/2607.27201",
+        "https://huggingface.co/papers/2607.26246",
+        "https://arxiv.org/abs/2608.02602v1",
+        "https://sspai.com/post/113053",
+        "https://sspai.com/post/113040",
+        "https://36kr.com/newsflashes/3924659671644296?f=rss"
+      ],
+      "url": "tech/archive/2026-08-04.html"
     }
   ]
 }

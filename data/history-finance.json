@@ -1489,6 +1489,23 @@
         "https://finance.yahoo.com/research/reports/ARGUS_2942_AnalystReport_1785777310000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
       ],
       "url": "finance/archive/2026-08-04.html"
+    },
+    {
+      "date": "2026-08-04",
+      "category": "finance",
+      "mode": "daily",
+      "items": [
+        "https://wallstreetcn.com/articles/3778632",
+        "https://wallstreetcn.com/articles/3778629",
+        "https://wallstreetcn.com/articles/3778623",
+        "https://wallstreetcn.com/articles/3778624",
+        "https://www.cnbc.com/2026/08/03/bessent-fed-japan-yen-fima-repo-facility.html",
+        "https://www.cnbc.com/2026/08/03/big-techs-anthropic-and-openai-stakes-distort-corporate-earnings.html",
+        "https://www.cnbc.com/2026/08/03/trump-tariffs-25-states-lawsuit-supreme-court.html",
+        "https://finance.yahoo.com/markets/stocks/articles/3-reasons-microsoft-stock-soared-173002074.html",
+        "https://finance.yahoo.com/research/reports/ARGUS_2942_AnalystReport_1785777310000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
+      ],
+      "url": "finance/archive/2026-08-04.html"
     }
   ]
 }
