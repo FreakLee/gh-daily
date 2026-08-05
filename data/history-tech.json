@@ -1707,6 +1707,25 @@
         "https://36kr.com/newsflashes/3924659671644296?f=rss"
       ],
       "url": "tech/archive/2026-08-04.html"
+    },
+    {
+      "date": "2026-08-05",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/browser-use/video-use",
+        "https://github.com/obra/superpowers",
+        "https://github.com/microsoft/generative-ai-for-beginners",
+        "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
+        "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
+        "https://toneyalexander.github.io/inclusive-color-space/",
+        "https://huggingface.co/papers/2608.01964",
+        "https://huggingface.co/papers/2608.01735",
+        "https://sspai.com/post/74342",
+        "https://sspai.com/prime/story/home-made-beverages-3",
+        "https://36kr.com/newsflashes/3925866103798146?f=rss"
+      ],
+      "url": "tech/archive/2026-08-05.html"
     }
   ]
 }

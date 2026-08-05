@@ -1506,6 +1506,24 @@
         "https://finance.yahoo.com/research/reports/ARGUS_2942_AnalystReport_1785777310000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
       ],
       "url": "finance/archive/2026-08-04.html"
+    },
+    {
+      "date": "2026-08-05",
+      "category": "finance",
+      "mode": "daily",
+      "items": [
+        "https://wallstreetcn.com/articles/3778687",
+        "https://wallstreetcn.com/articles/3778698",
+        "https://wallstreetcn.com/articles/3778695",
+        "https://wallstreetcn.com/articles/3778638",
+        "https://www.cnbc.com/2026/08/04/todd-blanche-weaponization-fund-senate-confirmation.html",
+        "https://www.cnbc.com/2026/08/04/oil-rises-after-selloff-as-talks-to-end-us-iran-war-remain-uncertain.html",
+        "https://www.cnbc.com/2026/08/04/anthropic-names-global-affairs-chief-as-trump-tensions-persist.html",
+        "https://finance.yahoo.com/markets/crypto/articles/invested-1-000-gold-bitcoin-150000514.html",
+        "https://finance.yahoo.com/markets/stocks/articles/meta-stock-just-got-hammered-130944661.html",
+        "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804c.htm"
+      ],
+      "url": "finance/archive/2026-08-05.html"
     }
   ]
 }
