@@ -1726,6 +1726,26 @@
         "https://36kr.com/newsflashes/3925866103798146?f=rss"
       ],
       "url": "tech/archive/2026-08-05.html"
+    },
+    {
+      "date": "2026-08-05",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/browser-use/video-use",
+        "https://github.com/obra/superpowers",
+        "https://github.com/microsoft/generative-ai-for-beginners",
+        "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
+        "https://toneyalexander.github.io/inclusive-color-space/",
+        "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
+        "https://huggingface.co/papers/2608.03974",
+        "https://huggingface.co/papers/2608.02602",
+        "https://arxiv.org/abs/2608.04010v1",
+        "https://sspai.com/post/112891",
+        "https://sspai.com/post/113087",
+        "https://36kr.com/newsflashes/3926077838112896?f=rss"
+      ],
+      "url": "tech/archive/2026-08-05.html"
     }
   ]
 }
