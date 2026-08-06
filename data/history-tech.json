@@ -1746,6 +1746,25 @@
         "https://36kr.com/newsflashes/3926077838112896?f=rss"
       ],
       "url": "tech/archive/2026-08-05.html"
+    },
+    {
+      "date": "2026-08-06",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/addyosmani/agent-skills",
+        "https://github.com/roboflow/supervision",
+        "https://github.com/cloudflare/computer",
+        "https://www.discoveryloop.com/",
+        "https://blog.cloudflare.com/cloudflare-os/",
+        "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+        "https://huggingface.co/papers/2608.03979",
+        "https://huggingface.co/papers/2608.02738",
+        "https://sspai.com/post/112831",
+        "https://sspai.com/post/112953",
+        "https://36kr.com/newsflashes/3927290065729924?f=rss"
+      ],
+      "url": "tech/archive/2026-08-06.html"
     }
   ]
 }
