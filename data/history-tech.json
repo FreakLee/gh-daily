@@ -1804,6 +1804,25 @@
         "https://36kr.com/newsflashes/3928697978566792?f=rss"
       ],
       "url": "tech/archive/2026-08-07.html"
+    },
+    {
+      "date": "2026-08-07",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/mattpocock/skills",
+        "https://github.com/tirth8205/code-review-graph",
+        "https://github.com/huangruiteng/loopx",
+        "https://www.mayerowitz.io/blog/mario-meets-pareto",
+        "https://artificialanalysis.ai/?intelligence=agentic-index",
+        "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+        "https://huggingface.co/papers/2608.05102",
+        "https://huggingface.co/papers/2608.05987",
+        "https://sspai.com/post/113144",
+        "https://sspai.com/post/113162",
+        "https://36kr.com/newsflashes/3928885529033095?f=rss"
+      ],
+      "url": "tech/archive/2026-08-07.html"
     }
   ]
 }
