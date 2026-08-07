@@ -1785,6 +1785,25 @@
         "https://36kr.com/newsflashes/3927498831624580?f=rss"
       ],
       "url": "tech/archive/2026-08-06.html"
+    },
+    {
+      "date": "2026-08-07",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/mattpocock/skills",
+        "https://github.com/tirth8205/code-review-graph",
+        "https://github.com/huangruiteng/loopx",
+        "https://www.mayerowitz.io/blog/mario-meets-pareto",
+        "https://www.crimepaysbutbotanydoesnt.com/reading-list",
+        "https://phoboslab.org/log/2026/08/xibalba64-making-of",
+        "https://huggingface.co/papers/2608.05102",
+        "https://huggingface.co/papers/2608.05000",
+        "https://sspai.com/post/113139",
+        "https://sspai.com/post/112916",
+        "https://36kr.com/newsflashes/3928697978566792?f=rss"
+      ],
+      "url": "tech/archive/2026-08-07.html"
     }
   ]
 }
