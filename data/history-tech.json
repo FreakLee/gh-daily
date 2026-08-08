@@ -1862,6 +1862,26 @@
         "https://36kr.com/newsflashes/3930681265945987?f=rss"
       ],
       "url": "tech/archive/2026-08-08.html"
+    },
+    {
+      "date": "2026-08-08",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/PrimeIntellect-ai/prime-agent",
+        "https://github.com/goauthentik/authentik",
+        "https://github.com/TapXWorld/ChinaTextbook",
+        "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+        "https://arcprize.org/results/deepseek-v4-flash-0731",
+        "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+        "https://huggingface.co/papers/2607.28609",
+        "https://huggingface.co/papers/2608.01481",
+        "https://arxiv.org/abs/2608.06377v1",
+        "https://sspai.com/post/112901",
+        "https://sspai.com/post/113191",
+        "https://36kr.com/newsflashes/3930928095837315?f=rss"
+      ],
+      "url": "tech/archive/2026-08-08.html"
     }
   ]
 }
