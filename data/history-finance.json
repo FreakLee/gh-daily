@@ -1612,6 +1612,23 @@
         "https://finance.yahoo.com/economy/policy/articles/amazon-says-share-600-million-161500550.html"
       ],
       "url": "finance/archive/2026-08-07.html"
+    },
+    {
+      "date": "2026-08-08",
+      "category": "finance",
+      "mode": "daily",
+      "items": [
+        "https://wallstreetcn.com/articles/3778981",
+        "https://wallstreetcn.com/articles/3778980",
+        "https://wallstreetcn.com/articles/3778924",
+        "https://wallstreetcn.com/articles/3778977",
+        "https://www.cnbc.com/2026/08/07/trump-lisa-cook-federal-reserve.html",
+        "https://www.cnbc.com/2026/08/07/trump-white-house-ballroom-appeals-court.html",
+        "https://www.cnbc.com/2026/08/07/trump-iran-hormuz-deal-stocks-oil.html",
+        "https://finance.yahoo.com/technology/article/microsofts-ai-growth-has-won-back-investors-for-the-time-being-165202521.html",
+        "https://finance.yahoo.com/markets/crypto/articles/ondo-perps-hits-7-billion-215819332.html"
+      ],
+      "url": "finance/archive/2026-08-08.html"
     }
   ]
 }

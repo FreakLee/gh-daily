@@ -1823,6 +1823,25 @@
         "https://36kr.com/newsflashes/3928885529033095?f=rss"
       ],
       "url": "tech/archive/2026-08-07.html"
+    },
+    {
+      "date": "2026-08-08",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/PrimeIntellect-ai/prime-agent",
+        "https://github.com/chenyme/grok2api",
+        "https://github.com/denoland/celld",
+        "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
+        "https://arcprize.org/results/deepseek-v4-flash-0731",
+        "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+        "https://huggingface.co/papers/2607.28609",
+        "https://huggingface.co/papers/2608.01481",
+        "https://sspai.com/post/113191",
+        "https://sspai.com/post/113108",
+        "https://36kr.com/newsflashes/3929500119334016?f=rss"
+      ],
+      "url": "tech/archive/2026-08-08.html"
     }
   ]
 }
