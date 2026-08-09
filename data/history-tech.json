@@ -1882,6 +1882,23 @@
         "https://36kr.com/newsflashes/3930928095837315?f=rss"
       ],
       "url": "tech/archive/2026-08-08.html"
+    },
+    {
+      "date": "2026-08-09",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/TauricResearch/TradingAgents",
+        "https://github.com/google/skills",
+        "https://github.com/bannedbook/fanqiang",
+        "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
+        "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
+        "https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/",
+        "https://huggingface.co/papers/2608.05248",
+        "https://huggingface.co/papers/2608.05747",
+        "https://36kr.com/newsflashes/3930655950060672?f=rss"
+      ],
+      "url": "tech/archive/2026-08-09.html"
     }
   ]
 }
