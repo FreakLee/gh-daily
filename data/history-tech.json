@@ -1958,6 +1958,26 @@
         "https://36kr.com/newsflashes/3934369768209797?f=rss"
       ],
       "url": "tech/archive/2026-08-11.html"
+    },
+    {
+      "date": "2026-08-11",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/firecrawl/firecrawl",
+        "https://github.com/ruvnet/RuView",
+        "https://github.com/NanmiCoder/MediaCrawler",
+        "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+        "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+        "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392",
+        "https://huggingface.co/papers/2608.03573",
+        "https://huggingface.co/papers/2608.03571",
+        "https://arxiv.org/abs/2608.09779v1",
+        "https://sspai.com/post/113301",
+        "https://sspai.com/prime/story/direct-power-supply-mod",
+        "https://36kr.com/newsflashes/3934505219636610?f=rss"
+      ],
+      "url": "tech/archive/2026-08-11.html"
     }
   ]
 }
