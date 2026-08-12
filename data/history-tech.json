@@ -1997,6 +1997,26 @@
         "https://36kr.com/newsflashes/3935772955065478?f=rss"
       ],
       "url": "tech/archive/2026-08-12.html"
+    },
+    {
+      "date": "2026-08-12",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/stablyai/orca",
+        "https://github.com/calesthio/OpenMontage",
+        "https://github.com/HKUDS/DeepTutor",
+        "https://stolen-thoughts.com/",
+        "https://www.bbc.com/news/articles/c75gk620r22o",
+        "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
+        "https://huggingface.co/papers/2608.09888",
+        "https://huggingface.co/papers/2608.06296",
+        "https://arxiv.org/abs/2608.11204v1",
+        "https://sspai.com/post/113343",
+        "https://sspai.com/post/113304",
+        "https://36kr.com/newsflashes/3935935648267398?f=rss"
+      ],
+      "url": "tech/archive/2026-08-12.html"
     }
   ]
 }
