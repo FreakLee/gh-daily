@@ -1748,6 +1748,23 @@
         "https://finance.yahoo.com/personal-finance/banking/article/powerball-jackpot-climbs-to-905-million-what-youd-pocket-after-taxes-and-what-to-do-with-the-rest-154401967.html"
       ],
       "url": "finance/archive/2026-08-11.html"
+    },
+    {
+      "date": "2026-08-12",
+      "category": "finance",
+      "mode": "daily",
+      "items": [
+        "https://wallstreetcn.com/articles/3779224",
+        "https://wallstreetcn.com/articles/3779218",
+        "https://wallstreetcn.com/articles/3779161",
+        "https://wallstreetcn.com/articles/3779221",
+        "https://www.cnbc.com/2026/08/11/trump-medicaid-chip-funding-gender-affirming-care-children.html",
+        "https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html",
+        "https://www.cnbc.com/2026/08/11/longtime-openai-executive-brad-lightcap-leaves-as-shakeup-at-ai-lab-continues.html",
+        "https://finance.yahoo.com/technology/ai/articles/alphabet-googl-still-one-best-125527535.html",
+        "https://www.investors.com/news/technology/meta-stock-muse-glimmer-zuckerberg-ai/?src=A00220&yptr=yahoo"
+      ],
+      "url": "finance/archive/2026-08-12.html"
     }
   ]
 }

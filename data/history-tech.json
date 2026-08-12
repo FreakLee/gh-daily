@@ -1978,6 +1978,25 @@
         "https://36kr.com/newsflashes/3934505219636610?f=rss"
       ],
       "url": "tech/archive/2026-08-11.html"
+    },
+    {
+      "date": "2026-08-12",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/stablyai/orca",
+        "https://github.com/calesthio/OpenMontage",
+        "https://github.com/HKUDS/DeepTutor",
+        "https://www.bbc.com/news/articles/c75gk620r22o",
+        "https://stolen-thoughts.com/",
+        "https://stratechery.com/2026/nvidias-risky-business/",
+        "https://huggingface.co/papers/2608.09888",
+        "https://huggingface.co/papers/2608.09819",
+        "https://sspai.com/post/113304",
+        "https://sspai.com/post/112887",
+        "https://36kr.com/newsflashes/3935772955065478?f=rss"
+      ],
+      "url": "tech/archive/2026-08-12.html"
     }
   ]
 }
