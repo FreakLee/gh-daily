@@ -2017,6 +2017,26 @@
         "https://36kr.com/newsflashes/3935935648267398?f=rss"
       ],
       "url": "tech/archive/2026-08-12.html"
+    },
+    {
+      "date": "2026-08-13",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/cathrynlavery/diagram-design",
+        "https://github.com/shiyu-coder/Kronos",
+        "https://github.com/semantica-agi/semantica",
+        "https://tailscale.com/blog/sqlite-wal-reset-bug",
+        "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+        "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+        "https://huggingface.co/papers/2608.10915",
+        "https://huggingface.co/papers/2608.10299",
+        "https://arxiv.org/abs/2608.11200v1",
+        "https://sspai.com/post/113219",
+        "https://sspai.com/post/113352",
+        "https://36kr.com/newsflashes/3937189660327297?f=rss"
+      ],
+      "url": "tech/archive/2026-08-13.html"
     }
   ]
 }

@@ -1782,6 +1782,23 @@
         "https://finance.yahoo.com/research/reports/ARGUS_47878_TechnicalAnalysis_1786447618000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
       ],
       "url": "finance/archive/2026-08-12.html"
+    },
+    {
+      "date": "2026-08-13",
+      "category": "finance",
+      "mode": "daily",
+      "items": [
+        "https://wallstreetcn.com/articles/3779323",
+        "https://wallstreetcn.com/articles/3779321",
+        "https://wallstreetcn.com/articles/3779257",
+        "https://wallstreetcn.com/articles/3779320",
+        "https://www.cnbc.com/2026/08/12/google-pixel-11-gemini-ai-phone-apple.html",
+        "https://www.cnbc.com/2026/08/12/trump-white-house-karoline-leavitt-resigning-.html",
+        "https://www.cnbc.com/2026/08/12/trump-truth-social-lawsuit.html",
+        "https://finance.yahoo.com/markets/stocks/articles/trump-media-technology-group-corp-123000700.html",
+        "https://finance.yahoo.com/research/reports/ARGUS_47898_MarketUpdate_1786560461000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
+      ],
+      "url": "finance/archive/2026-08-13.html"
     }
   ]
 }
