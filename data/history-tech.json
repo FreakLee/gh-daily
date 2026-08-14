@@ -2076,6 +2076,26 @@
         "https://36kr.com/newsflashes/3938616383274114?f=rss"
       ],
       "url": "tech/archive/2026-08-14.html"
+    },
+    {
+      "date": "2026-08-14",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/altic-dev/FluidVoice",
+        "https://github.com/anthropics/skills",
+        "https://github.com/macro-inc/macro",
+        "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+        "https://deepseek.com/harness/en/",
+        "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+        "https://huggingface.co/papers/2608.00677",
+        "https://huggingface.co/papers/2608.12307",
+        "https://arxiv.org/abs/2608.13560v1",
+        "https://sspai.com/post/113434",
+        "https://sspai.com/post/113225",
+        "https://36kr.com/newsflashes/3938769224662145?f=rss"
+      ],
+      "url": "tech/archive/2026-08-14.html"
     }
   ]
 }
