@@ -2096,6 +2096,26 @@
         "https://36kr.com/newsflashes/3938769224662145?f=rss"
       ],
       "url": "tech/archive/2026-08-14.html"
+    },
+    {
+      "date": "2026-08-15",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/OpenCut-app/OpenCut",
+        "https://github.com/github/spec-kit",
+        "https://github.com/citrolabs/ego-lite",
+        "https://z.ai/blog/glm-5.3",
+        "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+        "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+        "https://huggingface.co/papers/2608.06867",
+        "https://huggingface.co/papers/2608.13546",
+        "https://arxiv.org/abs/2608.13558v1",
+        "https://sspai.com/post/113459",
+        "https://sspai.com/post/113416",
+        "https://36kr.com/p/3939439529622917?f=rss"
+      ],
+      "url": "tech/archive/2026-08-15.html"
     }
   ]
 }
