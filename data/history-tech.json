@@ -2116,6 +2116,25 @@
         "https://36kr.com/p/3939439529622917?f=rss"
       ],
       "url": "tech/archive/2026-08-15.html"
+    },
+    {
+      "date": "2026-08-16",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/public-apis/public-apis",
+        "https://github.com/cordiverse/cordis",
+        "https://github.com/unslothai/unsloth",
+        "https://sankalp.bearblog.dev/autoresearch/",
+        "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+        "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+        "https://huggingface.co/papers/2608.13489",
+        "https://huggingface.co/papers/2608.07545",
+        "https://arxiv.org/abs/2608.13555v1",
+        "https://sspai.com/post/111974",
+        "https://36kr.com/p/3940540064562563?f=rss"
+      ],
+      "url": "tech/archive/2026-08-16.html"
     }
   ]
 }

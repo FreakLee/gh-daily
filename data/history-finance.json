@@ -1869,6 +1869,23 @@
         "https://finance.yahoo.com/real-estate/articles/68-old-resort-hotel-mall-015339982.html"
       ],
       "url": "finance/archive/2026-08-15.html"
+    },
+    {
+      "date": "2026-08-16",
+      "category": "finance",
+      "mode": "daily",
+      "items": [
+        "https://wallstreetcn.com/articles/3779514",
+        "https://wallstreetcn.com/articles/3779512",
+        "https://wallstreetcn.com/articles/3779510",
+        "https://wallstreetcn.com/articles/3779508",
+        "https://www.cnbc.com/2026/08/15/iran-rebuffs-trumps-claim-over-hormuz-amid-report-of-ship-strike.html",
+        "https://www.cnbc.com/2026/08/15/nvidia-mulls-3b-investment-in-sb-energy-in-openai-data-center-deal-report.html",
+        "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
+        "https://finance.yahoo.com/technology/ai/articles/openai-lost-two-execs-week-172608934.html",
+        "https://finance.yahoo.com/markets/stocks/articles/historic-retailer-gets-lifeline-warning-220700487.html"
+      ],
+      "url": "finance/archive/2026-08-16.html"
     }
   ]
 }
