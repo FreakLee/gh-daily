@@ -2154,6 +2154,25 @@
         "https://36kr.com/newsflashes/3942845894392967?f=rss"
       ],
       "url": "tech/archive/2026-08-17.html"
+    },
+    {
+      "date": "2026-08-17",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/cactus-compute/needle",
+        "https://github.com/ToolJet/ToolJet",
+        "https://github.com/basecamp/omarchy",
+        "https://platform.claude.com/docs/en/release-notes/system-prompts",
+        "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
+        "https://rvembedded.com/blog_post/12/",
+        "https://huggingface.co/papers/2608.13560",
+        "https://huggingface.co/papers/2608.13552",
+        "https://sspai.com/post/113524",
+        "https://sspai.com/post/113495",
+        "https://36kr.com/newsflashes/3942968812109189?f=rss"
+      ],
+      "url": "tech/archive/2026-08-17.html"
     }
   ]
 }
