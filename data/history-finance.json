@@ -1920,6 +1920,19 @@
         "https://finance.yahoo.com/markets/stocks/articles/sergey-brin-wants-google-double-170001830.html"
       ],
       "url": "finance/archive/2026-08-17.html"
+    },
+    {
+      "date": "2026-08-18",
+      "category": "finance",
+      "mode": "daily",
+      "items": [
+        "https://www.cnbc.com/2026/08/17/anthropic-says-annualized-revenue-climbed-to-65-billion-in-july.html",
+        "https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html",
+        "https://www.cnbc.com/2026/08/17/treasury-yields-federal-reserve-fomc-minutes.html",
+        "https://finance.yahoo.com/markets/options/articles/investors-microsoft-love-shorting-money-131502468.html",
+        "https://finance.yahoo.com/economy/articles/trump-economic-approval-craters-even-121500571.html"
+      ],
+      "url": "finance/archive/2026-08-18.html"
     }
   ]
 }
