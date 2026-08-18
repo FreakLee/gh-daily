@@ -2192,6 +2192,25 @@
         "https://36kr.com/newsflashes/3944269963181188?f=rss"
       ],
       "url": "tech/archive/2026-08-18.html"
+    },
+    {
+      "date": "2026-08-18",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/usestrix/strix",
+        "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+        "https://github.com/santifer/career-ops",
+        "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+        "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+        "https://news.ycombinator.com/item?id=49331033",
+        "https://huggingface.co/papers/2608.14391",
+        "https://huggingface.co/papers/2608.14144",
+        "https://sspai.com/post/113566",
+        "https://sspai.com/post/113544",
+        "https://36kr.com/newsflashes/3944376472583561?f=rss"
+      ],
+      "url": "tech/archive/2026-08-18.html"
     }
   ]
 }
