@@ -2231,6 +2231,25 @@
         "https://36kr.com/newsflashes/3945694196038789?f=rss"
       ],
       "url": "tech/archive/2026-08-19.html"
+    },
+    {
+      "date": "2026-08-19",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/harry0703/MoneyPrinterTurbo",
+        "https://github.com/akitaonrails/ai-memory",
+        "https://github.com/agalwood/Motrix",
+        "https://seths.blog/2026/08/the-amazon-tax/",
+        "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
+        "https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399",
+        "https://huggingface.co/papers/2608.15089",
+        "https://huggingface.co/papers/2608.16859",
+        "https://sspai.com/post/113607",
+        "https://sspai.com/post/113593",
+        "https://36kr.com/newsflashes/3945793048624519?f=rss"
+      ],
+      "url": "tech/archive/2026-08-19.html"
     }
   ]
 }
