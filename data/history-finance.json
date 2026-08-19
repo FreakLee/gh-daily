@@ -1950,6 +1950,23 @@
         "https://finance.yahoo.com/energy/articles/oil-majors-reap-93-billion-190000461.html"
       ],
       "url": "finance/archive/2026-08-18.html"
+    },
+    {
+      "date": "2026-08-19",
+      "category": "finance",
+      "mode": "daily",
+      "items": [
+        "https://wallstreetcn.com/articles/3779742",
+        "https://wallstreetcn.com/articles/3779745",
+        "https://wallstreetcn.com/articles/3779744",
+        "https://wallstreetcn.com/articles/3779677",
+        "https://www.cnbc.com/2026/08/18/openai-chatgpt-for-teens-safety.html",
+        "https://www.cnbc.com/2026/08/18/trump-carney-canada-tariffs-dealine-talks.html",
+        "https://www.cnbc.com/2026/08/18/income-investors-wake-up-to-new-market-regime-where-to-find-solid-yields-now.html",
+        "https://finance.yahoo.com/markets/stocks/articles/boring-not-broken-claude-ai-132804912.html",
+        "https://finance.yahoo.com/markets/options/articles/alphabet-stock-attractive-short-put-131502703.html"
+      ],
+      "url": "finance/archive/2026-08-19.html"
     }
   ]
 }

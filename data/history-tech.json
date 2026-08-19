@@ -2211,6 +2211,26 @@
         "https://36kr.com/newsflashes/3944376472583561?f=rss"
       ],
       "url": "tech/archive/2026-08-18.html"
+    },
+    {
+      "date": "2026-08-19",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/bojieli/ai-agent-book",
+        "https://github.com/harry0703/MoneyPrinterTurbo",
+        "https://github.com/akitaonrails/ai-memory",
+        "https://seths.blog/2026/08/the-amazon-tax/",
+        "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
+        "https://pixelcluster.dev/VRAM-Overcommit/",
+        "https://huggingface.co/papers/2608.15089",
+        "https://huggingface.co/papers/2608.16859",
+        "https://arxiv.org/abs/2608.16889v1",
+        "https://sspai.com/post/113593",
+        "https://sspai.com/post/113564",
+        "https://36kr.com/newsflashes/3945694196038789?f=rss"
+      ],
+      "url": "tech/archive/2026-08-19.html"
     }
   ]
 }
