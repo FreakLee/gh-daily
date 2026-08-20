@@ -2270,6 +2270,25 @@
         "https://36kr.com/newsflashes/3947110406487428?f=rss"
       ],
       "url": "tech/archive/2026-08-20.html"
+    },
+    {
+      "date": "2026-08-20",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/mattpocock/skills",
+        "https://github.com/obra/superpowers",
+        "https://github.com/amadeusprotocol/node",
+        "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+        "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+        "https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees",
+        "https://huggingface.co/papers/2608.14036",
+        "https://huggingface.co/papers/2608.16157",
+        "https://sspai.com/post/113638",
+        "https://sspai.com/post/113618",
+        "https://36kr.com/newsflashes/3947211547606147?f=rss"
+      ],
+      "url": "tech/archive/2026-08-20.html"
     }
   ]
 }
