@@ -2289,6 +2289,26 @@
         "https://36kr.com/newsflashes/3947211547606147?f=rss"
       ],
       "url": "tech/archive/2026-08-20.html"
+    },
+    {
+      "date": "2026-08-21",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/JuliusBrussee/caveman",
+        "https://github.com/RyanCodrai/turbovec",
+        "https://github.com/AprilNEA/OpenLogi",
+        "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+        "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
+        "https://chrisburnell.com/html-can-do-that/",
+        "https://huggingface.co/papers/2608.17426",
+        "https://huggingface.co/papers/2608.16590",
+        "https://arxiv.org/abs/2608.19197v1",
+        "https://sspai.com/post/113666",
+        "https://sspai.com/post/113650",
+        "https://36kr.com/newsflashes/3948513981939074?f=rss"
+      ],
+      "url": "tech/archive/2026-08-21.html"
     }
   ]
 }
