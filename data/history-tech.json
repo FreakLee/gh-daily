@@ -2348,6 +2348,26 @@
         "https://36kr.com/newsflashes/3949280883719558?f=rss"
       ],
       "url": "tech/archive/2026-08-22.html"
+    },
+    {
+      "date": "2026-08-22",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/ripienaar/free-for-dev",
+        "https://github.com/anthropics/claude-code",
+        "https://github.com/affaan-m/ECC",
+        "https://kagi.com/changelog#11296",
+        "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
+        "https://www.felonybench.com/",
+        "https://huggingface.co/papers/2608.19880",
+        "https://huggingface.co/papers/2608.18580",
+        "https://arxiv.org/abs/2608.20337v1",
+        "https://sspai.com/post/113675",
+        "https://sspai.com/post/113693",
+        "https://36kr.com/p/3950603951258756?f=rss"
+      ],
+      "url": "tech/archive/2026-08-22.html"
     }
   ]
 }
