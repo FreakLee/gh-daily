@@ -2368,6 +2368,24 @@
         "https://36kr.com/p/3950603951258756?f=rss"
       ],
       "url": "tech/archive/2026-08-22.html"
+    },
+    {
+      "date": "2026-08-23",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/openai/codex",
+        "https://github.com/multica-ai/andrej-karpathy-skills",
+        "https://github.com/n8n-io/n8n",
+        "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
+        "https://rust-glancer.github.io/blog/hello-world/",
+        "https://quantumi.sh/public/labs.html",
+        "https://huggingface.co/papers/2608.20335",
+        "https://huggingface.co/papers/2608.19799",
+        "https://arxiv.org/abs/2608.20338v1",
+        "https://36kr.com/newsflashes/3950418609192324?f=rss"
+      ],
+      "url": "tech/archive/2026-08-23.html"
     }
   ]
 }
