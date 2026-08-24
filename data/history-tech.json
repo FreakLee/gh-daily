@@ -2405,6 +2405,26 @@
         "https://36kr.com/newsflashes/3952766695570568?f=rss"
       ],
       "url": "tech/archive/2026-08-24.html"
+    },
+    {
+      "date": "2026-08-24",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/NousResearch/hermes-agent",
+        "https://github.com/block/buzz",
+        "https://github.com/virgiliojr94/book-to-skill",
+        "https://hister.org/",
+        "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+        "https://twitter.com/moxie/status/2091218652133732491",
+        "https://huggingface.co/papers/2608.20336",
+        "https://huggingface.co/papers/2608.20202",
+        "https://arxiv.org/abs/2608.21359v1",
+        "https://sspai.com/post/113767",
+        "https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard",
+        "https://36kr.com/newsflashes/3952879278570631?f=rss"
+      ],
+      "url": "tech/archive/2026-08-24.html"
     }
   ]
 }
