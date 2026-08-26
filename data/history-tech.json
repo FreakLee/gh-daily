@@ -2464,6 +2464,25 @@
         "https://36kr.com/newsflashes/3954285920124037?f=rss"
       ],
       "url": "tech/archive/2026-08-25.html"
+    },
+    {
+      "date": "2026-08-26",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/Shubhamsaboo/awesome-llm-apps",
+        "https://github.com/anthropics/claude-plugins-official",
+        "https://github.com/TauricResearch/TradingAgents",
+        "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
+        "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+        "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+        "https://huggingface.co/papers/2608.23189",
+        "https://huggingface.co/papers/2608.16812",
+        "https://sspai.com/post/113828",
+        "https://sspai.com/post/113673",
+        "https://36kr.com/newsflashes/3955604160216453?f=rss"
+      ],
+      "url": "tech/archive/2026-08-26.html"
     }
   ]
 }
