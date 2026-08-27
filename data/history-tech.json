@@ -2521,6 +2521,26 @@
         "https://36kr.com/newsflashes/3957015871077510?f=rss"
       ],
       "url": "tech/archive/2026-08-27.html"
+    },
+    {
+      "date": "2026-08-27",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/DietrichGebert/ponytail",
+        "https://github.com/Alishahryar1/free-claude-code",
+        "https://github.com/tt-a1i/archify",
+        "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+        "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
+        "https://z.ai/blog/glm-5.3-flash",
+        "https://huggingface.co/papers/2608.24979",
+        "https://huggingface.co/papers/2608.26005",
+        "https://arxiv.org/abs/2608.26105v1",
+        "https://sspai.com/post/89194",
+        "https://sspai.com/post/113222",
+        "https://36kr.com/p/3957560779292037?f=rss"
+      ],
+      "url": "tech/archive/2026-08-27.html"
     }
   ]
 }
