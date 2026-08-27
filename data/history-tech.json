@@ -2502,6 +2502,25 @@
         "https://36kr.com/newsflashes/3955711558958210?f=rss"
       ],
       "url": "tech/archive/2026-08-26.html"
+    },
+    {
+      "date": "2026-08-27",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/DietrichGebert/ponytail",
+        "https://github.com/Alishahryar1/free-claude-code",
+        "https://github.com/tt-a1i/archify",
+        "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
+        "https://z.ai/blog/glm-5.3-flash",
+        "https://qwen.ai/blog?id=qwen3.8-flash-next",
+        "https://huggingface.co/papers/2608.15875",
+        "https://huggingface.co/papers/2608.20492",
+        "https://sspai.com/post/68227",
+        "https://sspai.com/prime/story/zhuanglesha-260826",
+        "https://36kr.com/newsflashes/3957015871077510?f=rss"
+      ],
+      "url": "tech/archive/2026-08-27.html"
     }
   ]
 }

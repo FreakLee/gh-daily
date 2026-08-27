@@ -2212,6 +2212,23 @@
         "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm"
       ],
       "url": "finance/archive/2026-08-26.html"
+    },
+    {
+      "date": "2026-08-27",
+      "category": "finance",
+      "mode": "daily",
+      "items": [
+        "https://wallstreetcn.com/articles/3780388",
+        "https://wallstreetcn.com/articles/3780385",
+        "https://wallstreetcn.com/articles/3780381",
+        "https://wallstreetcn.com/articles/3780380",
+        "https://www.cnbc.com/2026/08/26/election-republicans-dismissing-affordability.html",
+        "https://www.cnbc.com/2026/08/26/salesforce-crm-q2-earnings-report-2027.html",
+        "https://www.cnbc.com/2026/08/26/open-ai-hugging-face-hack.html",
+        "https://finance.yahoo.com/technology/ai/articles/google-expands-gemini-ai-platform-120333158.html",
+        "https://finance.yahoo.com/media-advertising/articles/meta-states-discuss-mid-trial-111938416.html"
+      ],
+      "url": "finance/archive/2026-08-27.html"
     }
   ]
 }
