@@ -2561,6 +2561,26 @@
         "https://36kr.com/newsflashes/3958426155678855?f=rss"
       ],
       "url": "tech/archive/2026-08-28.html"
+    },
+    {
+      "date": "2026-08-28",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/calesthio/OpenMontage",
+        "https://github.com/bilawalsidhu/gods-eye-view",
+        "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+        "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+        "https://pollen-robotics.com/microduck/",
+        "https://calv.info/small-models-have-arrived",
+        "https://huggingface.co/papers/2608.27345",
+        "https://huggingface.co/papers/2608.27260",
+        "https://arxiv.org/abs/2608.27455v1",
+        "https://sspai.com/post/113944",
+        "https://sspai.com/post/68623",
+        "https://36kr.com/newsflashes/3959104006323592?f=rss"
+      ],
+      "url": "tech/archive/2026-08-28.html"
     }
   ]
 }
