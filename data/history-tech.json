@@ -2581,6 +2581,25 @@
         "https://36kr.com/newsflashes/3959104006323592?f=rss"
       ],
       "url": "tech/archive/2026-08-28.html"
+    },
+    {
+      "date": "2026-08-29",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/K-Dense-AI/scientific-agent-skills",
+        "https://github.com/tailscale/tailcat",
+        "https://github.com/abi/screenshot-to-code",
+        "https://en.refund4freedom.org/",
+        "https://huggingface.co/zai-org/GLM-5.3",
+        "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+        "https://huggingface.co/papers/2608.25518",
+        "https://huggingface.co/papers/2608.27456",
+        "https://sspai.com/post/113883",
+        "https://sspai.com/post/113909",
+        "https://36kr.com/newsflashes/3959172709481864?f=rss"
+      ],
+      "url": "tech/archive/2026-08-29.html"
     }
   ]
 }
