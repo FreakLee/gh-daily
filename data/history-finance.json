@@ -2299,6 +2299,23 @@
         "https://finance.yahoo.com/economy/policy/articles/analysis-bessent-warsh-diverge-set-050320832.html"
       ],
       "url": "finance/archive/2026-08-29.html"
+    },
+    {
+      "date": "2026-08-30",
+      "category": "finance",
+      "mode": "daily",
+      "items": [
+        "https://wallstreetcn.com/articles/3780632",
+        "https://wallstreetcn.com/articles/3780629",
+        "https://wallstreetcn.com/articles/3780604",
+        "https://wallstreetcn.com/articles/3780619",
+        "https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html",
+        "https://www.cnbc.com/2026/08/29/trump-arch-national-park-service-report.html",
+        "https://www.cnbc.com/2026/08/29/trump-yosemite-land-swap-kingsbarn.html",
+        "https://finance.yahoo.com/technology/ai/articles/353m-settlement-barely-dents-alphabet-181004583.html",
+        "https://finance.yahoo.com/technology/ai/articles/marvell-announced-google-ai-deal-180959027.html"
+      ],
+      "url": "finance/archive/2026-08-30.html"
     }
   ]
 }
