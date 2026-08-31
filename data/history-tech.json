@@ -2637,6 +2637,25 @@
         "https://36kr.com/newsflashes/3962681509019012?f=rss"
       ],
       "url": "tech/archive/2026-08-31.html"
+    },
+    {
+      "date": "2026-08-31",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/unclecode/crawl4ai",
+        "https://github.com/mvanhorn/last30days-skill",
+        "https://github.com/tashfeenahmed/freellmapi",
+        "https://people.kernel.org/monsieuricon/creepy-crawlies",
+        "https://unsung.aresluna.org/i-just-chose-words-carefully/",
+        "https://greenlightning.eu/diy/hacking-ikea-furniture/",
+        "https://huggingface.co/papers/2608.15763",
+        "https://huggingface.co/papers/2608.26200",
+        "https://arxiv.org/abs/2608.28589v1",
+        "https://sspai.com/post/113827",
+        "https://sspai.com/post/114022"
+      ],
+      "url": "tech/archive/2026-08-31.html"
     }
   ]
 }
