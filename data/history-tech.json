@@ -2618,6 +2618,25 @@
         "https://36kr.com/p/3960415196052873?f=rss"
       ],
       "url": "tech/archive/2026-08-30.html"
+    },
+    {
+      "date": "2026-08-31",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/unclecode/crawl4ai",
+        "https://github.com/mvanhorn/last30days-skill",
+        "https://github.com/tashfeenahmed/freellmapi",
+        "https://people.kernel.org/monsieuricon/creepy-crawlies",
+        "https://0xcc.io/posts/omarchy-root-creds/",
+        "https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement",
+        "https://huggingface.co/papers/2608.15763",
+        "https://huggingface.co/papers/2608.26200",
+        "https://sspai.com/post/114022",
+        "https://sspai.com/post/113974",
+        "https://36kr.com/newsflashes/3962681509019012?f=rss"
+      ],
+      "url": "tech/archive/2026-08-31.html"
     }
   ]
 }
