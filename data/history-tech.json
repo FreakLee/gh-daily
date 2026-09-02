@@ -2715,6 +2715,26 @@
         "https://36kr.com/newsflashes/3965502798306569?f=rss"
       ],
       "url": "tech/archive/2026-09-02.html"
+    },
+    {
+      "date": "2026-09-02",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/VoltAgent/awesome-design-md",
+        "https://github.com/browser-use/video-use",
+        "https://github.com/3b1b/manim",
+        "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+        "https://danluu.com/zitron/",
+        "https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566",
+        "https://huggingface.co/papers/2609.01591",
+        "https://huggingface.co/papers/2608.31106",
+        "https://arxiv.org/abs/2609.01604v1",
+        "https://sspai.com/post/113581",
+        "https://sspai.com/post/114093",
+        "https://36kr.com/newsflashes/3965777805974792?f=rss"
+      ],
+      "url": "tech/archive/2026-09-02.html"
     }
   ]
 }

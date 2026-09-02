@@ -2401,6 +2401,19 @@
         "https://finance.yahoo.com/small-business/articles/161-old-kids-clothing-giant-171700918.html"
       ],
       "url": "finance/archive/2026-09-02.html"
+    },
+    {
+      "date": "2026-09-02",
+      "category": "finance",
+      "mode": "daily",
+      "items": [
+        "https://www.cnbc.com/2026/09/02/us-iran-war-trump-hormuz-irgc-jordan-bahrain.html",
+        "https://www.cnbc.com/2026/09/01/bessent-china-g20-trade-exports-trump-xi.html",
+        "https://www.cnbc.com/2026/09/01/open-ai-astra-cyber-model.html",
+        "https://finance.yahoo.com/markets/article/fed-chairman-kevin-warsh-warned-about-inflation--but-thats-not-why-long-term-rates-are-surging-chart-of-the-day-173243232.html",
+        "https://finance.yahoo.com/economy/policy/articles/analysis-warshs-quieter-fed-now-193420692.html"
+      ],
+      "url": "finance/archive/2026-09-02.html"
     }
   ]
 }
