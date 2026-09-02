@@ -2696,6 +2696,25 @@
         "https://36kr.com/newsflashes/3964373199461895?f=rss"
       ],
       "url": "tech/archive/2026-09-01.html"
+    },
+    {
+      "date": "2026-09-02",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/VoltAgent/awesome-design-md",
+        "https://github.com/browser-use/video-use",
+        "https://github.com/3b1b/manim",
+        "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+        "https://github.com/ankidroid/Anki-Android/issues/21656",
+        "https://mvakde.github.io/blog/44-on-arc-1/",
+        "https://huggingface.co/papers/2608.31106",
+        "https://huggingface.co/papers/2608.30821",
+        "https://sspai.com/post/114078",
+        "https://sspai.com/post/114071",
+        "https://36kr.com/newsflashes/3965502798306569?f=rss"
+      ],
+      "url": "tech/archive/2026-09-02.html"
     }
   ]
 }
