@@ -2735,6 +2735,25 @@
         "https://36kr.com/newsflashes/3965777805974792?f=rss"
       ],
       "url": "tech/archive/2026-09-02.html"
+    },
+    {
+      "date": "2026-09-03",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/mattpocock/skills",
+        "https://github.com/NousResearch/hermes-agent",
+        "https://github.com/JuliusBrussee/caveman",
+        "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+        "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+        "https://developer.meta.com/ai/models/muse-spark/",
+        "https://huggingface.co/papers/2609.00111",
+        "https://huggingface.co/papers/2609.01343",
+        "https://sspai.com/post/114084",
+        "https://sspai.com/post/80562",
+        "https://36kr.com/newsflashes/3966926641945859?f=rss"
+      ],
+      "url": "tech/archive/2026-09-03.html"
     }
   ]
 }
