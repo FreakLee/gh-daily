@@ -2793,6 +2793,26 @@
         "https://36kr.com/newsflashes/3968343811518979?f=rss"
       ],
       "url": "tech/archive/2026-09-04.html"
+    },
+    {
+      "date": "2026-09-04",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/obra/superpowers",
+        "https://github.com/anthropics/skills",
+        "https://github.com/ByteByteGoHq/system-design-101",
+        "https://neil.fraser.name/news/2026/09/03/",
+        "https://openai.com/index/gpt-6-astra/",
+        "https://anyhumanever.com/",
+        "https://huggingface.co/papers/2609.03796",
+        "https://huggingface.co/papers/2609.01507",
+        "https://arxiv.org/abs/2609.04199v1",
+        "https://sspai.com/post/113990",
+        "https://sspai.com/post/114164",
+        "https://36kr.com/newsflashes/3968584050209025?f=rss"
+      ],
+      "url": "tech/archive/2026-09-04.html"
     }
   ]
 }
