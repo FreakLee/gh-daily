@@ -2813,6 +2813,25 @@
         "https://36kr.com/newsflashes/3968584050209025?f=rss"
       ],
       "url": "tech/archive/2026-09-04.html"
+    },
+    {
+      "date": "2026-09-05",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/cathrynlavery/diagram-design",
+        "https://github.com/DietrichGebert/ponytail",
+        "https://github.com/debpalash/VoiceStudio",
+        "https://collusion.wiki/",
+        "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+        "https://jestoph.com/2026/09/04/jane-street-challenge.html",
+        "https://huggingface.co/papers/2609.04199",
+        "https://huggingface.co/papers/2609.04148",
+        "https://sspai.com/post/114175",
+        "https://sspai.com/post/114110",
+        "https://36kr.com/p/3969230710583555?f=rss"
+      ],
+      "url": "tech/archive/2026-09-05.html"
     }
   ]
 }
