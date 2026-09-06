@@ -2832,6 +2832,24 @@
         "https://36kr.com/p/3969230710583555?f=rss"
       ],
       "url": "tech/archive/2026-09-05.html"
+    },
+    {
+      "date": "2026-09-06",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/ruvnet/ruflo",
+        "https://github.com/affaan-m/ECC",
+        "https://github.com/blader/humanizer",
+        "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+        "https://codeberg.org/mv12star/shitter/wiki/Instances",
+        "https://www.statichost.eu/",
+        "https://huggingface.co/papers/2609.03430",
+        "https://huggingface.co/papers/2608.26730",
+        "https://sspai.com/post/114040",
+        "https://36kr.com/p/3970179970036225?f=rss"
+      ],
+      "url": "tech/archive/2026-09-06.html"
     }
   ]
 }
