@@ -2868,6 +2868,26 @@
         "https://36kr.com/newsflashes/3972589851029769?f=rss"
       ],
       "url": "tech/archive/2026-09-07.html"
+    },
+    {
+      "date": "2026-09-07",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/coreyhaines31/marketingskills",
+        "https://github.com/anomalyco/opencode",
+        "https://github.com/magnitudedev/magnitude",
+        "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+        "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+        "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+        "https://huggingface.co/papers/2609.03199",
+        "https://huggingface.co/papers/2609.04196",
+        "https://arxiv.org/abs/2609.05415v1",
+        "https://sspai.com/post/114103",
+        "https://sspai.com/post/114250",
+        "https://36kr.com/newsflashes/3972856996016649?f=rss"
+      ],
+      "url": "tech/archive/2026-09-07.html"
     }
   ]
 }
