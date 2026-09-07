@@ -2850,6 +2850,24 @@
         "https://36kr.com/p/3970179970036225?f=rss"
       ],
       "url": "tech/archive/2026-09-06.html"
+    },
+    {
+      "date": "2026-09-07",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/coreyhaines31/marketingskills",
+        "https://github.com/anomalyco/opencode",
+        "https://github.com/magnitudedev/magnitude",
+        "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
+        "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+        "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+        "https://huggingface.co/papers/2609.03199",
+        "https://huggingface.co/papers/2609.04172",
+        "https://sspai.com/post/114076",
+        "https://36kr.com/newsflashes/3972589851029769?f=rss"
+      ],
+      "url": "tech/archive/2026-09-07.html"
     }
   ]
 }
