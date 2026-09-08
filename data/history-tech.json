@@ -2908,6 +2908,25 @@
         "https://36kr.com/newsflashes/3973990242382342?f=rss"
       ],
       "url": "tech/archive/2026-09-08.html"
+    },
+    {
+      "date": "2026-09-08",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/bytedance/deer-flow",
+        "https://github.com/pascalorg/editor",
+        "https://github.com/microsoft/markitdown",
+        "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+        "https://www.youtube.com/watch?v=6IFVTcM28KA",
+        "https://deepmind.google/science/weathernext/",
+        "https://huggingface.co/papers/2609.02750",
+        "https://huggingface.co/papers/2609.04304",
+        "https://sspai.com/post/113299",
+        "https://sspai.com/post/114307",
+        "https://36kr.com/newsflashes/3974250556191234?f=rss"
+      ],
+      "url": "tech/archive/2026-09-08.html"
     }
   ]
 }
