@@ -2946,6 +2946,26 @@
         "https://36kr.com/newsflashes/3975413866459395?f=rss"
       ],
       "url": "tech/archive/2026-09-09.html"
+    },
+    {
+      "date": "2026-09-09",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/ayghri/i-have-adhd",
+        "https://github.com/multica-ai/andrej-karpathy-skills",
+        "https://github.com/browser-use/browser-use",
+        "https://cims.nyu.edu/~tristanb/statement.pdf",
+        "https://openai.com/index/navier-stokes-solution/",
+        "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+        "https://huggingface.co/papers/2609.04010",
+        "https://huggingface.co/papers/2609.03241",
+        "https://arxiv.org/abs/2609.09158v1",
+        "https://sspai.com/post/113668",
+        "https://sspai.com/post/114352",
+        "https://36kr.com/newsflashes/3975687709864449?f=rss"
+      ],
+      "url": "tech/archive/2026-09-09.html"
     }
   ]
 }
