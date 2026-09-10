@@ -2966,6 +2966,26 @@
         "https://36kr.com/newsflashes/3975687709864449?f=rss"
       ],
       "url": "tech/archive/2026-09-09.html"
+    },
+    {
+      "date": "2026-09-10",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/freestylefly/awesome-gpt-image-2",
+        "https://github.com/earthtojake/text-to-cad",
+        "https://github.com/rohitg00/ai-engineering-from-scratch",
+        "https://opusfived.dev/",
+        "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+        "https://www.apple.com/iphone-duo/",
+        "https://huggingface.co/papers/2609.08936",
+        "https://huggingface.co/papers/2609.08977",
+        "https://arxiv.org/abs/2609.09157v1",
+        "https://sspai.com/post/114394",
+        "https://sspai.com/post/114393",
+        "https://36kr.com/newsflashes/3976832117568009?f=rss"
+      ],
+      "url": "tech/archive/2026-09-10.html"
     }
   ]
 }

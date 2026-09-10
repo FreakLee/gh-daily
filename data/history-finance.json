@@ -2619,6 +2619,23 @@
         "https://finance.yahoo.com/small-business/articles/102-old-mall-retailer-quietly-013700033.html"
       ],
       "url": "finance/archive/2026-09-09.html"
+    },
+    {
+      "date": "2026-09-10",
+      "category": "finance",
+      "mode": "daily",
+      "items": [
+        "https://wallstreetcn.com/articles/3781418",
+        "https://wallstreetcn.com/articles/3781450",
+        "https://wallstreetcn.com/articles/3781446",
+        "https://wallstreetcn.com/articles/3781449",
+        "https://www.cnbc.com/2026/09/09/bessent-treasury-yields-buybacks-republican-convention.html",
+        "https://www.cnbc.com/2026/09/09/amazon-adds-cybersecurity-vet-ex-google-exec-kevin-mandia-to-board.html",
+        "https://www.cnbc.com/2026/09/09/trump-republicans-congress-stock-trading-ban-midterm-convention.html",
+        "https://www.investors.com/news/technology/quantum-computing-stocks-ionq-stock-investor-day-skywater/?src=A00220&yptr=yahoo",
+        "https://www.investors.com/news/technology/ai-stocks-artificial-intelligence-stocks-sept82026/?src=A00220&yptr=yahoo"
+      ],
+      "url": "finance/archive/2026-09-10.html"
     }
   ]
 }
