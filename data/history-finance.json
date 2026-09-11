@@ -2653,6 +2653,24 @@
         "https://finance.yahoo.com/markets/stocks/articles/apple-scraps-plans-2-macbook-181756571.html"
       ],
       "url": "finance/archive/2026-09-10.html"
+    },
+    {
+      "date": "2026-09-11",
+      "category": "finance",
+      "mode": "daily",
+      "items": [
+        "https://wallstreetcn.com/articles/3781535",
+        "https://wallstreetcn.com/articles/3781536",
+        "https://wallstreetcn.com/articles/3781534",
+        "https://wallstreetcn.com/articles/3781527",
+        "https://www.cnbc.com/2026/09/10/anthropic-blocked-misuse-of-claude-with-potential-bioweapons-support.html",
+        "https://www.cnbc.com/2026/09/10/trump-obamacare-refunds-aca.html",
+        "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
+        "https://finance.yahoo.com/markets/stocks/articles/constellation-brands-stock-stz-underperforming-123740031.html",
+        "https://finance.yahoo.com/real-estate/articles/digital-realty-trusts-stock-performance-123515121.html",
+        "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260910a.htm"
+      ],
+      "url": "finance/archive/2026-09-11.html"
     }
   ]
 }
