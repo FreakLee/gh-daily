@@ -3025,6 +3025,26 @@
         "https://36kr.com/newsflashes/3978251111758856?f=rss"
       ],
       "url": "tech/archive/2026-09-11.html"
+    },
+    {
+      "date": "2026-09-11",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/diegosouzapw/OmniRoute",
+        "https://github.com/bilawalsidhu/gods-eye-view",
+        "https://github.com/THU-MAIC/OpenMAIC",
+        "https://shopify.engineering/back-to-native",
+        "https://mathstodon.xyz/@andreasthom/117240535270608201",
+        "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+        "https://huggingface.co/papers/2608.12564",
+        "https://huggingface.co/papers/2609.08572",
+        "https://arxiv.org/abs/2609.11923v1",
+        "https://sspai.com/post/114439",
+        "https://sspai.com/post/114384",
+        "https://36kr.com/newsflashes/3978510456552452?f=rss"
+      ],
+      "url": "tech/archive/2026-09-11.html"
     }
   ]
 }
