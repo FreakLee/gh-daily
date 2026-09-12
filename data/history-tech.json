@@ -3045,6 +3045,25 @@
         "https://36kr.com/newsflashes/3978510456552452?f=rss"
       ],
       "url": "tech/archive/2026-09-11.html"
+    },
+    {
+      "date": "2026-09-12",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/github/spec-kit",
+        "https://github.com/obra/superpowers",
+        "https://github.com/nashsu/llm_wiki",
+        "https://mmoustafa.com/blog/so-you-want-to-use-openrouter/",
+        "https://mathandai.org/",
+        "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+        "https://huggingface.co/papers/2609.10715",
+        "https://huggingface.co/papers/2609.11929",
+        "https://sspai.com/post/114458",
+        "https://sspai.com/post/114449",
+        "https://36kr.com/newsflashes/3979008797801225?f=rss"
+      ],
+      "url": "tech/archive/2026-09-12.html"
     }
   ]
 }
