@@ -3064,6 +3064,24 @@
         "https://36kr.com/newsflashes/3979008797801225?f=rss"
       ],
       "url": "tech/archive/2026-09-12.html"
+    },
+    {
+      "date": "2026-09-13",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/asgeirtj/system_prompts_leaks",
+        "https://github.com/vxcontrol/pentagi",
+        "https://github.com/Shubhamsaboo/awesome-llm-apps",
+        "https://www.autom.dev/blog/google-search-goto-links",
+        "https://www.youtube.com/watch?v=iZODN0QUgjI",
+        "https://darioamodei.com/post/we-must-pace-the-frontier",
+        "https://huggingface.co/papers/2609.07064",
+        "https://huggingface.co/papers/2609.11042",
+        "https://sspai.com/post/114461",
+        "https://36kr.com/p/3980309439265793?f=rss"
+      ],
+      "url": "tech/archive/2026-09-13.html"
     }
   ]
 }
