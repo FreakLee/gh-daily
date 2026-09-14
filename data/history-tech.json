@@ -3101,6 +3101,25 @@
         "https://36kr.com/newsflashes/3982488023006216?f=rss"
       ],
       "url": "tech/archive/2026-09-14.html"
+    },
+    {
+      "date": "2026-09-14",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/debpalash/VoiceStudio",
+        "https://github.com/alibaba/open-code-review",
+        "https://github.com/calesthio/OpenMontage",
+        "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
+        "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+        "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
+        "https://huggingface.co/papers/2609.05903",
+        "https://huggingface.co/papers/2609.11317",
+        "https://sspai.com/post/114410",
+        "https://sspai.com/post/114539",
+        "https://36kr.com/newsflashes/3982740072119045?f=rss"
+      ],
+      "url": "tech/archive/2026-09-14.html"
     }
   ]
 }
