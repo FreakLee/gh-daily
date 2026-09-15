@@ -3139,6 +3139,25 @@
         "https://36kr.com/newsflashes/3983912937831171?f=rss"
       ],
       "url": "tech/archive/2026-09-15.html"
+    },
+    {
+      "date": "2026-09-15",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/Panniantong/Agent-Reach",
+        "https://github.com/ruvnet/RuView",
+        "https://github.com/localsend/localsend",
+        "https://store.steampowered.com/hardware/steamframe",
+        "https://xcancel.com/#",
+        "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+        "https://huggingface.co/papers/2609.11638",
+        "https://huggingface.co/papers/2609.13356",
+        "https://sspai.com/post/47126",
+        "https://sspai.com/post/114593",
+        "https://36kr.com/newsflashes/3984191391316994?f=rss"
+      ],
+      "url": "tech/archive/2026-09-15.html"
     }
   ]
 }
