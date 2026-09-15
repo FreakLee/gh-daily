@@ -2758,6 +2758,19 @@
         "https://finance.yahoo.com/economy/articles/musk-sent-governments-message-robot-174700228.html"
       ],
       "url": "finance/archive/2026-09-14.html"
+    },
+    {
+      "date": "2026-09-15",
+      "category": "finance",
+      "mode": "daily",
+      "items": [
+        "https://www.cnbc.com/2026/09/14/supreme-court-trump-mail-ballots-midterms.html",
+        "https://www.cnbc.com/2026/09/14/10-year-us-treasury-is-closing-in-on-5percent.html",
+        "https://www.cnbc.com/2026/09/14/broadcom-ceo-on-anthropics-slowdown-push-ai-revenue-targets-havent-changed.html",
+        "https://finance.yahoo.com/small-business/articles/national-specialty-clothing-chain-closing-140700669.html",
+        "https://finance.yahoo.com/small-business/articles/another-coffeehouse-files-chapter-11-033545256.html"
+      ],
+      "url": "finance/archive/2026-09-15.html"
     }
   ]
 }

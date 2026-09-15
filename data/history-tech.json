@@ -3120,6 +3120,25 @@
         "https://36kr.com/newsflashes/3982740072119045?f=rss"
       ],
       "url": "tech/archive/2026-09-14.html"
+    },
+    {
+      "date": "2026-09-15",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/Panniantong/Agent-Reach",
+        "https://github.com/ruvnet/RuView",
+        "https://github.com/localsend/localsend",
+        "https://store.steampowered.com/hardware/steamframe",
+        "https://xcancel.com/#",
+        "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+        "https://huggingface.co/papers/2609.06107",
+        "https://huggingface.co/papers/2609.08418",
+        "https://sspai.com/post/114577",
+        "https://sspai.com/prime/story/ai-assisted-spreadsheeting-a-survey",
+        "https://36kr.com/newsflashes/3983912937831171?f=rss"
+      ],
+      "url": "tech/archive/2026-09-15.html"
     }
   ]
 }
