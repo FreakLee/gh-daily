@@ -3178,6 +3178,26 @@
         "https://36kr.com/newsflashes/3985323925224449?f=rss"
       ],
       "url": "tech/archive/2026-09-16.html"
+    },
+    {
+      "date": "2026-09-16",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/NationalSecurityAgency/ghidra",
+        "https://github.com/addyosmani/agent-skills",
+        "https://github.com/pacifio/atlas",
+        "https://github.com/arnegiacomo/fugleramme",
+        "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+        "https://www.effort.news/irregular",
+        "https://huggingface.co/papers/2609.06986",
+        "https://huggingface.co/papers/2609.11873",
+        "https://arxiv.org/abs/2609.17527v1",
+        "https://sspai.com/post/113295",
+        "https://sspai.com/post/114638",
+        "https://36kr.com/newsflashes/3985610836917256?f=rss"
+      ],
+      "url": "tech/archive/2026-09-16.html"
     }
   ]
 }
