@@ -3158,6 +3158,26 @@
         "https://36kr.com/newsflashes/3984191391316994?f=rss"
       ],
       "url": "tech/archive/2026-09-15.html"
+    },
+    {
+      "date": "2026-09-16",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/addyosmani/agent-skills",
+        "https://github.com/NationalSecurityAgency/ghidra",
+        "https://github.com/pacifio/atlas",
+        "https://github.com/arnegiacomo/fugleramme",
+        "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
+        "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+        "https://huggingface.co/papers/2609.15818",
+        "https://huggingface.co/papers/2609.14973",
+        "https://arxiv.org/abs/2609.15989v1",
+        "https://sspai.com/post/114613",
+        "https://sspai.com/post/114565",
+        "https://36kr.com/newsflashes/3985323925224449?f=rss"
+      ],
+      "url": "tech/archive/2026-09-16.html"
     }
   ]
 }

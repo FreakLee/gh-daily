@@ -2788,6 +2788,23 @@
         "https://finance.yahoo.com/small-business/articles/national-specialty-clothing-chain-closing-140700669.html"
       ],
       "url": "finance/archive/2026-09-15.html"
+    },
+    {
+      "date": "2026-09-16",
+      "category": "finance",
+      "mode": "daily",
+      "items": [
+        "https://wallstreetcn.com/articles/3781841",
+        "https://wallstreetcn.com/articles/3781834",
+        "https://wallstreetcn.com/articles/3781833",
+        "https://wallstreetcn.com/articles/3781832",
+        "https://www.cnbc.com/2026/09/15/elon-musk-ai-safety-testing.html",
+        "https://www.cnbc.com/2026/09/15/nvidia-and-anthropic-ceos-diverge-on-ai-safety-at-dreamforce.html",
+        "https://www.cnbc.com/2026/09/15/nvidia-jensen-huang-trump-xi.html",
+        "https://finance.yahoo.com/markets/stocks/articles/tesla-microsoft-amazon-forecast-tech-131133844.html",
+        "https://finance.yahoo.com/markets/stocks/articles/2-numbers-matter-more-alphabet-121900053.html"
+      ],
+      "url": "finance/archive/2026-09-16.html"
     }
   ]
 }
