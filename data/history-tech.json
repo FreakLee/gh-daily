@@ -3198,6 +3198,26 @@
         "https://36kr.com/newsflashes/3985610836917256?f=rss"
       ],
       "url": "tech/archive/2026-09-16.html"
+    },
+    {
+      "date": "2026-09-17",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/jamiepine/voicebox",
+        "https://github.com/affaan-m/ECC",
+        "https://github.com/supabase/supabase",
+        "https://mistral.ai/news/mistral-x-mozilla/",
+        "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
+        "https://will-keleher.com/posts/small-programming-tricks-matter/",
+        "https://huggingface.co/papers/2609.16679",
+        "https://huggingface.co/papers/2609.14005",
+        "https://arxiv.org/abs/2609.17523v1",
+        "https://sspai.com/post/114454",
+        "https://sspai.com/post/114607",
+        "https://36kr.com/newsflashes/3986728099347203?f=rss"
+      ],
+      "url": "tech/archive/2026-09-17.html"
     }
   ]
 }

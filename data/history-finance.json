@@ -2822,6 +2822,24 @@
         "https://finance.yahoo.com/markets/stocks/articles/costco-partners-bankruptcy-could-benefit-133300901.html"
       ],
       "url": "finance/archive/2026-09-16.html"
+    },
+    {
+      "date": "2026-09-17",
+      "category": "finance",
+      "mode": "daily",
+      "items": [
+        "https://wallstreetcn.com/articles/3781933",
+        "https://wallstreetcn.com/articles/3781931",
+        "https://wallstreetcn.com/articles/3781929",
+        "https://wallstreetcn.com/articles/3781926",
+        "https://www.cnbc.com/2026/09/16/trump-fed-interest-rate-warsh.html",
+        "https://www.cnbc.com/2026/09/16/openai-6-new-instances-of-concerning-model-behavior-since-march.html",
+        "https://www.cnbc.com/2026/09/16/russia-sanctions-bill-lindsey-graham-congress.html",
+        "https://finance.yahoo.com/markets/stocks/articles/datadog-stock-performance-compared-other-124420745.html",
+        "https://finance.yahoo.com/markets/stocks/articles/anthropic-moving-forward-2-trillion-123756375.html",
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm"
+      ],
+      "url": "finance/archive/2026-09-17.html"
     }
   ]
 }
