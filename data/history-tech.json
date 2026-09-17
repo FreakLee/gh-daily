@@ -3218,6 +3218,26 @@
         "https://36kr.com/newsflashes/3986728099347203?f=rss"
       ],
       "url": "tech/archive/2026-09-17.html"
+    },
+    {
+      "date": "2026-09-17",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/jamiepine/voicebox",
+        "https://github.com/affaan-m/ECC",
+        "https://github.com/supabase/supabase",
+        "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
+        "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+        "https://rohanbansal.com/qorl",
+        "https://huggingface.co/papers/2609.14005",
+        "https://huggingface.co/papers/2609.16034",
+        "https://arxiv.org/abs/2609.19145v1",
+        "https://sspai.com/post/114451",
+        "https://sspai.com/post/114658",
+        "https://36kr.com/newsflashes/3986955249728257?f=rss"
+      ],
+      "url": "tech/archive/2026-09-17.html"
     }
   ]
 }
