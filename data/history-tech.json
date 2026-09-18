@@ -3258,6 +3258,26 @@
         "https://36kr.com/newsflashes/3988150586817543?f=rss"
       ],
       "url": "tech/archive/2026-09-18.html"
+    },
+    {
+      "date": "2026-09-18",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/n8n-io/n8n",
+        "https://github.com/cloudflare/security-audit-skill",
+        "https://github.com/Tencent/BrowserSkill",
+        "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
+        "https://github.com/asciimoo/hister",
+        "https://openai.com/index/astra-for-law/",
+        "https://huggingface.co/papers/2609.17488",
+        "https://huggingface.co/papers/2609.18708",
+        "https://arxiv.org/abs/2609.20822v1",
+        "https://sspai.com/post/114670",
+        "https://sspai.com/prime/story/how-to-obtain-data-for-agent-analysis",
+        "https://36kr.com/newsflashes/3988423139179526?f=rss"
+      ],
+      "url": "tech/archive/2026-09-18.html"
     }
   ]
 }
