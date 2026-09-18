@@ -3238,6 +3238,26 @@
         "https://36kr.com/newsflashes/3986955249728257?f=rss"
       ],
       "url": "tech/archive/2026-09-17.html"
+    },
+    {
+      "date": "2026-09-18",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/n8n-io/n8n",
+        "https://github.com/cloudflare/security-audit-skill",
+        "https://github.com/Tencent/BrowserSkill",
+        "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
+        "https://github.com/asciimoo/hister",
+        "https://z.ai/blog/glm-built-its-inference-infrastructure",
+        "https://huggingface.co/papers/2609.17488",
+        "https://huggingface.co/papers/2609.19134",
+        "https://arxiv.org/abs/2609.19144v1",
+        "https://sspai.com/post/114557",
+        "https://sspai.com/post/114643",
+        "https://36kr.com/newsflashes/3988150586817543?f=rss"
+      ],
+      "url": "tech/archive/2026-09-18.html"
     }
   ]
 }
