@@ -3278,6 +3278,26 @@
         "https://36kr.com/newsflashes/3988423139179526?f=rss"
       ],
       "url": "tech/archive/2026-09-18.html"
+    },
+    {
+      "date": "2026-09-19",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/tradesdontlie/tradingview-mcp",
+        "https://github.com/TencentCloud/Octop",
+        "https://github.com/coder/coder",
+        "https://try.cloudflare.com/",
+        "https://openjev.com/",
+        "https://code.claude.com/docs/en/changelog",
+        "https://huggingface.co/papers/2609.19969",
+        "https://huggingface.co/papers/2609.20519",
+        "https://arxiv.org/abs/2609.20821v1",
+        "https://sspai.com/post/114716",
+        "https://sspai.com/post/114555",
+        "https://36kr.com/p/3984230181010434?f=rss"
+      ],
+      "url": "tech/archive/2026-09-19.html"
     }
   ]
 }
