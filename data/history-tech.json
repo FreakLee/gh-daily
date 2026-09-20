@@ -3298,6 +3298,25 @@
         "https://36kr.com/p/3984230181010434?f=rss"
       ],
       "url": "tech/archive/2026-09-19.html"
+    },
+    {
+      "date": "2026-09-20",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/cactus-compute/needle",
+        "https://github.com/trycua/cua",
+        "https://github.com/ZuodaoTech/everyone-can-use-english",
+        "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+        "https://grapheneos.social/@GrapheneOS/117282080803799576",
+        "https://laya.convaiinnovations.com/",
+        "https://huggingface.co/papers/2609.18323",
+        "https://huggingface.co/papers/2609.20511",
+        "https://arxiv.org/abs/2609.20820v1",
+        "https://sspai.com/post/114641",
+        "https://36kr.com/p/3990979197303555?f=rss"
+      ],
+      "url": "tech/archive/2026-09-20.html"
     }
   ]
 }
