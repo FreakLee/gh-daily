@@ -3357,6 +3357,26 @@
         "https://36kr.com/newsflashes/3992659702479874?f=rss"
       ],
       "url": "tech/archive/2026-09-21.html"
+    },
+    {
+      "date": "2026-09-22",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/akitaonrails/ai-memory",
+        "https://github.com/Crosstalk-Solutions/project-nomad",
+        "https://github.com/ruanyf/weekly",
+        "https://alicegg.tech/2026/09/21/attention",
+        "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+        "https://x.ai/news/grok-4-7",
+        "https://huggingface.co/papers/2609.21346",
+        "https://huggingface.co/papers/2609.22068",
+        "https://arxiv.org/abs/2609.22081v1",
+        "https://sspai.com/post/114829",
+        "https://sspai.com/post/114815",
+        "https://36kr.com/newsflashes/3993822651382792?f=rss"
+      ],
+      "url": "tech/archive/2026-09-22.html"
     }
   ]
 }
