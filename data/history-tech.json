@@ -3397,6 +3397,26 @@
         "https://36kr.com/newsflashes/3994099719699458?f=rss"
       ],
       "url": "tech/archive/2026-09-22.html"
+    },
+    {
+      "date": "2026-09-23",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/browser-use/video-use",
+        "https://github.com/google/ax",
+        "https://github.com/davila7/claude-code-templates",
+        "https://www.anthropic.com/claude-opus-5-5",
+        "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+        "https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy",
+        "https://huggingface.co/papers/2609.24984",
+        "https://huggingface.co/papers/2609.25001",
+        "https://arxiv.org/abs/2609.24985v1",
+        "https://sspai.com/post/114878",
+        "https://sspai.com/post/114551",
+        "https://36kr.com/newsflashes/3995239817875589?f=rss"
+      ],
+      "url": "tech/archive/2026-09-23.html"
     }
   ]
 }
