@@ -3068,6 +3068,22 @@
         "https://finance.yahoo.com/markets/crypto/articles/grant-cardone-offers-10-bitcoin-201519149.html"
       ],
       "url": "finance/archive/2026-09-24.html"
+    },
+    {
+      "date": "2026-09-25",
+      "category": "finance",
+      "mode": "daily",
+      "items": [
+        "https://wallstreetcn.com/articles/3782506",
+        "https://wallstreetcn.com/articles/3782511",
+        "https://wallstreetcn.com/articles/3782502",
+        "https://wallstreetcn.com/articles/3782508",
+        "https://www.cnbc.com/2026/09/24/meta-mark-zuckerberg-muse-charm-openai-agent.html",
+        "https://www.cnbc.com/2026/09/24/tesla-aims-to-scale-semi-truck-production-with-nevada-factory-opening.html",
+        "https://www.cnbc.com/2026/09/24/trump-xi-meeting-china-washington.html",
+        "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm"
+      ],
+      "url": "finance/archive/2026-09-25.html"
     }
   ]
 }
