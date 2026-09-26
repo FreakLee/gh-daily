@@ -3517,6 +3517,25 @@
         "https://36kr.com/newsflashes/3998333027471241?f=rss"
       ],
       "url": "tech/archive/2026-09-25.html"
+    },
+    {
+      "date": "2026-09-26",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/mattpocock/skills",
+        "https://github.com/paperclipai/paperclip",
+        "https://github.com/anthropics/skills",
+        "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+        "https://go.dev/blog/simd-experiment",
+        "https://factorio.com/blog/post/fff-447",
+        "https://huggingface.co/papers/2609.28654",
+        "https://huggingface.co/papers/2609.29845",
+        "https://arxiv.org/abs/2609.30264v1",
+        "https://sspai.com/post/114957",
+        "https://36kr.com/newsflashes/3998607176274049?f=rss"
+      ],
+      "url": "tech/archive/2026-09-26.html"
     }
   ]
 }
