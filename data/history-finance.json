@@ -3116,6 +3116,21 @@
         "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm"
       ],
       "url": "finance/archive/2026-09-26.html"
+    },
+    {
+      "date": "2026-09-27",
+      "category": "finance",
+      "mode": "daily",
+      "items": [
+        "https://wallstreetcn.com/articles/3782587",
+        "https://wallstreetcn.com/articles/3782583",
+        "https://wallstreetcn.com/articles/3782579",
+        "https://wallstreetcn.com/articles/3782577",
+        "https://www.cnbc.com/2026/09/26/trump-fuel-economy-cafe-standards.html",
+        "https://www.cnbc.com/2026/09/26/openai-agent-model-behavior-review.html",
+        "https://www.cnbc.com/2026/09/26/trump-rejects-irans-conditional-ceasefire-proposal-wsj-reports.html"
+      ],
+      "url": "finance/archive/2026-09-27.html"
     }
   ]
 }

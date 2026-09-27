@@ -3536,6 +3536,24 @@
         "https://36kr.com/newsflashes/3998607176274049?f=rss"
       ],
       "url": "tech/archive/2026-09-26.html"
+    },
+    {
+      "date": "2026-09-27",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/block/buzz",
+        "https://github.com/zhaoxuya520/reverse-skill",
+        "https://github.com/vercel/next.js",
+        "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
+        "https://github.com/InfinityLoop1308/PipePipe",
+        "https://github.com/reladraw/reladraw",
+        "https://huggingface.co/papers/2609.30221",
+        "https://huggingface.co/papers/2609.23407",
+        "https://sspai.com/post/114958",
+        "https://36kr.com/newsflashes/4000096264261508?f=rss"
+      ],
+      "url": "tech/archive/2026-09-27.html"
     }
   ]
 }
