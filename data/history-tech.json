@@ -3554,6 +3554,26 @@
         "https://36kr.com/newsflashes/4000096264261508?f=rss"
       ],
       "url": "tech/archive/2026-09-27.html"
+    },
+    {
+      "date": "2026-09-28",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/debpalash/VoiceStudio",
+        "https://github.com/mvschwarz/openrig",
+        "https://github.com/vercel-labs/scriptc",
+        "https://sancho.bearblog.dev/google-weird/",
+        "https://mitxela.com/projects/flipflip",
+        "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
+        "https://huggingface.co/papers/2609.28416",
+        "https://huggingface.co/papers/2609.29421",
+        "https://arxiv.org/abs/2609.30258v1",
+        "https://sspai.com/post/115079",
+        "https://sspai.com/post/115056",
+        "https://36kr.com/newsflashes/4002295949102982?f=rss"
+      ],
+      "url": "tech/archive/2026-09-28.html"
     }
   ]
 }
