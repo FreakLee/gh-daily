@@ -3574,6 +3574,26 @@
         "https://36kr.com/newsflashes/4002295949102982?f=rss"
       ],
       "url": "tech/archive/2026-09-28.html"
+    },
+    {
+      "date": "2026-09-28",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/debpalash/VoiceStudio",
+        "https://github.com/mvschwarz/openrig",
+        "https://github.com/vercel-labs/scriptc",
+        "https://sancho.bearblog.dev/google-weird/",
+        "https://fireworks.ai/blog/ember-1",
+        "https://colo.to/nvidia-stock-narrative.html",
+        "https://huggingface.co/papers/2609.31620",
+        "https://huggingface.co/papers/2609.29421",
+        "https://arxiv.org/abs/2609.31619v1",
+        "https://sspai.com/post/114967",
+        "https://sspai.com/post/115079",
+        "https://36kr.com/newsflashes/4002618662096772?f=rss"
+      ],
+      "url": "tech/archive/2026-09-28.html"
     }
   ]
 }
