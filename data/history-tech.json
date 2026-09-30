@@ -3633,6 +3633,25 @@
         "https://36kr.com/newsflashes/4004050496934020?f=rss"
       ],
       "url": "tech/archive/2026-09-29.html"
+    },
+    {
+      "date": "2026-09-30",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/oblien/openship",
+        "https://github.com/averygan/reclip",
+        "https://github.com/NVIDIA/OpenShell",
+        "https://openai.com/index/introducing-gpt-6-1-sol/",
+        "https://openai.com/index/introducing-dots/",
+        "https://spectrum.ieee.org/delhi-electricity-loss",
+        "https://huggingface.co/papers/2609.33325",
+        "https://huggingface.co/papers/2609.32577",
+        "https://sspai.com/post/115153",
+        "https://sspai.com/post/115061",
+        "https://36kr.com/newsflashes/4005137186459778?f=rss"
+      ],
+      "url": "tech/archive/2026-09-30.html"
     }
   ]
 }
