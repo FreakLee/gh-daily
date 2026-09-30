@@ -3652,6 +3652,26 @@
         "https://36kr.com/newsflashes/4005137186459778?f=rss"
       ],
       "url": "tech/archive/2026-09-30.html"
+    },
+    {
+      "date": "2026-09-30",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/oblien/openship",
+        "https://github.com/averygan/reclip",
+        "https://github.com/NVIDIA/OpenShell",
+        "https://openai.com/index/introducing-gpt-6-1-sol/",
+        "https://openai.com/index/introducing-dots/",
+        "https://america.gov/",
+        "https://huggingface.co/papers/2609.32607",
+        "https://huggingface.co/papers/2609.34759",
+        "https://arxiv.org/abs/2609.38178v1",
+        "https://sspai.com/post/114945",
+        "https://sspai.com/post/115197",
+        "https://36kr.com/newsflashes/4005467275136900?f=rss"
+      ],
+      "url": "tech/archive/2026-09-30.html"
     }
   ]
 }
