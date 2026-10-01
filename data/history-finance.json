@@ -3223,6 +3223,22 @@
         "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260929a.htm"
       ],
       "url": "finance/archive/2026-09-30.html"
+    },
+    {
+      "date": "2026-10-01",
+      "category": "finance",
+      "mode": "daily",
+      "items": [
+        "https://wallstreetcn.com/articles/3782853",
+        "https://wallstreetcn.com/articles/3782857",
+        "https://wallstreetcn.com/articles/3782848",
+        "https://wallstreetcn.com/articles/3782819",
+        "https://www.cnbc.com/2026/09/30/trump-diesel-export-ban-gas.html",
+        "https://www.cnbc.com/2026/09/30/google-gemini-4-argon-ai.html",
+        "https://www.cnbc.com/2026/09/30/student-loan-default-support-center.html",
+        "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm"
+      ],
+      "url": "finance/archive/2026-10-01.html"
     }
   ]
 }

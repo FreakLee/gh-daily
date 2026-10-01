@@ -3672,6 +3672,25 @@
         "https://36kr.com/newsflashes/4005467275136900?f=rss"
       ],
       "url": "tech/archive/2026-09-30.html"
+    },
+    {
+      "date": "2026-10-01",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/DietrichGebert/ponytail",
+        "https://github.com/harry0703/MoneyPrinterTurbo",
+        "https://github.com/heygen-com/hyperframes",
+        "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+        "https://earendil.com/posts/you-said-no-mcp/",
+        "https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records",
+        "https://huggingface.co/papers/2609.32722",
+        "https://huggingface.co/papers/2609.36322",
+        "https://sspai.com/post/115070",
+        "https://sspai.com/post/115166",
+        "https://36kr.com/newsflashes/4005904931934082?f=rss"
+      ],
+      "url": "tech/archive/2026-10-01.html"
     }
   ]
 }
