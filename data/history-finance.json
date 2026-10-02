@@ -3255,6 +3255,21 @@
         "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm"
       ],
       "url": "finance/archive/2026-10-01.html"
+    },
+    {
+      "date": "2026-10-02",
+      "category": "finance",
+      "mode": "daily",
+      "items": [
+        "https://wallstreetcn.com/articles/3782904",
+        "https://wallstreetcn.com/articles/3782895",
+        "https://wallstreetcn.com/articles/3782859",
+        "https://wallstreetcn.com/articles/3782893",
+        "https://www.cnbc.com/2026/10/01/trump-fed-powell-lisa-cook-michael-barr-removal.html",
+        "https://www.cnbc.com/2026/10/01/google-gemini-4-arrives-as-wall-street-shifts-to-personal-agents.html",
+        "https://www.cnbc.com/2026/10/01/linkedin-chief-roslansky-microsoft-exit.html"
+      ],
+      "url": "finance/archive/2026-10-02.html"
     }
   ]
 }
