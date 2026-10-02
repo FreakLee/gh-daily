@@ -3728,6 +3728,24 @@
         "https://36kr.com/newsflashes/4006930331701384?f=rss"
       ],
       "url": "tech/archive/2026-10-02.html"
+    },
+    {
+      "date": "2026-10-02",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/earendil-works/pi",
+        "https://github.com/cursor/plugins",
+        "https://github.com/pbakaus/impeccable",
+        "https://earendil.com/posts/pi-1-0/",
+        "https://github.com/streetcomplete/StreetComplete/issues/5421",
+        "https://blog.cloudflare.com/clef-decision-models/",
+        "https://huggingface.co/papers/2609.35690",
+        "https://huggingface.co/papers/2610.00906",
+        "https://arxiv.org/abs/2610.02207v1",
+        "https://36kr.com/newsflashes/4008308658737284?f=rss"
+      ],
+      "url": "tech/archive/2026-10-02.html"
     }
   ]
 }
