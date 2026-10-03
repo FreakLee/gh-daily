@@ -3746,6 +3746,24 @@
         "https://36kr.com/newsflashes/4008308658737284?f=rss"
       ],
       "url": "tech/archive/2026-10-02.html"
+    },
+    {
+      "date": "2026-10-03",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/Panniantong/Agent-Reach",
+        "https://github.com/JuliusBrussee/caveman",
+        "https://github.com/google/skills",
+        "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
+        "https://developer.apple.com/pass-designer/",
+        "https://bfl.ai/models/flux-3-image",
+        "https://huggingface.co/papers/2610.01762",
+        "https://huggingface.co/papers/2609.35259",
+        "https://sspai.com/post/115211",
+        "https://36kr.com/newsflashes/4008534054948736?f=rss"
+      ],
+      "url": "tech/archive/2026-10-03.html"
     }
   ]
 }

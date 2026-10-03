@@ -3285,6 +3285,22 @@
         "https://www.cnbc.com/2026/10/01/treasury-sanctions-iran-auto-rail.html"
       ],
       "url": "finance/archive/2026-10-02.html"
+    },
+    {
+      "date": "2026-10-03",
+      "category": "finance",
+      "mode": "daily",
+      "items": [
+        "https://wallstreetcn.com/articles/3782954",
+        "https://wallstreetcn.com/articles/3782939",
+        "https://wallstreetcn.com/articles/3782950",
+        "https://wallstreetcn.com/articles/3782951",
+        "https://www.cnbc.com/2026/10/02/doj-says-it-will-not-reopen-criminal-probe-into-former-fed-chair-powell.html",
+        "https://www.cnbc.com/2026/10/02/anthropic-to-invest-100-million-to-train-ai-engineer-talent.html",
+        "https://www.cnbc.com/2026/10/02/anthropic-warns-govt-attitudes-may-hurt-ties-ipo-shows.html",
+        "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm"
+      ],
+      "url": "finance/archive/2026-10-03.html"
     }
   ]
 }
