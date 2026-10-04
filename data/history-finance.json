@@ -3301,6 +3301,22 @@
         "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm"
       ],
       "url": "finance/archive/2026-10-03.html"
+    },
+    {
+      "date": "2026-10-04",
+      "category": "finance",
+      "mode": "daily",
+      "items": [
+        "https://wallstreetcn.com/articles/3782964",
+        "https://wallstreetcn.com/articles/3782945",
+        "https://wallstreetcn.com/articles/3782957",
+        "https://wallstreetcn.com/articles/3782958",
+        "https://www.cnbc.com/2026/10/03/trump-jay-clayton-ai-czar.html",
+        "https://www.cnbc.com/2026/10/03/ukraine-to-hit-refineries-in-response-to-russian-airstrikes-zelenskyy.html",
+        "https://www.cnbc.com/2026/10/03/tesla-cybercab-pressure-to-expand-after-rocky-first-month-in-austin.html",
+        "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm"
+      ],
+      "url": "finance/archive/2026-10-04.html"
     }
   ]
 }

@@ -3764,6 +3764,24 @@
         "https://36kr.com/newsflashes/4008534054948736?f=rss"
       ],
       "url": "tech/archive/2026-10-03.html"
+    },
+    {
+      "date": "2026-10-04",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/affaan-m/ECC",
+        "https://github.com/pingdotgg/t3code",
+        "https://github.com/OpenCut-app/OpenCut",
+        "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+        "https://notoriousbfg.com/hole-punch/",
+        "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+        "https://huggingface.co/papers/2609.36585",
+        "https://huggingface.co/papers/2610.00812",
+        "https://sspai.com/post/114922",
+        "https://36kr.com/newsflashes/4009943497117577?f=rss"
+      ],
+      "url": "tech/archive/2026-10-04.html"
     }
   ]
 }
