@@ -3800,6 +3800,26 @@
         "https://36kr.com/newsflashes/4011311533543553?f=rss"
       ],
       "url": "tech/archive/2026-10-05.html"
+    },
+    {
+      "date": "2026-10-05",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/garrytan/gstack",
+        "https://github.com/calesthio/OpenMontage",
+        "https://github.com/antirez/ds4",
+        "https://news.ycombinator.com/item?id=49949438",
+        "https://github.com/Niko1221/Strata",
+        "https://github.com/omlahore/RemoveMacAI",
+        "https://huggingface.co/papers/2609.36388",
+        "https://huggingface.co/papers/2609.38879",
+        "https://arxiv.org/abs/2610.03717v1",
+        "https://sspai.com/post/114536",
+        "https://sspai.com/post/115308",
+        "https://36kr.com/newsflashes/4012468808192129?f=rss"
+      ],
+      "url": "tech/archive/2026-10-05.html"
     }
   ]
 }
