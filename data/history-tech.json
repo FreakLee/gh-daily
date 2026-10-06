@@ -3837,6 +3837,24 @@
         "https://36kr.com/newsflashes/4012921962827912?f=rss"
       ],
       "url": "tech/archive/2026-10-06.html"
+    },
+    {
+      "date": "2026-10-06",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/msitarzewski/agency-agents",
+        "https://github.com/tester-army/e2e",
+        "https://github.com/DuarteSantos8/openGym",
+        "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+        "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+        "https://reflection.ai/blog/introducing-beam",
+        "https://huggingface.co/papers/2610.04198",
+        "https://huggingface.co/papers/2610.05608",
+        "https://arxiv.org/abs/2610.06852v1",
+        "https://36kr.com/newsflashes/4013925315284872?f=rss"
+      ],
+      "url": "tech/archive/2026-10-06.html"
     }
   ]
 }
