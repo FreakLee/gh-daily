@@ -3874,6 +3874,26 @@
         "https://36kr.com/newsflashes/4014160822505345?f=rss"
       ],
       "url": "tech/archive/2026-10-07.html"
+    },
+    {
+      "date": "2026-10-07",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/ayghri/i-have-adhd",
+        "https://github.com/cathrynlavery/diagram-design",
+        "https://github.com/mattpocock/skills",
+        "https://mistral.ai/news/mistral-large-4/\\",
+        "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+        "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+        "https://huggingface.co/papers/2610.08448",
+        "https://huggingface.co/papers/2610.03543",
+        "https://arxiv.org/abs/2610.08789v1",
+        "https://sspai.com/post/114845",
+        "https://sspai.com/post/115416",
+        "https://36kr.com/newsflashes/4015298914750600?f=rss"
+      ],
+      "url": "tech/archive/2026-10-07.html"
     }
   ]
 }
