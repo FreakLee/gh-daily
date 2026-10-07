@@ -3855,6 +3855,25 @@
         "https://36kr.com/newsflashes/4013925315284872?f=rss"
       ],
       "url": "tech/archive/2026-10-06.html"
+    },
+    {
+      "date": "2026-10-07",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/ayghri/i-have-adhd",
+        "https://github.com/cathrynlavery/diagram-design",
+        "https://github.com/morluto/rea",
+        "https://mistral.ai/news/mistral-large-4/\\",
+        "https://www.nobelprize.org/prizes/physics/2026/",
+        "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
+        "https://huggingface.co/papers/2610.04292",
+        "https://huggingface.co/papers/2609.34227",
+        "https://arxiv.org/abs/2610.06851v1",
+        "https://sspai.com/post/115416",
+        "https://36kr.com/newsflashes/4014160822505345?f=rss"
+      ],
+      "url": "tech/archive/2026-10-07.html"
     }
   ]
 }
