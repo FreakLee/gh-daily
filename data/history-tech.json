@@ -3894,6 +3894,24 @@
         "https://36kr.com/newsflashes/4015298914750600?f=rss"
       ],
       "url": "tech/archive/2026-10-07.html"
+    },
+    {
+      "date": "2026-10-08",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/cloudflare/security-audit-skill",
+        "https://github.com/boykopovar/AnyPS5",
+        "https://github.com/trycua/cua",
+        "https://www.anthropic.com/claude-haiku-5-5",
+        "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
+        "https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees",
+        "https://huggingface.co/papers/2610.07557",
+        "https://huggingface.co/papers/2610.04596",
+        "https://arxiv.org/abs/2610.08785v1",
+        "https://36kr.com/newsflashes/4016446627680133?f=rss"
+      ],
+      "url": "tech/archive/2026-10-08.html"
     }
   ]
 }
