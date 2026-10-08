@@ -3912,6 +3912,26 @@
         "https://36kr.com/newsflashes/4016446627680133?f=rss"
       ],
       "url": "tech/archive/2026-10-08.html"
+    },
+    {
+      "date": "2026-10-08",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/cloudflare/security-audit-skill",
+        "https://github.com/boykopovar/AnyPS5",
+        "https://github.com/trycua/cua",
+        "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+        "https://www.anthropic.com/claude-haiku-5-5",
+        "https://openai.com/index/gpt-6-for-everyone/",
+        "https://huggingface.co/papers/2610.10528",
+        "https://huggingface.co/papers/2609.38169",
+        "https://arxiv.org/abs/2610.10538v1",
+        "https://sspai.com/post/115462",
+        "https://sspai.com/post/115455",
+        "https://36kr.com/newsflashes/4016824599908233?f=rss"
+      ],
+      "url": "tech/archive/2026-10-08.html"
     }
   ]
 }
