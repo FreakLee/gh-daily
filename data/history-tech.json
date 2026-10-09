@@ -3932,6 +3932,25 @@
         "https://36kr.com/newsflashes/4016824599908233?f=rss"
       ],
       "url": "tech/archive/2026-10-08.html"
+    },
+    {
+      "date": "2026-10-09",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/liquidslr/system-design-notes",
+        "https://github.com/anthropics/knowledge-work-plugins",
+        "https://github.com/storytold/artcraft",
+        "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea",
+        "https://cactuscompute.com/blog/whistle",
+        "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+        "https://huggingface.co/papers/2610.03185",
+        "https://huggingface.co/papers/2610.04722",
+        "https://sspai.com/post/115282",
+        "https://sspai.com/post/113843",
+        "https://36kr.com/newsflashes/4017882297667458?f=rss"
+      ],
+      "url": "tech/archive/2026-10-09.html"
     }
   ]
 }

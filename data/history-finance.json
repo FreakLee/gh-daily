@@ -3441,6 +3441,22 @@
         "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm"
       ],
       "url": "finance/archive/2026-10-08.html"
+    },
+    {
+      "date": "2026-10-09",
+      "category": "finance",
+      "mode": "daily",
+      "items": [
+        "https://wallstreetcn.com/articles/3783173",
+        "https://wallstreetcn.com/articles/3783217",
+        "https://wallstreetcn.com/articles/3783225",
+        "https://wallstreetcn.com/articles/3783224",
+        "https://www.cnbc.com/2026/10/08/stock-market-today-live-updates.html",
+        "https://www.cnbc.com/2026/10/08/fridays-big-stock-stories-whats-likely-to-move-the-market.html",
+        "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
+        "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm"
+      ],
+      "url": "finance/archive/2026-10-09.html"
     }
   ]
 }
