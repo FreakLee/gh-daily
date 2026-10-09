@@ -3951,6 +3951,23 @@
         "https://36kr.com/newsflashes/4017882297667458?f=rss"
       ],
       "url": "tech/archive/2026-10-09.html"
+    },
+    {
+      "date": "2026-10-09",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://news.ycombinator.com/item?id=50006366",
+        "https://cactuscompute.com/blog/whistle",
+        "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
+        "https://huggingface.co/papers/2610.12242",
+        "https://huggingface.co/papers/2610.08215",
+        "https://arxiv.org/abs/2610.12467v1",
+        "https://sspai.com/post/114869",
+        "https://sspai.com/post/115532",
+        "https://36kr.com/newsflashes/4018243525300103?f=rss"
+      ],
+      "url": "tech/archive/2026-10-09.html"
     }
   ]
 }
