@@ -3987,6 +3987,24 @@
         "https://36kr.com/p/4019297973735560?f=rss"
       ],
       "url": "tech/archive/2026-10-10.html"
+    },
+    {
+      "date": "2026-10-11",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/hugohe3/ppt-master",
+        "https://github.com/multica-ai/andrej-karpathy-skills",
+        "https://github.com/pytorch/pytorch",
+        "https://rea.tools/",
+        "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
+        "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
+        "https://huggingface.co/papers/2610.11794",
+        "https://huggingface.co/papers/2610.12423",
+        "https://sspai.com/post/115237",
+        "https://36kr.com/newsflashes/4019875066531972?f=rss"
+      ],
+      "url": "tech/archive/2026-10-11.html"
     }
   ]
 }

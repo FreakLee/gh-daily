@@ -3489,6 +3489,21 @@
         "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm"
       ],
       "url": "finance/archive/2026-10-10.html"
+    },
+    {
+      "date": "2026-10-11",
+      "category": "finance",
+      "mode": "daily",
+      "items": [
+        "https://wallstreetcn.com/articles/3783332",
+        "https://wallstreetcn.com/articles/3783326",
+        "https://wallstreetcn.com/articles/3783323",
+        "https://wallstreetcn.com/articles/3783317",
+        "https://www.cnbc.com/2026/10/10/microsoft-satya-nadella-ai-emergency-brake-safety.html",
+        "https://www.cnbc.com/2026/10/10/trump-says-ukraine-should-get-a-new-president.html",
+        "https://www.cnbc.com/2026/10/10/vance-microsoft-h1b-layoffs-visa-data.html"
+      ],
+      "url": "finance/archive/2026-10-11.html"
     }
   ]
 }
