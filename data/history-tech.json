@@ -4005,6 +4005,25 @@
         "https://36kr.com/newsflashes/4019875066531972?f=rss"
       ],
       "url": "tech/archive/2026-10-11.html"
+    },
+    {
+      "date": "2026-10-12",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/bilawalsidhu/gods-eye-view",
+        "https://github.com/lyogavin/airllm",
+        "https://github.com/chrislgarry/Apollo-11",
+        "https://ircv3.net/",
+        "https://nanolathe.gg",
+        "https://www.nyc.gov/main/click-to-cancel",
+        "https://huggingface.co/papers/2610.11287",
+        "https://huggingface.co/papers/2609.33987",
+        "https://sspai.com/post/115845",
+        "https://sspai.com/post/115568",
+        "https://36kr.com/newsflashes/4022114994818947?f=rss"
+      ],
+      "url": "tech/archive/2026-10-12.html"
     }
   ]
 }
