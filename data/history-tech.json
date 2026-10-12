@@ -4024,6 +4024,26 @@
         "https://36kr.com/newsflashes/4022114994818947?f=rss"
       ],
       "url": "tech/archive/2026-10-12.html"
+    },
+    {
+      "date": "2026-10-12",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/bilawalsidhu/gods-eye-view",
+        "https://github.com/lyogavin/airllm",
+        "https://github.com/chrislgarry/Apollo-11",
+        "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
+        "https://nanolathe.gg",
+        "https://www.nyc.gov/main/click-to-cancel",
+        "https://huggingface.co/papers/2610.13395",
+        "https://huggingface.co/papers/2610.07987",
+        "https://arxiv.org/abs/2610.13948v1",
+        "https://sspai.com/post/114821",
+        "https://sspai.com/post/115845",
+        "https://36kr.com/newsflashes/4022483486707589?f=rss"
+      ],
+      "url": "tech/archive/2026-10-12.html"
     }
   ]
 }
