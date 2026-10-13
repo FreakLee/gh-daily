@@ -4064,6 +4064,26 @@
         "https://36kr.com/newsflashes/4023519274635392?f=rss"
       ],
       "url": "tech/archive/2026-10-13.html"
+    },
+    {
+      "date": "2026-10-13",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/Alishahryar1/free-claude-code",
+        "https://github.com/mksglu/context-mode",
+        "https://github.com/open-webui/open-webui",
+        "https://research.meta.ai/blog/muse-wonder",
+        "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+        "https://github.com/openai/codex/issues/48195",
+        "https://huggingface.co/papers/2610.13166",
+        "https://huggingface.co/papers/2609.39601",
+        "https://arxiv.org/abs/2610.13935v1",
+        "https://sspai.com/post/116028",
+        "https://sspai.com/post/114561",
+        "https://36kr.com/newsflashes/4023945159315587?f=rss"
+      ],
+      "url": "tech/archive/2026-10-13.html"
     }
   ]
 }
