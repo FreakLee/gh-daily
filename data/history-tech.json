@@ -4044,6 +4044,26 @@
         "https://36kr.com/newsflashes/4022483486707589?f=rss"
       ],
       "url": "tech/archive/2026-10-12.html"
+    },
+    {
+      "date": "2026-10-13",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/Alishahryar1/free-claude-code",
+        "https://github.com/mksglu/context-mode",
+        "https://github.com/open-webui/open-webui",
+        "https://research.meta.ai/blog/muse-wonder",
+        "https://github.com/openai/codex/issues/48195",
+        "https://z.ai/blog/glm-legal",
+        "https://huggingface.co/papers/2610.13527",
+        "https://huggingface.co/papers/2610.12341",
+        "https://arxiv.org/abs/2610.13935v1",
+        "https://sspai.com/post/115934",
+        "https://sspai.com/post/115242",
+        "https://36kr.com/newsflashes/4023519274635392?f=rss"
+      ],
+      "url": "tech/archive/2026-10-13.html"
     }
   ]
 }
