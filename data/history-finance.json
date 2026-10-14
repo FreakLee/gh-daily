@@ -3564,6 +3564,22 @@
         "https://www.cnbc.com/2026/10/12/trump-russia-diesel-putin.html"
       ],
       "url": "finance/archive/2026-10-13.html"
+    },
+    {
+      "date": "2026-10-14",
+      "category": "finance",
+      "mode": "daily",
+      "items": [
+        "https://wallstreetcn.com/articles/3783492",
+        "https://wallstreetcn.com/articles/3783572",
+        "https://wallstreetcn.com/articles/3783569",
+        "https://wallstreetcn.com/articles/3783560",
+        "https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html",
+        "https://www.cnbc.com/2026/10/13/anthropic-wants-court-in-dc-to-rehear-appeal-of-pentagon-blacklist-.html",
+        "https://www.cnbc.com/2026/10/13/judge-says-elon-musk-engaged-intimidation-of-ex-fema-cfo-mary-comans.html",
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm"
+      ],
+      "url": "finance/archive/2026-10-14.html"
     }
   ]
 }
