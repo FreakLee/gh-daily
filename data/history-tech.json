@@ -4103,6 +4103,26 @@
         "https://36kr.com/newsflashes/4024948783763337?f=rss"
       ],
       "url": "tech/archive/2026-10-14.html"
+    },
+    {
+      "date": "2026-10-14",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/debpalash/VoiceStudio",
+        "https://github.com/vercel-labs/skills",
+        "https://github.com/xtool-org/xtool",
+        "https://deepmind.google/models/gemini/",
+        "https://www.apple.com/apple-homeview/",
+        "https://github.com/rust-lang/rust/issues/164250",
+        "https://huggingface.co/papers/2610.15028",
+        "https://huggingface.co/papers/2609.38847",
+        "https://arxiv.org/abs/2610.18526v1",
+        "https://sspai.com/post/116109",
+        "https://sspai.com/post/92653",
+        "https://36kr.com/newsflashes/4025227845799809?f=rss"
+      ],
+      "url": "tech/archive/2026-10-14.html"
     }
   ]
 }
