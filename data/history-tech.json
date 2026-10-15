@@ -4142,6 +4142,26 @@
         "https://36kr.com/newsflashes/4026374527487873?f=rss"
       ],
       "url": "tech/archive/2026-10-15.html"
+    },
+    {
+      "date": "2026-10-15",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/morluto/rea",
+        "https://github.com/NationalSecurityAgency/ghidra",
+        "https://github.com/K-Dense-AI/scientific-agent-skills",
+        "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+        "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+        "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
+        "https://huggingface.co/papers/2610.20571",
+        "https://huggingface.co/papers/2610.20584",
+        "https://arxiv.org/abs/2610.20606v1",
+        "https://sspai.com/post/115238",
+        "https://sspai.com/post/116193",
+        "https://36kr.com/newsflashes/4026655901913474?f=rss"
+      ],
+      "url": "tech/archive/2026-10-15.html"
     }
   ]
 }
