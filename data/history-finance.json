@@ -3596,6 +3596,21 @@
         "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm"
       ],
       "url": "finance/archive/2026-10-14.html"
+    },
+    {
+      "date": "2026-10-15",
+      "category": "finance",
+      "mode": "daily",
+      "items": [
+        "https://wallstreetcn.com/articles/3783655",
+        "https://wallstreetcn.com/articles/3783654",
+        "https://wallstreetcn.com/articles/3783653",
+        "https://wallstreetcn.com/articles/3783651",
+        "https://www.cnbc.com/2026/10/14/trump-appeals-white-house-ban-judge.html",
+        "https://www.cnbc.com/2026/10/14/openai-alfozan-recording-raed-ventures.html",
+        "https://www.cnbc.com/2026/10/14/openai-sued-by-8-states-over-chatgpt-safety-concerns-.html"
+      ],
+      "url": "finance/archive/2026-10-15.html"
     }
   ]
 }
