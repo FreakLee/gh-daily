@@ -4182,6 +4182,26 @@
         "https://36kr.com/newsflashes/4027789710725761?f=rss"
       ],
       "url": "tech/archive/2026-10-16.html"
+    },
+    {
+      "date": "2026-10-16",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/affaan-m/ECC",
+        "https://github.com/obra/superpowers",
+        "https://github.com/ruvnet/ruflo",
+        "https://research.meta.ai/blog/muse-spark-open",
+        "https://already-clean.goodfire.com/",
+        "https://github.com/fyzugx/DEsk",
+        "https://huggingface.co/papers/2610.22341",
+        "https://huggingface.co/papers/2610.22282",
+        "https://arxiv.org/abs/2610.22372v1",
+        "https://sspai.com/post/115688",
+        "https://sspai.com/post/116355",
+        "https://36kr.com/newsflashes/4028051520868998?f=rss"
+      ],
+      "url": "tech/archive/2026-10-16.html"
     }
   ]
 }
