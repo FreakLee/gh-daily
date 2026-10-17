@@ -4202,6 +4202,25 @@
         "https://36kr.com/newsflashes/4028051520868998?f=rss"
       ],
       "url": "tech/archive/2026-10-16.html"
+    },
+    {
+      "date": "2026-10-17",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/MadsLorentzen/ai-job-search",
+        "https://github.com/cursor/plugins",
+        "https://github.com/anthropics/claude-plugins-official",
+        "https://www.tesla.com/roadster",
+        "https://www.anthropic.com/research/ecdsa-curve-origins",
+        "https://www.mercor.com/research/labor-index/benchmark-map/",
+        "https://huggingface.co/papers/2610.22200",
+        "https://huggingface.co/papers/2610.22350",
+        "https://sspai.com/post/116423",
+        "https://sspai.com/post/114836",
+        "https://36kr.com/newsflashes/4028613885317764?f=rss"
+      ],
+      "url": "tech/archive/2026-10-17.html"
     }
   ]
 }
