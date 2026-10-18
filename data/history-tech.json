@@ -4221,6 +4221,24 @@
         "https://36kr.com/newsflashes/4028613885317764?f=rss"
       ],
       "url": "tech/archive/2026-10-17.html"
+    },
+    {
+      "date": "2026-10-18",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/stablyai/orca",
+        "https://github.com/anomalyco/opencode",
+        "https://github.com/anthropics/claude-code",
+        "https://twitter.com/opencode/status/2111516673953935833",
+        "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "https://alexwang.ai/posts/associative-memory/",
+        "https://huggingface.co/papers/2610.20939",
+        "https://huggingface.co/papers/2610.21261",
+        "https://sspai.com/post/104231",
+        "https://36kr.com/newsflashes/4029995773317766?f=rss"
+      ],
+      "url": "tech/archive/2026-10-18.html"
     }
   ]
 }
