@@ -4257,6 +4257,26 @@
         "https://36kr.com/newsflashes/4032043672490374?f=rss"
       ],
       "url": "tech/archive/2026-10-19.html"
+    },
+    {
+      "date": "2026-10-19",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/Comfy-Org/ComfyUI",
+        "https://github.com/akitaonrails/ai-memory",
+        "https://github.com/HKUDS/CLI-Anything",
+        "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+        "https://karrisaarinen.com/posts/someone-behind-the-software/",
+        "https://github.com/VikOlliver/RepRapMicron/wiki",
+        "https://huggingface.co/papers/2610.22471",
+        "https://huggingface.co/papers/2610.23479",
+        "https://arxiv.org/abs/2610.23854v1",
+        "https://sspai.com/post/115125",
+        "https://sspai.com/post/116641",
+        "https://36kr.com/newsflashes/4032310166458760?f=rss"
+      ],
+      "url": "tech/archive/2026-10-19.html"
     }
   ]
 }
