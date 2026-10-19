@@ -4239,6 +4239,24 @@
         "https://36kr.com/newsflashes/4029995773317766?f=rss"
       ],
       "url": "tech/archive/2026-10-18.html"
+    },
+    {
+      "date": "2026-10-19",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/Comfy-Org/ComfyUI",
+        "https://github.com/akitaonrails/ai-memory",
+        "https://github.com/HKUDS/CLI-Anything",
+        "https://api-docs.deepseek.com/guides/search/",
+        "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+        "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+        "https://huggingface.co/papers/2610.21095",
+        "https://huggingface.co/papers/2610.22355",
+        "https://sspai.com/post/115241",
+        "https://36kr.com/newsflashes/4032043672490374?f=rss"
+      ],
+      "url": "tech/archive/2026-10-19.html"
     }
   ]
 }
