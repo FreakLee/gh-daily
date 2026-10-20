@@ -4296,6 +4296,26 @@
         "https://36kr.com/newsflashes/4033453986534528?f=rss"
       ],
       "url": "tech/archive/2026-10-20.html"
+    },
+    {
+      "date": "2026-10-20",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/shiyu-coder/Kronos",
+        "https://github.com/Kruk2/jasna",
+        "https://github.com/headroomlabs-ai/headroom",
+        "https://marc.info/?l=openbsd-ports&m=179236125692175",
+        "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
+        "https://www.youtube.com/watch?v=Ndftcft6XhU",
+        "https://huggingface.co/papers/2610.26860",
+        "https://huggingface.co/papers/2610.24960",
+        "https://arxiv.org/abs/2610.26863v1",
+        "https://sspai.com/post/116430",
+        "https://sspai.com/post/116758",
+        "https://36kr.com/newsflashes/4033737173996680?f=rss"
+      ],
+      "url": "tech/archive/2026-10-20.html"
     }
   ]
 }
