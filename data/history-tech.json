@@ -4316,6 +4316,25 @@
         "https://36kr.com/newsflashes/4033737173996680?f=rss"
       ],
       "url": "tech/archive/2026-10-20.html"
+    },
+    {
+      "date": "2026-10-21",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/Graphify-Labs/graphify",
+        "https://github.com/DietrichGebert/ponytail",
+        "https://github.com/cloudflare/security-audit-skill",
+        "https://github.com/deepseek-ai/DeepInfer",
+        "https://emudhra.we-have-a-problem.com/",
+        "https://mistral.ai/news/voxtral-3/",
+        "https://huggingface.co/papers/2610.26825",
+        "https://huggingface.co/papers/2610.26663",
+        "https://sspai.com/prime/story/inside-release-notes-261020",
+        "https://sspai.com/post/115475",
+        "https://36kr.com/newsflashes/4034867562255492?f=rss"
+      ],
+      "url": "tech/archive/2026-10-21.html"
     }
   ]
 }

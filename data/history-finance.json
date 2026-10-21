@@ -3747,6 +3747,21 @@
         "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html"
       ],
       "url": "finance/archive/2026-10-20.html"
+    },
+    {
+      "date": "2026-10-21",
+      "category": "finance",
+      "mode": "daily",
+      "items": [
+        "https://wallstreetcn.com/articles/3784071",
+        "https://wallstreetcn.com/articles/3784062",
+        "https://wallstreetcn.com/articles/3784074",
+        "https://wallstreetcn.com/articles/3783983",
+        "https://www.cnbc.com/2026/10/20/spacex-spcx-earnings-live-updates-q3-2026html.html",
+        "https://www.cnbc.com/2026/10/20/trump-tariffs-canada-section-338-lawsuit.html",
+        "https://www.cnbc.com/2026/10/20/anthropic-nscale-data-center-deal.html"
+      ],
+      "url": "finance/archive/2026-10-21.html"
     }
   ]
 }
