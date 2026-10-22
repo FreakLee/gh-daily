@@ -4374,6 +4374,26 @@
         "https://36kr.com/newsflashes/4036291847836544?f=rss"
       ],
       "url": "tech/archive/2026-10-22.html"
+    },
+    {
+      "date": "2026-10-22",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/supabase/supabase",
+        "https://github.com/vllm-project/vllm",
+        "https://github.com/strelov1/freehire",
+        "https://github.com/php/php-src/releases/tag/php-8.2.35",
+        "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+        "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+        "https://huggingface.co/papers/2610.26828",
+        "https://huggingface.co/papers/2610.28577",
+        "https://arxiv.org/abs/2610.30132v1",
+        "https://sspai.com/post/115090",
+        "https://sspai.com/post/116953",
+        "https://36kr.com/newsflashes/4036569140728704?f=rss"
+      ],
+      "url": "tech/archive/2026-10-22.html"
     }
   ]
 }
