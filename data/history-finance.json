@@ -3807,6 +3807,21 @@
         "https://www.cnbc.com/2026/10/21/stocks-making-the-biggest-moves-after-hours-meta-tsla-lrcx-ibm.html"
       ],
       "url": "finance/archive/2026-10-22.html"
+    },
+    {
+      "date": "2026-10-23",
+      "category": "finance",
+      "mode": "daily",
+      "items": [
+        "https://wallstreetcn.com/articles/3784256",
+        "https://wallstreetcn.com/articles/3784261",
+        "https://wallstreetcn.com/articles/3784232",
+        "https://wallstreetcn.com/articles/3784260",
+        "https://www.cnbc.com/2026/10/22/meta-mark-zuckerberg-california-billionaire-tax.html",
+        "https://www.cnbc.com/2026/10/22/trump-world-liberty-crypto-lawsuit-uae.html",
+        "https://www.cnbc.com/2026/10/22/elon-musk-midterm-election-spacex-tesla.html"
+      ],
+      "url": "finance/archive/2026-10-23.html"
     }
   ]
 }
