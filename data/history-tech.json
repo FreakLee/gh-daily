@@ -4453,6 +4453,25 @@
         "https://36kr.com/newsflashes/4038434903970950?f=rss"
       ],
       "url": "tech/archive/2026-10-24.html"
+    },
+    {
+      "date": "2026-10-25",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/Nutlope/hallmark",
+        "https://github.com/pbakaus/impeccable",
+        "https://github.com/aws/agent-toolkit-for-aws",
+        "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+        "https://stealmybitcoin.com/",
+        "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+        "https://huggingface.co/papers/2610.30949",
+        "https://huggingface.co/papers/2610.29677",
+        "https://arxiv.org/abs/2610.31667v1",
+        "https://sspai.com/post/116128",
+        "https://36kr.com/p/4039749830120583?f=rss"
+      ],
+      "url": "tech/archive/2026-10-25.html"
     }
   ]
 }
