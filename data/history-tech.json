@@ -4490,6 +4490,26 @@
         "https://36kr.com/newsflashes/4041926804755331?f=rss"
       ],
       "url": "tech/archive/2026-10-26.html"
+    },
+    {
+      "date": "2026-10-26",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/debpalash/VoiceStudio",
+        "https://github.com/TauricResearch/TradingAgents",
+        "https://github.com/makecindy/cindy",
+        "https://danluu.com/ambitious/",
+        "https://lynchlab.net/llm-skin-cancer",
+        "https://imaginationlibrary.com/",
+        "https://huggingface.co/papers/2610.30753",
+        "https://huggingface.co/papers/2610.30932",
+        "https://arxiv.org/abs/2610.32982v1",
+        "https://sspai.com/post/115074",
+        "https://sspai.com/post/117180",
+        "https://36kr.com/newsflashes/4042219960259715?f=rss"
+      ],
+      "url": "tech/archive/2026-10-26.html"
     }
   ]
 }
