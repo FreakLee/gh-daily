@@ -4529,6 +4529,26 @@
         "https://36kr.com/p/4043364384707456?f=rss"
       ],
       "url": "tech/archive/2026-10-27.html"
+    },
+    {
+      "date": "2026-10-27",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/Panniantong/Agent-Reach",
+        "https://github.com/affaan-m/ECC",
+        "https://github.com/multica-ai/andrej-karpathy-skills",
+        "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+        "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
+        "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+        "https://huggingface.co/papers/2610.33568",
+        "https://huggingface.co/papers/2610.34662",
+        "https://arxiv.org/abs/2610.35868v1",
+        "https://sspai.com/post/115855",
+        "https://sspai.com/post/117600",
+        "https://36kr.com/newsflashes/4043658019066756?f=rss"
+      ],
+      "url": "tech/archive/2026-10-27.html"
     }
   ]
 }
