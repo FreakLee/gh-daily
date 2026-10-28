@@ -4568,6 +4568,26 @@
         "https://36kr.com/newsflashes/4044782367806599?f=rss"
       ],
       "url": "tech/archive/2026-10-28.html"
+    },
+    {
+      "date": "2026-10-28",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/HKUDS/DeepTutor",
+        "https://github.com/obra/superpowers",
+        "https://github.com/elayadesign/ai-design-skills",
+        "https://ghostty.org/docs/install/release-notes/1-4-0",
+        "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
+        "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+        "https://huggingface.co/papers/2610.34283",
+        "https://huggingface.co/papers/2610.36729",
+        "https://arxiv.org/abs/2610.37668v1",
+        "https://sspai.com/post/115533",
+        "https://sspai.com/post/117684",
+        "https://36kr.com/newsflashes/4045121196102532?f=rss"
+      ],
+      "url": "tech/archive/2026-10-28.html"
     }
   ]
 }
