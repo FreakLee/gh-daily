@@ -4627,6 +4627,25 @@
         "https://36kr.com/newsflashes/4046538865726339?f=rss"
       ],
       "url": "tech/archive/2026-10-29.html"
+    },
+    {
+      "date": "2026-10-30",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/thedotmack/claude-mem",
+        "https://github.com/togg53192-cmd/jailbreaks",
+        "https://github.com/milind-soni/OpenMausBot",
+        "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+        "https://mistral.ai/news/mistral-large-4-oss/",
+        "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+        "https://huggingface.co/papers/2610.32749",
+        "https://huggingface.co/papers/2610.37662",
+        "https://sspai.com/post/117791",
+        "https://sspai.com/post/117244",
+        "https://36kr.com/newsflashes/4047605829220864?f=rss"
+      ],
+      "url": "tech/archive/2026-10-30.html"
     }
   ]
 }
