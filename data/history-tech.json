@@ -4666,6 +4666,26 @@
         "https://36kr.com/newsflashes/4047939826104838?f=rss"
       ],
       "url": "tech/archive/2026-10-30.html"
+    },
+    {
+      "date": "2026-10-31",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/mattpocock/skills",
+        "https://github.com/pingdotgg/t3code",
+        "https://github.com/anthropics/skills",
+        "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+        "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+        "https://status.northflank.com",
+        "https://huggingface.co/papers/2610.39633",
+        "https://huggingface.co/papers/2610.38568",
+        "https://arxiv.org/abs/2610.40654v1",
+        "https://sspai.com/post/117867",
+        "https://sspai.com/post/116047",
+        "https://36kr.com/newsflashes/4048375707007236?f=rss"
+      ],
+      "url": "tech/archive/2026-10-31.html"
     }
   ]
 }

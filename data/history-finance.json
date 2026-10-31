@@ -4020,6 +4020,17 @@
         "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm"
       ],
       "url": "finance/archive/2026-10-30.html"
+    },
+    {
+      "date": "2026-10-31",
+      "category": "finance",
+      "mode": "daily",
+      "items": [
+        "https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html",
+        "https://www.cnbc.com/2026/10/30/trump-california-counting-alleged-noncitizen-votes.html",
+        "https://www.cnbc.com/2026/10/30/binance-hack-elon-musk-tesla-spacex.html"
+      ],
+      "url": "finance/archive/2026-10-31.html"
     }
   ]
 }

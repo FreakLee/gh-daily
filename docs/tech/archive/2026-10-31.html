@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<title>AI科技日报 · 10月31日（周六）</title>
+<style>
+  :root { --accent: #0071e3; --accent-dark: #0058b9; }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: #eef0f3;
+    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Microsoft YaHei", sans-serif;
+  }
+  .page-frame {
+    max-width: 677px;
+    margin: 0 auto;
+    background: #fff;
+    min-height: 100vh;
+    box-shadow: 0 0 24px rgba(0,0,0,0.06);
+  }
+  .top-band {
+    background: linear-gradient(135deg, var(--accent), var(--accent-dark));
+    color: #fff;
+    padding: 18px 20px 16px;
+  }
+  .top-band .kicker { font-size: 12px; opacity: 0.85; letter-spacing: 2px; }
+  .top-band .brand { font-size: 19px; font-weight: 800; margin-top: 4px; }
+  .copy-bar {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background: rgba(255,255,255,0.92);
+    backdrop-filter: saturate(180%) blur(8px);
+    border-bottom: 1px solid #e8ebef;
+    padding: 12px 16px;
+    text-align: center;
+  }
+  .copy-btn {
+    width: 100%;
+    max-width: 380px;
+    min-height: 50px;
+    font-size: 16px;
+    font-weight: 700;
+    color: #fff;
+    background: #07c160;
+    border: none;
+    border-radius: 25px;
+    padding: 13px 16px;
+    cursor: pointer;
+    box-shadow: 0 4px 14px rgba(7,193,96,0.32);
+    transition: transform .05s ease;
+  }
+  .copy-btn:active { background: #06a050; transform: translateY(1px); }
+  .copy-btn[data-state="ok"] { background: var(--accent); box-shadow: none; }
+  .copy-btn[data-state="err"] { background: #c0392b; box-shadow: none; }
+  .content-host { padding: 20px 18px 32px; }
+  .hint { color: #94a3b8; font-size: 12px; margin-top: 8px; }
+</style>
+</head>
+<body>
+<div class="page-frame">
+  <div class="top-band">
+    <div class="kicker">GH-DAILY</div>
+    <div class="brand">AI科技日报 · 10月31日（周六）</div>
+  </div>
+  <div class="copy-bar">
+    <button id="copy-btn" class="copy-btn">📋 复制富文本(用于公众号)</button>
+    <div class="hint">复制后切换到公众号后台「写新文章」编辑器,粘贴即可</div>
+  </div>
+  <div class="content-host">
+    <div id="content-to-copy"><section class="digest-root tech" style='font-family:-apple-system, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Microsoft YaHei", sans-serif; color:#2c3e50; font-size:16px; line-height:1.8; padding:0'>
+<h1 class="digest-title" style="font-size:23px; font-weight:800; color:#1a202c; margin:0 0 10px 0; padding:0; line-height:1.4; text-align:center" align="center">AI科技日报 · 10月31日（周六）</h1>
+<p class="digest-summary" style="margin:0 0 6px 0; padding:0; text-align:center" align="center"><span class="digest-summary-pill" style="display:inline-block; background-color:#e8f1fd; color:#0058b9; font-size:13px; padding:4px 14px; border-radius:14px" bgcolor="#e8f1fd">📌 今日 12 条 · GitHub、Hacker News、HF Papers、arXiv、少数派、36氪</span></p>
+
+<hr class="digest-sep" style="border:none; border-top:1px solid #e2e8f0; margin:18px 0; height:0" height="0">
+<h3 class="repo-header" style="margin:0 0 9px 0; padding:0; font-size:17px; font-weight:700; color:#1a202c; line-height:1.5"><span class="repo-num" style="display:inline-block; background-color:#0071e3; color:#fff; font-size:13px; font-weight:700; padding:1px 9px; margin-right:9px; border-radius:10px" bgcolor="#0071e3">1</span><span class="repo-name" style="color:#1a202c; font-weight:700">mattpocock/skills</span></h3>
+<p class="repo-desc" style="margin:0 0 10px 0; padding:0; color:#2d3748; font-size:15.5px; line-height:1.8">TypeScript 大神把自己 .agents 目录里那套给 AI 编码代理用的技能脚本直接开源了，纯 Shell 写的，想调教 Claude Code 这类工具的人可以抄作业。</p>
+<p class="repo-meta" style="margin:0 0 7px 0; padding:0; font-size:13px; line-height:2.4"><span class="repo-source" style="display:inline-block; background-color:#e8f1fd; color:#0058b9; font-weight:700; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#e8f1fd">🐙 GitHub</span><span class="repo-metric" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; font-weight:600; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">📈 +876 ⭐</span><span class="repo-meta-bit" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">🔧 Shell</span></p>
+<p class="repo-link" style="margin:0; padding:0; color:#718096; font-size:12.5px; word-break:break-all; line-height:1.6">🔗 <a href="https://github.com/mattpocock/skills" style="color:#3182ce">https://github.com/mattpocock/skills</a></p>
+<hr class="repo-sep" style="border:none; border-top:1px dashed #e2e8f0; margin:18px 0; height:0" height="0">
+<h3 class="repo-header" style="margin:0 0 9px 0; padding:0; font-size:17px; font-weight:700; color:#1a202c; line-height:1.5"><span class="repo-num" style="display:inline-block; background-color:#0071e3; color:#fff; font-size:13px; font-weight:700; padding:1px 9px; margin-right:9px; border-radius:10px" bgcolor="#0071e3">2</span><span class="repo-name" style="color:#1a202c; font-weight:700">pingdotgg/t3code</span></h3>
+<p class="repo-desc" style="margin:0 0 10px 0; padding:0; color:#2d3748; font-size:15.5px; line-height:1.8">Theo 那套 t3 技术栈的脚手架，TypeScript 全栈一把梭，Next.js、tRPC、Prisma 都配好了，开新项目省得自己搭。</p>
+<p class="repo-meta" style="margin:0 0 7px 0; padding:0; font-size:13px; line-height:2.4"><span class="repo-source" style="display:inline-block; background-color:#e8f1fd; color:#0058b9; font-weight:700; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#e8f1fd">🐙 GitHub</span><span class="repo-metric" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; font-weight:600; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">📈 +930 ⭐</span><span class="repo-meta-bit" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">🔧 TypeScript</span></p>
+<p class="repo-link" style="margin:0; padding:0; color:#718096; font-size:12.5px; word-break:break-all; line-height:1.6">🔗 <a href="https://github.com/pingdotgg/t3code" style="color:#3182ce">https://github.com/pingdotgg/t3code</a></p>
+<hr class="repo-sep" style="border:none; border-top:1px dashed #e2e8f0; margin:18px 0; height:0" height="0">
+<h3 class="repo-header" style="margin:0 0 9px 0; padding:0; font-size:17px; font-weight:700; color:#1a202c; line-height:1.5"><span class="repo-num" style="display:inline-block; background-color:#0071e3; color:#fff; font-size:13px; font-weight:700; padding:1px 9px; margin-right:9px; border-radius:10px" bgcolor="#0071e3">3</span><span class="repo-name" style="color:#1a202c; font-weight:700">anthropics/skills</span></h3>
+<p class="repo-desc" style="margin:0 0 10px 0; padding:0; color:#2d3748; font-size:15.5px; line-height:1.8">Anthropic 官方放出的 Agent Skills 仓库，用 Python 写，给 Claude 加可复用的技能包，想自己攒 agent 工具链的可以照着抄。</p>
+<p class="repo-meta" style="margin:0 0 7px 0; padding:0; font-size:13px; line-height:2.4"><span class="repo-source" style="display:inline-block; background-color:#e8f1fd; color:#0058b9; font-weight:700; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#e8f1fd">🐙 GitHub</span><span class="repo-metric" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; font-weight:600; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">📈 +295 ⭐</span><span class="repo-meta-bit" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">🔧 Python</span></p>
+<p class="repo-link" style="margin:0; padding:0; color:#718096; font-size:12.5px; word-break:break-all; line-height:1.6">🔗 <a href="https://github.com/anthropics/skills" style="color:#3182ce">https://github.com/anthropics/skills</a></p>
+<hr class="repo-sep" style="border:none; border-top:1px dashed #e2e8f0; margin:18px 0; height:0" height="0">
+<h3 class="repo-header" style="margin:0 0 9px 0; padding:0; font-size:17px; font-weight:700; color:#1a202c; line-height:1.5"><span class="repo-num" style="display:inline-block; background-color:#0071e3; color:#fff; font-size:13px; font-weight:700; padding:1px 9px; margin-right:9px; border-radius:10px" bgcolor="#0071e3">4</span><span class="repo-name" style="color:#1a202c; font-weight:700">Cursor 插件市场现后门</span></h3>
+<p class="repo-desc" style="margin:0 0 10px 0; padding:0; color:#2d3748; font-size:15.5px; line-height:1.8">Claude Code 的 VS Code 插件在 Cursor 市场被塞了后门，装插件等于把编辑器交出去，用第三方市场前先查来源。</p>
+<p class="repo-meta" style="margin:0 0 7px 0; padding:0; font-size:13px; line-height:2.4"><span class="repo-source" style="display:inline-block; background-color:#e8f1fd; color:#0058b9; font-weight:700; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#e8f1fd">🟧 Hacker News</span><span class="repo-metric" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; font-weight:600; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">🔺 732 分</span><span class="repo-meta-bit" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">💬 461 评论</span></p>
+<p class="repo-link" style="margin:0; padding:0; color:#718096; font-size:12.5px; word-break:break-all; line-height:1.6">🔗 <a href="https://phorion.io/blog/offical-claude-code-vsx-compromise/" style="color:#3182ce">https://phorion.io/blog/offical-claude-code-vsx-compromise/</a></p>
+<hr class="repo-sep" style="border:none; border-top:1px dashed #e2e8f0; margin:18px 0; height:0" height="0">
+<h3 class="repo-header" style="margin:0 0 9px 0; padding:0; font-size:17px; font-weight:700; color:#1a202c; line-height:1.5"><span class="repo-num" style="display:inline-block; background-color:#0071e3; color:#fff; font-size:13px; font-weight:700; padding:1px 9px; margin-right:9px; border-radius:10px" bgcolor="#0071e3">5</span><span class="repo-name" style="color:#1a202c; font-weight:700">AI 让 SRE 手艺退化</span></h3>
+<p class="repo-desc" style="margin:0 0 10px 0; padding:0; color:#2d3748; font-size:15.5px; line-height:1.8">AI 没替掉 SRE，倒是把排查故障的手感磨没了，新人只会点按钮，出事没人能兜底。</p>
+<p class="repo-meta" style="margin:0 0 7px 0; padding:0; font-size:13px; line-height:2.4"><span class="repo-source" style="display:inline-block; background-color:#e8f1fd; color:#0058b9; font-weight:700; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#e8f1fd">🟧 Hacker News</span><span class="repo-metric" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; font-weight:600; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">🔺 481 分</span><span class="repo-meta-bit" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">💬 355 评论</span></p>
+<p class="repo-link" style="margin:0; padding:0; color:#718096; font-size:12.5px; word-break:break-all; line-height:1.6">🔗 <a href="https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling" style="color:#3182ce">https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling</a></p>
+<hr class="repo-sep" style="border:none; border-top:1px dashed #e2e8f0; margin:18px 0; height:0" height="0">
+<h3 class="repo-header" style="margin:0 0 9px 0; padding:0; font-size:17px; font-weight:700; color:#1a202c; line-height:1.5"><span class="repo-num" style="display:inline-block; background-color:#0071e3; color:#fff; font-size:13px; font-weight:700; padding:1px 9px; margin-right:9px; border-radius:10px" bgcolor="#0071e3">6</span><span class="repo-name" style="color:#1a202c; font-weight:700">Northflank 遭入侵</span></h3>
+<p class="repo-desc" style="margin:0 0 10px 0; padding:0; color:#2d3748; font-size:15.5px; line-height:1.8">托管平台 Northflank 被攻破，258 条评论里同行都在追问泄露范围和密钥轮换，自托管派又赢一局。</p>
+<p class="repo-meta" style="margin:0 0 7px 0; padding:0; font-size:13px; line-height:2.4"><span class="repo-source" style="display:inline-block; background-color:#e8f1fd; color:#0058b9; font-weight:700; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#e8f1fd">🟧 Hacker News</span><span class="repo-metric" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; font-weight:600; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">🔺 341 分</span><span class="repo-meta-bit" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">💬 258 评论</span></p>
+<p class="repo-link" style="margin:0; padding:0; color:#718096; font-size:12.5px; word-break:break-all; line-height:1.6">🔗 <a href="https://status.northflank.com" style="color:#3182ce">https://status.northflank.com</a></p>
+<hr class="repo-sep" style="border:none; border-top:1px dashed #e2e8f0; margin:18px 0; height:0" height="0">
+<h3 class="repo-header" style="margin:0 0 9px 0; padding:0; font-size:17px; font-weight:700; color:#1a202c; line-height:1.5"><span class="repo-num" style="display:inline-block; background-color:#0071e3; color:#fff; font-size:13px; font-weight:700; padding:1px 9px; margin-right:9px; border-radius:10px" bgcolor="#0071e3">7</span><span class="repo-name" style="color:#1a202c; font-weight:700">Intrinsic Distribution Matching</span></h3>
+<p class="repo-desc" style="margin:0 0 10px 0; padding:0; color:#2d3748; font-size:15.5px; line-height:1.8">一步出图的蒸馏新招：把反向 KL 拆成高斯矩和非高斯残差，用生成器自己的 EMA 特征对齐均值和标准差，省掉外部编码器，两步评估下中英长文本渲染分别到 94.25% 和 90.20%。</p>
+<p class="repo-meta" style="margin:0 0 7px 0; padding:0; font-size:13px; line-height:2.4"><span class="repo-source" style="display:inline-block; background-color:#e8f1fd; color:#0058b9; font-weight:700; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#e8f1fd">🤗 HF Papers</span><span class="repo-metric" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; font-weight:600; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">👍 237</span><span class="repo-meta-bit" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">🧩 含代码</span></p>
+<p class="repo-link" style="margin:0; padding:0; color:#718096; font-size:12.5px; word-break:break-all; line-height:1.6">🔗 <a href="https://huggingface.co/papers/2610.39633" style="color:#3182ce">https://huggingface.co/papers/2610.39633</a></p>
+<hr class="repo-sep" style="border:none; border-top:1px dashed #e2e8f0; margin:18px 0; height:0" height="0">
+<h3 class="repo-header" style="margin:0 0 9px 0; padding:0; font-size:17px; font-weight:700; color:#1a202c; line-height:1.5"><span class="repo-num" style="display:inline-block; background-color:#0071e3; color:#fff; font-size:13px; font-weight:700; padding:1px 9px; margin-right:9px; border-radius:10px" bgcolor="#0071e3">8</span><span class="repo-name" style="color:#1a202c; font-weight:700">A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement</span></h3>
+<p class="repo-desc" style="margin:0 0 10px 0; padding:0; color:#2d3748; font-size:15.5px; line-height:1.8">盯训练日志里的奖励波动和准确率，学习信号一弱就换任务池，答案靠程序生成且可独立校验，零外部数据把 11 个基准均分从 57.77 拉到 61.05。</p>
+<p class="repo-meta" style="margin:0 0 7px 0; padding:0; font-size:13px; line-height:2.4"><span class="repo-source" style="display:inline-block; background-color:#e8f1fd; color:#0058b9; font-weight:700; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#e8f1fd">🤗 HF Papers</span><span class="repo-metric" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; font-weight:600; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">👍 157</span></p>
+<p class="repo-link" style="margin:0; padding:0; color:#718096; font-size:12.5px; word-break:break-all; line-height:1.6">🔗 <a href="https://huggingface.co/papers/2610.38568" style="color:#3182ce">https://huggingface.co/papers/2610.38568</a></p>
+<hr class="repo-sep" style="border:none; border-top:1px dashed #e2e8f0; margin:18px 0; height:0" height="0">
+<h3 class="repo-header" style="margin:0 0 9px 0; padding:0; font-size:17px; font-weight:700; color:#1a202c; line-height:1.5"><span class="repo-num" style="display:inline-block; background-color:#0071e3; color:#fff; font-size:13px; font-weight:700; padding:1px 9px; margin-right:9px; border-radius:10px" bgcolor="#0071e3">9</span><span class="repo-name" style="color:#1a202c; font-weight:700">Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filter…</span></h3>
+<p class="repo-desc" style="margin:0 0 10px 0; padding:0; color:#2d3748; font-size:15.5px; line-height:1.8">差分隐私老被个别离群记录逼着加大量噪声，这招先用私有过滤把不合群的剔掉再发布，只要求一个凹的友好度打分，思路比 propose-test-release 更通用。</p>
+<p class="repo-meta" style="margin:0 0 7px 0; padding:0; font-size:13px; line-height:2.4"><span class="repo-source" style="display:inline-block; background-color:#e8f1fd; color:#0058b9; font-weight:700; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#e8f1fd">📄 arXiv</span><span class="repo-metric" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; font-weight:600; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">🆕 最新</span><span class="repo-meta-bit" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">🏷️ cs.LG</span></p>
+<p class="repo-link" style="margin:0; padding:0; color:#718096; font-size:12.5px; word-break:break-all; line-height:1.6">🔗 <a href="https://arxiv.org/abs/2610.40654v1" style="color:#3182ce">https://arxiv.org/abs/2610.40654v1</a></p>
+<hr class="repo-sep" style="border:none; border-top:1px dashed #e2e8f0; margin:18px 0; height:0" height="0">
+<h3 class="repo-header" style="margin:0 0 9px 0; padding:0; font-size:17px; font-weight:700; color:#1a202c; line-height:1.5"><span class="repo-num" style="display:inline-block; background-color:#0071e3; color:#fff; font-size:13px; font-weight:700; padding:1px 9px; margin-right:9px; border-radius:10px" bgcolor="#0071e3">10</span><span class="repo-name" style="color:#1a202c; font-weight:700">本周看什么 | 最近值得一看的 9 部作品</span></h3>
+<p class="repo-desc" style="margin:0 0 10px 0; padding:0; color:#2d3748; font-size:15.5px; line-height:1.8">少数派每周挑九部值得看的片子，这周重点是《沙丘3》终极预告，维伦纽瓦执导，12 月 31 日内地上映，追剧党照着单子刷就行。</p>
+<p class="repo-meta" style="margin:0 0 7px 0; padding:0; font-size:13px; line-height:2.4"><span class="repo-source" style="display:inline-block; background-color:#e8f1fd; color:#0058b9; font-weight:700; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#e8f1fd">📱 少数派</span></p>
+<p class="repo-link" style="margin:0; padding:0; color:#718096; font-size:12.5px; word-break:break-all; line-height:1.6">🔗 <a href="https://sspai.com/post/117867" style="color:#3182ce">https://sspai.com/post/117867</a></p>
+<hr class="repo-sep" style="border:none; border-top:1px dashed #e2e8f0; margin:18px 0; height:0" height="0">
+<h3 class="repo-header" style="margin:0 0 9px 0; padding:0; font-size:17px; font-weight:700; color:#1a202c; line-height:1.5"><span class="repo-num" style="display:inline-block; background-color:#0071e3; color:#fff; font-size:13px; font-weight:700; padding:1px 9px; margin-right:9px; border-radius:10px" bgcolor="#0071e3">11</span><span class="repo-name" style="color:#1a202c; font-weight:700">App+1｜该吃药了：一片小药板，让吃药提醒变得轻松有趣</span></h3>
+<p class="repo-desc" style="margin:0 0 10px 0; padding:0; color:#2d3748; font-size:15.5px; line-height:1.8">把吃药提醒做成一片能点的小药板，点一下就算吃过了，比闹钟弹窗少点压迫感，适合老忘事又嫌提醒烦的人。</p>
+<p class="repo-meta" style="margin:0 0 7px 0; padding:0; font-size:13px; line-height:2.4"><span class="repo-source" style="display:inline-block; background-color:#e8f1fd; color:#0058b9; font-weight:700; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#e8f1fd">📱 少数派</span></p>
+<p class="repo-link" style="margin:0; padding:0; color:#718096; font-size:12.5px; word-break:break-all; line-height:1.6">🔗 <a href="https://sspai.com/post/116047" style="color:#3182ce">https://sspai.com/post/116047</a></p>
+<hr class="repo-sep" style="border:none; border-top:1px dashed #e2e8f0; margin:18px 0; height:0" height="0">
+<h3 class="repo-header" style="margin:0 0 9px 0; padding:0; font-size:17px; font-weight:700; color:#1a202c; line-height:1.5"><span class="repo-num" style="display:inline-block; background-color:#0071e3; color:#fff; font-size:13px; font-weight:700; padding:1px 9px; margin-right:9px; border-radius:10px" bgcolor="#0071e3">12</span><span class="repo-name" style="color:#1a202c; font-weight:700">热门中概股美股盘前多数下跌，百度跌超2%</span></h3>
+<p class="repo-desc" style="margin:0 0 10px 0; padding:0; color:#2d3748; font-size:15.5px; line-height:1.8">美股盘前中概股多数走低，百度、小鹏跌超 2%，蔚来跌超 1%，阿里、理想、B站、京东小幅下跌，网易、拼多多微涨。</p>
+<p class="repo-meta" style="margin:0 0 7px 0; padding:0; font-size:13px; line-height:2.4"><span class="repo-source" style="display:inline-block; background-color:#e8f1fd; color:#0058b9; font-weight:700; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#e8f1fd">💼 36氪</span></p>
+<p class="repo-link" style="margin:0; padding:0; color:#718096; font-size:12.5px; word-break:break-all; line-height:1.6">🔗 <a href="https://36kr.com/newsflashes/4048375707007236?f=rss" style="color:#3182ce">https://36kr.com/newsflashes/4048375707007236?f=rss</a></p>
+<hr class="digest-sep" style="border:none; border-top:1px solid #e2e8f0; margin:18px 0; height:0" height="0">
+<p class="digest-footer" style="margin:0; padding:0; color:#a0aec0; font-size:12.5px; text-align:center; line-height:1.9" align="center">📅 本期生成时间: 2026-10-31 08:08<br>💡 数据来源: GitHub、Hacker News、HF Papers、arXiv、少数派、36氪</p>
+</section></div>
+  </div>
+</div>
+<script>
+(function() {
+  const btn = document.getElementById('copy-btn');
+  btn.addEventListener('click', async () => {
+    const node = document.getElementById('content-to-copy');
+    const html = node.innerHTML;
+    const text = node.innerText;
+    try {
+      await navigator.clipboard.write([
+        new ClipboardItem({
+          'text/html': new Blob([html], {type: 'text/html'}),
+          'text/plain': new Blob([text], {type: 'text/plain'})
+        })
+      ]);
+      btn.textContent = '✅ 已复制,去公众号粘贴';
+      btn.dataset.state = 'ok';
+    } catch (e) {
+      btn.textContent = '⚠️ 复制失败,请长按手动选';
+      btn.dataset.state = 'err';
+      console.error(e);
+    }
+    setTimeout(() => {
+      btn.textContent = '📋 复制富文本(用于公众号)';
+      btn.dataset.state = '';
+    }, 3000);
+  });
+})();
+</script>
+</body>
+</html>
