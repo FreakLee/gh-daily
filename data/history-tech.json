@@ -4706,6 +4706,24 @@
         "https://36kr.com/newsflashes/4049556312118405?f=rss"
       ],
       "url": "tech/archive/2026-11-01.html"
+    },
+    {
+      "date": "2026-11-02",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/public-apis/public-apis",
+        "https://github.com/shiyu-coder/Kronos",
+        "https://github.com/hyprwm/Hyprland",
+        "https://hackerbooks.org",
+        "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+        "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+        "https://huggingface.co/papers/2610.39302",
+        "https://huggingface.co/papers/2610.40614",
+        "https://sspai.com/post/116991",
+        "https://36kr.com/p/4051860578702216?f=rss"
+      ],
+      "url": "tech/archive/2026-11-02.html"
     }
   ]
 }
