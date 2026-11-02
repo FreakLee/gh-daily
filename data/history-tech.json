@@ -4724,6 +4724,26 @@
         "https://36kr.com/p/4051860578702216?f=rss"
       ],
       "url": "tech/archive/2026-11-02.html"
+    },
+    {
+      "date": "2026-11-02",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/public-apis/public-apis",
+        "https://github.com/shiyu-coder/Kronos",
+        "https://github.com/hyprwm/Hyprland",
+        "https://hackerbooks.org",
+        "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+        "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+        "https://huggingface.co/papers/2610.39302",
+        "https://huggingface.co/papers/2610.39497",
+        "https://arxiv.org/abs/2610.42149v1",
+        "https://sspai.com/post/115662",
+        "https://sspai.com/post/118191",
+        "https://36kr.com/newsflashes/4052219502449538?f=rss"
+      ],
+      "url": "tech/archive/2026-11-02.html"
     }
   ]
 }
