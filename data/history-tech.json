@@ -4764,6 +4764,26 @@
         "https://36kr.com/newsflashes/4053265403581571?f=rss"
       ],
       "url": "tech/archive/2026-11-03.html"
+    },
+    {
+      "date": "2026-11-03",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/paperclipai/paperclip",
+        "https://github.com/JustVugg/colibri",
+        "https://github.com/p-e-w/heretic",
+        "https://rikiyat.github.io/blog/weight-space-programming/",
+        "https://chalmovsky.com/posts/wtf-ubuntu",
+        "https://news.ycombinator.com/item?id=50340088",
+        "https://huggingface.co/papers/2611.00859",
+        "https://huggingface.co/papers/2610.40191",
+        "https://arxiv.org/abs/2611.03152v1",
+        "https://sspai.com/post/118211",
+        "https://sspai.com/post/118232",
+        "https://36kr.com/newsflashes/4053673729430403?f=rss"
+      ],
+      "url": "tech/archive/2026-11-03.html"
     }
   ]
 }
