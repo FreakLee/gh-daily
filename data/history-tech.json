@@ -4804,6 +4804,25 @@
         "https://36kr.com/newsflashes/4054667731686534?f=rss"
       ],
       "url": "tech/archive/2026-11-04.html"
+    },
+    {
+      "date": "2026-11-04",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/vercel-labs/agent-desktop",
+        "https://github.com/D4Vinci/Scrapling",
+        "https://github.com/anomalyco/hex",
+        "https://github.com/postmanlabs/postman-app-support/issues/14370",
+        "https://honnibal.dev/blog/astra-read-write-misleading",
+        "https://blog.nns.ee/2026/11/02/renault-hack/",
+        "https://huggingface.co/papers/2611.04916",
+        "https://huggingface.co/papers/2611.02737",
+        "https://arxiv.org/abs/2611.05377v1",
+        "https://sspai.com/post/118404",
+        "https://sspai.com/post/118402"
+      ],
+      "url": "tech/archive/2026-11-04.html"
     }
   ]
 }
