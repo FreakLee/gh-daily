@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<title>AI科技日报 · 11月4日（周三）</title>
+<style>
+  :root { --accent: #0071e3; --accent-dark: #0058b9; }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: #eef0f3;
+    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Microsoft YaHei", sans-serif;
+  }
+  .page-frame {
+    max-width: 677px;
+    margin: 0 auto;
+    background: #fff;
+    min-height: 100vh;
+    box-shadow: 0 0 24px rgba(0,0,0,0.06);
+  }
+  .top-band {
+    background: linear-gradient(135deg, var(--accent), var(--accent-dark));
+    color: #fff;
+    padding: 18px 20px 16px;
+  }
+  .top-band .kicker { font-size: 12px; opacity: 0.85; letter-spacing: 2px; }
+  .top-band .brand { font-size: 19px; font-weight: 800; margin-top: 4px; }
+  .copy-bar {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background: rgba(255,255,255,0.92);
+    backdrop-filter: saturate(180%) blur(8px);
+    border-bottom: 1px solid #e8ebef;
+    padding: 12px 16px;
+    text-align: center;
+  }
+  .copy-btn {
+    width: 100%;
+    max-width: 380px;
+    min-height: 50px;
+    font-size: 16px;
+    font-weight: 700;
+    color: #fff;
+    background: #07c160;
+    border: none;
+    border-radius: 25px;
+    padding: 13px 16px;
+    cursor: pointer;
+    box-shadow: 0 4px 14px rgba(7,193,96,0.32);
+    transition: transform .05s ease;
+  }
+  .copy-btn:active { background: #06a050; transform: translateY(1px); }
+  .copy-btn[data-state="ok"] { background: var(--accent); box-shadow: none; }
+  .copy-btn[data-state="err"] { background: #c0392b; box-shadow: none; }
+  .content-host { padding: 20px 18px 32px; }
+  .hint { color: #94a3b8; font-size: 12px; margin-top: 8px; }
+</style>
+</head>
+<body>
+<div class="page-frame">
+  <div class="top-band">
+    <div class="kicker">GH-DAILY</div>
+    <div class="brand">AI科技日报 · 11月4日（周三）</div>
+  </div>
+  <div class="copy-bar">
+    <button id="copy-btn" class="copy-btn">📋 复制富文本(用于公众号)</button>
+    <div class="hint">复制后切换到公众号后台「写新文章」编辑器,粘贴即可</div>
+  </div>
+  <div class="content-host">
+    <div id="content-to-copy"><section class="digest-root tech" style='font-family:-apple-system, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Microsoft YaHei", sans-serif; color:#2c3e50; font-size:16px; line-height:1.8; padding:0'>
+<h1 class="digest-title" style="font-size:23px; font-weight:800; color:#1a202c; margin:0 0 10px 0; padding:0; line-height:1.4; text-align:center" align="center">AI科技日报 · 11月4日（周三）</h1>
+<p class="digest-summary" style="margin:0 0 6px 0; padding:0; text-align:center" align="center"><span class="digest-summary-pill" style="display:inline-block; background-color:#e8f1fd; color:#0058b9; font-size:13px; padding:4px 14px; border-radius:14px" bgcolor="#e8f1fd">📌 今日 12 条 · GitHub、Hacker News、HF Papers、arXiv、少数派、36氪</span></p>
+
+<hr class="digest-sep" style="border:none; border-top:1px solid #e2e8f0; margin:18px 0; height:0" height="0">
+<h3 class="repo-header" style="margin:0 0 9px 0; padding:0; font-size:17px; font-weight:700; color:#1a202c; line-height:1.5"><span class="repo-num" style="display:inline-block; background-color:#0071e3; color:#fff; font-size:13px; font-weight:700; padding:1px 9px; margin-right:9px; border-radius:10px" bgcolor="#0071e3">1</span><span class="repo-name" style="color:#1a202c; font-weight:700">vercel-labs/agent-desktop</span></h3>
+<p class="repo-desc" style="margin:0 0 10px 0; padding:0; color:#2d3748; font-size:15.5px; line-height:1.8">用 Rust 写的命令行工具，让 AI agent 直接操作你的桌面，点鼠标、敲键盘都行，想跑电脑自动化任务的可以试试。</p>
+<p class="repo-meta" style="margin:0 0 7px 0; padding:0; font-size:13px; line-height:2.4"><span class="repo-source" style="display:inline-block; background-color:#e8f1fd; color:#0058b9; font-weight:700; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#e8f1fd">🐙 GitHub</span><span class="repo-metric" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; font-weight:600; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">📈 +3.8k ⭐</span><span class="repo-meta-bit" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">🔧 Rust</span></p>
+<p class="repo-link" style="margin:0; padding:0; color:#718096; font-size:12.5px; word-break:break-all; line-height:1.6">🔗 <a href="https://github.com/vercel-labs/agent-desktop" style="color:#3182ce">https://github.com/vercel-labs/agent-desktop</a></p>
+<hr class="repo-sep" style="border:none; border-top:1px dashed #e2e8f0; margin:18px 0; height:0" height="0">
+<h3 class="repo-header" style="margin:0 0 9px 0; padding:0; font-size:17px; font-weight:700; color:#1a202c; line-height:1.5"><span class="repo-num" style="display:inline-block; background-color:#0071e3; color:#fff; font-size:13px; font-weight:700; padding:1px 9px; margin-right:9px; border-radius:10px" bgcolor="#0071e3">2</span><span class="repo-name" style="color:#1a202c; font-weight:700">D4Vinci/Scrapling</span></h3>
+<p class="repo-desc" style="margin:0 0 10px 0; padding:0; color:#2d3748; font-size:15.5px; line-height:1.8">Python 爬虫框架，能自动绕过反爬，从单次请求到全站抓取都能处理，适合不想自己处理封禁和动态渲染的人。</p>
+<p class="repo-meta" style="margin:0 0 7px 0; padding:0; font-size:13px; line-height:2.4"><span class="repo-source" style="display:inline-block; background-color:#e8f1fd; color:#0058b9; font-weight:700; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#e8f1fd">🐙 GitHub</span><span class="repo-metric" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; font-weight:600; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">📈 +1.7k ⭐</span><span class="repo-meta-bit" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">🔧 Python</span></p>
+<p class="repo-link" style="margin:0; padding:0; color:#718096; font-size:12.5px; word-break:break-all; line-height:1.6">🔗 <a href="https://github.com/D4Vinci/Scrapling" style="color:#3182ce">https://github.com/D4Vinci/Scrapling</a></p>
+<hr class="repo-sep" style="border:none; border-top:1px dashed #e2e8f0; margin:18px 0; height:0" height="0">
+<h3 class="repo-header" style="margin:0 0 9px 0; padding:0; font-size:17px; font-weight:700; color:#1a202c; line-height:1.5"><span class="repo-num" style="display:inline-block; background-color:#0071e3; color:#fff; font-size:13px; font-weight:700; padding:1px 9px; margin-right:9px; border-radius:10px" bgcolor="#0071e3">3</span><span class="repo-name" style="color:#1a202c; font-weight:700">anomalyco/hex</span></h3>
+<p class="repo-desc" style="margin:0 0 10px 0; padding:0; color:#2d3748; font-size:15.5px; line-height:1.8">用 Rust 写的跨平台本地语音听写工具，Mac、Windows、Linux 都能跑，不用联网，适合不想把语音交给云端的人。</p>
+<p class="repo-meta" style="margin:0 0 7px 0; padding:0; font-size:13px; line-height:2.4"><span class="repo-source" style="display:inline-block; background-color:#e8f1fd; color:#0058b9; font-weight:700; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#e8f1fd">🐙 GitHub</span><span class="repo-metric" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; font-weight:600; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">📈 +410 ⭐</span><span class="repo-meta-bit" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">🔧 Rust</span></p>
+<p class="repo-link" style="margin:0; padding:0; color:#718096; font-size:12.5px; word-break:break-all; line-height:1.6">🔗 <a href="https://github.com/anomalyco/hex" style="color:#3182ce">https://github.com/anomalyco/hex</a></p>
+<hr class="repo-sep" style="border:none; border-top:1px dashed #e2e8f0; margin:18px 0; height:0" height="0">
+<h3 class="repo-header" style="margin:0 0 9px 0; padding:0; font-size:17px; font-weight:700; color:#1a202c; line-height:1.5"><span class="repo-num" style="display:inline-block; background-color:#0071e3; color:#fff; font-size:13px; font-weight:700; padding:1px 9px; margin-right:9px; border-radius:10px" bgcolor="#0071e3">4</span><span class="repo-name" style="color:#1a202c; font-weight:700">Postman 偷装 AI 插件</span></h3>
+<p class="repo-desc" style="margin:0 0 10px 0; padding:0; color:#2d3748; font-size:15.5px; line-height:1.8">Postman 悄悄装 AI 插件还想把 API 数据全传走，这种默认行为比收费更劝退，团队该查查版本了。</p>
+<p class="repo-meta" style="margin:0 0 7px 0; padding:0; font-size:13px; line-height:2.4"><span class="repo-source" style="display:inline-block; background-color:#e8f1fd; color:#0058b9; font-weight:700; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#e8f1fd">🟧 Hacker News</span><span class="repo-metric" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; font-weight:600; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">🔺 968 分</span><span class="repo-meta-bit" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">💬 319 评论</span></p>
+<p class="repo-link" style="margin:0; padding:0; color:#718096; font-size:12.5px; word-break:break-all; line-height:1.6">🔗 <a href="https://github.com/postmanlabs/postman-app-support/issues/14370" style="color:#3182ce">https://github.com/postmanlabs/postman-app-support/issues/14370</a></p>
+<hr class="repo-sep" style="border:none; border-top:1px dashed #e2e8f0; margin:18px 0; height:0" height="0">
+<h3 class="repo-header" style="margin:0 0 9px 0; padding:0; font-size:17px; font-weight:700; color:#1a202c; line-height:1.5"><span class="repo-num" style="display:inline-block; background-color:#0071e3; color:#fff; font-size:13px; font-weight:700; padding:1px 9px; margin-right:9px; border-radius:10px" bgcolor="#0071e3">5</span><span class="repo-name" style="color:#1a202c; font-weight:700">Astra 读写权重说法有误导</span></h3>
+<p class="repo-desc" style="margin:0 0 10px 0; padding:0; color:#2d3748; font-size:15.5px; line-height:1.8">那篇说 Astra 能读写 Qwen 权重来改进模型的帖子有点标题党，实际多半只是推理时改激活或小范围微调，别当成模型能自己改脑子。</p>
+<p class="repo-meta" style="margin:0 0 7px 0; padding:0; font-size:13px; line-height:2.4"><span class="repo-source" style="display:inline-block; background-color:#e8f1fd; color:#0058b9; font-weight:700; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#e8f1fd">🟧 Hacker News</span><span class="repo-metric" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; font-weight:600; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">🔺 872 分</span><span class="repo-meta-bit" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">💬 189 评论</span></p>
+<p class="repo-link" style="margin:0; padding:0; color:#718096; font-size:12.5px; word-break:break-all; line-height:1.6">🔗 <a href="https://honnibal.dev/blog/astra-read-write-misleading" style="color:#3182ce">https://honnibal.dev/blog/astra-read-write-misleading</a></p>
+<hr class="repo-sep" style="border:none; border-top:1px dashed #e2e8f0; margin:18px 0; height:0" height="0">
+<h3 class="repo-header" style="margin:0 0 9px 0; padding:0; font-size:17px; font-weight:700; color:#1a202c; line-height:1.5"><span class="repo-num" style="display:inline-block; background-color:#0071e3; color:#fff; font-size:13px; font-weight:700; padding:1px 9px; margin-right:9px; border-radius:10px" bgcolor="#0071e3">6</span><span class="repo-name" style="color:#1a202c; font-weight:700">破解车机导航改时间</span></h3>
+<p class="repo-desc" style="margin:0 0 10px 0; padding:0; color:#2d3748; font-size:15.5px; line-height:1.8">为了改个时间得逆向车机导航系统，厂商把时钟锁死在固件里，这种封闭设计逼得车主自己动手，懂嵌入式的会看得会心一笑。</p>
+<p class="repo-meta" style="margin:0 0 7px 0; padding:0; font-size:13px; line-height:2.4"><span class="repo-source" style="display:inline-block; background-color:#e8f1fd; color:#0058b9; font-weight:700; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#e8f1fd">🟧 Hacker News</span><span class="repo-metric" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; font-weight:600; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">🔺 572 分</span><span class="repo-meta-bit" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">💬 228 评论</span></p>
+<p class="repo-link" style="margin:0; padding:0; color:#718096; font-size:12.5px; word-break:break-all; line-height:1.6">🔗 <a href="https://blog.nns.ee/2026/11/02/renault-hack/" style="color:#3182ce">https://blog.nns.ee/2026/11/02/renault-hack/</a></p>
+<hr class="repo-sep" style="border:none; border-top:1px dashed #e2e8f0; margin:18px 0; height:0" height="0">
+<h3 class="repo-header" style="margin:0 0 9px 0; padding:0; font-size:17px; font-weight:700; color:#1a202c; line-height:1.5"><span class="repo-num" style="display:inline-block; background-color:#0071e3; color:#fff; font-size:13px; font-weight:700; padding:1px 9px; margin-right:9px; border-radius:10px" bgcolor="#0071e3">7</span><span class="repo-name" style="color:#1a202c; font-weight:700">Advances in Agentic Computer Graphics</span></h3>
+<p class="repo-desc" style="margin:0 0 10px 0; padding:0; color:#2d3748; font-size:15.5px; line-height:1.8">图形学本来就靠写代码，现在让 LLM 生成并反复改渲染代码，这篇综述把散落各处的做法归成一套分类，还搭了个能批量读论文的 agent，适合想摸清这个方向的人。</p>
+<p class="repo-meta" style="margin:0 0 7px 0; padding:0; font-size:13px; line-height:2.4"><span class="repo-source" style="display:inline-block; background-color:#e8f1fd; color:#0058b9; font-weight:700; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#e8f1fd">🤗 HF Papers</span><span class="repo-metric" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; font-weight:600; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">👍 108</span></p>
+<p class="repo-link" style="margin:0; padding:0; color:#718096; font-size:12.5px; word-break:break-all; line-height:1.6">🔗 <a href="https://huggingface.co/papers/2611.01860" style="color:#3182ce">https://huggingface.co/papers/2611.01860</a></p>
+<hr class="repo-sep" style="border:none; border-top:1px dashed #e2e8f0; margin:18px 0; height:0" height="0">
+<h3 class="repo-header" style="margin:0 0 9px 0; padding:0; font-size:17px; font-weight:700; color:#1a202c; line-height:1.5"><span class="repo-num" style="display:inline-block; background-color:#0071e3; color:#fff; font-size:13px; font-weight:700; padding:1px 9px; margin-right:9px; border-radius:10px" bgcolor="#0071e3">8</span><span class="repo-name" style="color:#1a202c; font-weight:700">CUA-Master: Scaling Computer-use Agents through Open-World Recursive Improvemen…</span></h3>
+<p class="repo-desc" style="margin:0 0 10px 0; padding:0; color:#2d3748; font-size:15.5px; line-height:1.8">拿教学视频当种子任务、用双层飞轮反复造数据训电脑操作 agent，27B 模型在 OSWorld 上跑到 80.2，思路比纯靠自我试错野不少。</p>
+<p class="repo-meta" style="margin:0 0 7px 0; padding:0; font-size:13px; line-height:2.4"><span class="repo-source" style="display:inline-block; background-color:#e8f1fd; color:#0058b9; font-weight:700; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#e8f1fd">🤗 HF Papers</span><span class="repo-metric" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; font-weight:600; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">👍 91</span><span class="repo-meta-bit" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">🧩 含代码</span></p>
+<p class="repo-link" style="margin:0; padding:0; color:#718096; font-size:12.5px; word-break:break-all; line-height:1.6">🔗 <a href="https://huggingface.co/papers/2611.03126" style="color:#3182ce">https://huggingface.co/papers/2611.03126</a></p>
+<hr class="repo-sep" style="border:none; border-top:1px dashed #e2e8f0; margin:18px 0; height:0" height="0">
+<h3 class="repo-header" style="margin:0 0 9px 0; padding:0; font-size:17px; font-weight:700; color:#1a202c; line-height:1.5"><span class="repo-num" style="display:inline-block; background-color:#0071e3; color:#fff; font-size:13px; font-weight:700; padding:1px 9px; margin-right:9px; border-radius:10px" bgcolor="#0071e3">9</span><span class="repo-name" style="color:#1a202c; font-weight:700">Pixel-UMI: Learning Environment-Aware Whole-Body Manipulation from Sensorized H…</span></h3>
+<p class="repo-desc" style="margin:0 0 10px 0; padding:0; color:#2d3748; font-size:15.5px; line-height:1.8">拿人身上戴传感器采的数据训练机器人全身操作，靠场景几何做重定向、再用重定向误差反过来屏蔽对不上的视角，五个任务平均完成度 87%，做移动操作数据采集的可以看看。</p>
+<p class="repo-meta" style="margin:0 0 7px 0; padding:0; font-size:13px; line-height:2.4"><span class="repo-source" style="display:inline-block; background-color:#e8f1fd; color:#0058b9; font-weight:700; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#e8f1fd">📄 arXiv</span><span class="repo-metric" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; font-weight:600; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">🆕 最新</span><span class="repo-meta-bit" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">🏷️ cs.RO</span></p>
+<p class="repo-link" style="margin:0; padding:0; color:#718096; font-size:12.5px; word-break:break-all; line-height:1.6">🔗 <a href="https://arxiv.org/abs/2611.03647v1" style="color:#3182ce">https://arxiv.org/abs/2611.03647v1</a></p>
+<hr class="repo-sep" style="border:none; border-top:1px dashed #e2e8f0; margin:18px 0; height:0" height="0">
+<h3 class="repo-header" style="margin:0 0 9px 0; padding:0; font-size:17px; font-weight:700; color:#1a202c; line-height:1.5"><span class="repo-num" style="display:inline-block; background-color:#0071e3; color:#fff; font-size:13px; font-weight:700; padding:1px 9px; margin-right:9px; border-radius:10px" bgcolor="#0071e3">10</span><span class="repo-name" style="color:#1a202c; font-weight:700">一眼的熟悉，满眼的惊喜：新款 iPad mini 首发体验</span></h3>
+<p class="repo-desc" style="margin:0 0 10px 0; padding:0; color:#2d3748; font-size:15.5px; line-height:1.8">还是那块单手能握的 8 寸小板，换了新芯片、屏幕更亮，适合只想拿来看书刷剧、不折腾生产力的人。</p>
+<p class="repo-meta" style="margin:0 0 7px 0; padding:0; font-size:13px; line-height:2.4"><span class="repo-source" style="display:inline-block; background-color:#e8f1fd; color:#0058b9; font-weight:700; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#e8f1fd">📱 少数派</span></p>
+<p class="repo-link" style="margin:0; padding:0; color:#718096; font-size:12.5px; word-break:break-all; line-height:1.6">🔗 <a href="https://sspai.com/post/118263" style="color:#3182ce">https://sspai.com/post/118263</a></p>
+<hr class="repo-sep" style="border:none; border-top:1px dashed #e2e8f0; margin:18px 0; height:0" height="0">
+<h3 class="repo-header" style="margin:0 0 9px 0; padding:0; font-size:17px; font-weight:700; color:#1a202c; line-height:1.5"><span class="repo-num" style="display:inline-block; background-color:#0071e3; color:#fff; font-size:13px; font-weight:700; padding:1px 9px; margin-right:9px; border-radius:10px" bgcolor="#0071e3">11</span><span class="repo-name" style="color:#1a202c; font-weight:700">社区速递 164 | 1500 元圆梦昔日卡皇与派友们做的 AI 平替</span></h3>
+<p class="repo-desc" style="margin:0 0 10px 0; padding:0; color:#2d3748; font-size:15.5px; line-height:1.8">一千五捡张二手 TITAN V 跑本地模型，再拿开源项目和 AI 写码顶掉付费订阅，这期聊的就是穷折腾的平替玩法。</p>
+<p class="repo-meta" style="margin:0 0 7px 0; padding:0; font-size:13px; line-height:2.4"><span class="repo-source" style="display:inline-block; background-color:#e8f1fd; color:#0058b9; font-weight:700; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#e8f1fd">📱 少数派</span></p>
+<p class="repo-link" style="margin:0; padding:0; color:#718096; font-size:12.5px; word-break:break-all; line-height:1.6">🔗 <a href="https://sspai.com/post/118317" style="color:#3182ce">https://sspai.com/post/118317</a></p>
+<hr class="repo-sep" style="border:none; border-top:1px dashed #e2e8f0; margin:18px 0; height:0" height="0">
+<h3 class="repo-header" style="margin:0 0 9px 0; padding:0; font-size:17px; font-weight:700; color:#1a202c; line-height:1.5"><span class="repo-num" style="display:inline-block; background-color:#0071e3; color:#fff; font-size:13px; font-weight:700; padding:1px 9px; margin-right:9px; border-radius:10px" bgcolor="#0071e3">12</span><span class="repo-name" style="color:#1a202c; font-weight:700">固态电池产业化进程提速，上市公司抢抓行业机遇</span></h3>
+<p class="repo-desc" style="margin:0 0 10px 0; padding:0; color:#2d3748; font-size:15.5px; line-height:1.8">半固态电池已到中试装车阶段，全固态还在啃硬骨头，材料厂先靠吨级出货卡位，这波产业化是真在往前挪了。</p>
+<p class="repo-meta" style="margin:0 0 7px 0; padding:0; font-size:13px; line-height:2.4"><span class="repo-source" style="display:inline-block; background-color:#e8f1fd; color:#0058b9; font-weight:700; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#e8f1fd">💼 36氪</span></p>
+<p class="repo-link" style="margin:0; padding:0; color:#718096; font-size:12.5px; word-break:break-all; line-height:1.6">🔗 <a href="https://36kr.com/newsflashes/4054667731686534?f=rss" style="color:#3182ce">https://36kr.com/newsflashes/4054667731686534?f=rss</a></p>
+<hr class="digest-sep" style="border:none; border-top:1px solid #e2e8f0; margin:18px 0; height:0" height="0">
+<p class="digest-footer" style="margin:0; padding:0; color:#a0aec0; font-size:12.5px; text-align:center; line-height:1.9" align="center">📅 本期生成时间: 2026-11-04 08:08<br>💡 数据来源: GitHub、Hacker News、HF Papers、arXiv、少数派、36氪</p>
+</section></div>
+  </div>
+</div>
+<script>
+(function() {
+  const btn = document.getElementById('copy-btn');
+  btn.addEventListener('click', async () => {
+    const node = document.getElementById('content-to-copy');
+    const html = node.innerHTML;
+    const text = node.innerText;
+    try {
+      await navigator.clipboard.write([
+        new ClipboardItem({
+          'text/html': new Blob([html], {type: 'text/html'}),
+          'text/plain': new Blob([text], {type: 'text/plain'})
+        })
+      ]);
+      btn.textContent = '✅ 已复制,去公众号粘贴';
+      btn.dataset.state = 'ok';
+    } catch (e) {
+      btn.textContent = '⚠️ 复制失败,请长按手动选';
+      btn.dataset.state = 'err';
+      console.error(e);
+    }
+    setTimeout(() => {
+      btn.textContent = '📋 复制富文本(用于公众号)';
+      btn.dataset.state = '';
+    }, 3000);
+  });
+})();
+</script>
+</body>
+</html>
