@@ -4823,6 +4823,25 @@
         "https://sspai.com/post/118402"
       ],
       "url": "tech/archive/2026-11-04.html"
+    },
+    {
+      "date": "2026-11-05",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/github/spec-kit",
+        "https://github.com/harry0703/MoneyPrinterTurbo",
+        "https://github.com/garrytan/gstack",
+        "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+        "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+        "https://layer3intel.com/blog/residential-proxies-white-house-network",
+        "https://huggingface.co/papers/2611.04814",
+        "https://huggingface.co/papers/2611.05377",
+        "https://sspai.com/post/117713",
+        "https://sspai.com/post/115819",
+        "https://36kr.com/newsflashes/4056105994556549?f=rss"
+      ],
+      "url": "tech/archive/2026-11-05.html"
     }
   ]
 }
