@@ -4842,6 +4842,26 @@
         "https://36kr.com/newsflashes/4056105994556549?f=rss"
       ],
       "url": "tech/archive/2026-11-05.html"
+    },
+    {
+      "date": "2026-11-05",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/github/spec-kit",
+        "https://github.com/harry0703/MoneyPrinterTurbo",
+        "https://github.com/garrytan/gstack",
+        "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+        "https://layer3intel.com/blog/residential-proxies-white-house-network",
+        "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+        "https://huggingface.co/papers/2611.06728",
+        "https://huggingface.co/papers/2610.37257",
+        "https://arxiv.org/abs/2611.06914v1",
+        "https://sspai.com/post/115399",
+        "https://sspai.com/post/118498",
+        "https://36kr.com/newsflashes/4056490572567424?f=rss"
+      ],
+      "url": "tech/archive/2026-11-05.html"
     }
   ]
 }
