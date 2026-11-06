@@ -4882,6 +4882,26 @@
         "https://36kr.com/newsflashes/4057503406527625?f=rss"
       ],
       "url": "tech/archive/2026-11-06.html"
+    },
+    {
+      "date": "2026-11-06",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/microsoft/VibeVoice",
+        "https://github.com/ConardLi/garden-skills",
+        "https://github.com/NVIDIA/auto-ontology",
+        "https://sshhole.com",
+        "https://github.com/anthropics/claude-code/issues/107757",
+        "https://kagi.com/changelog#11820",
+        "https://huggingface.co/papers/2611.04408",
+        "https://huggingface.co/papers/2611.08449",
+        "https://arxiv.org/abs/2611.08487v1",
+        "https://sspai.com/post/118570",
+        "https://sspai.com/post/118587",
+        "https://36kr.com/newsflashes/4057912345908356?f=rss"
+      ],
+      "url": "tech/archive/2026-11-06.html"
     }
   ]
 }
