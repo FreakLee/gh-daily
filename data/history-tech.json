@@ -4862,6 +4862,26 @@
         "https://36kr.com/newsflashes/4056490572567424?f=rss"
       ],
       "url": "tech/archive/2026-11-05.html"
+    },
+    {
+      "date": "2026-11-06",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/microsoft/VibeVoice",
+        "https://github.com/ConardLi/garden-skills",
+        "https://github.com/google/skills",
+        "https://sshhole.com",
+        "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+        "https://kagi.com/changelog#11820",
+        "https://huggingface.co/papers/2611.06918",
+        "https://huggingface.co/papers/2611.06910",
+        "https://arxiv.org/abs/2611.06912v1",
+        "https://sspai.com/post/118546",
+        "https://sspai.com/post/118541",
+        "https://36kr.com/newsflashes/4057503406527625?f=rss"
+      ],
+      "url": "tech/archive/2026-11-06.html"
     }
   ]
 }

@@ -4162,6 +4162,22 @@
         "https://www.cnbc.com/2026/11/04/stock-market-rally-trump-midterms.html"
       ],
       "url": "finance/archive/2026-11-05.html"
+    },
+    {
+      "date": "2026-11-06",
+      "category": "finance",
+      "mode": "daily",
+      "items": [
+        "https://wallstreetcn.com/articles/3785311",
+        "https://wallstreetcn.com/articles/3785308",
+        "https://wallstreetcn.com/articles/3785302",
+        "https://wallstreetcn.com/articles/3785235",
+        "https://www.cnbc.com/2026/11/05/tesla-spacex-stocks-fall-after-2026-midterms.html",
+        "https://www.cnbc.com/2026/11/05/nvidia-jensen-huang-china-spy-congress.html",
+        "https://www.cnbc.com/2026/11/05/trump-election-energy-venezuela-critical-mineral-renewable-iran.html",
+        "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm"
+      ],
+      "url": "finance/archive/2026-11-06.html"
     }
   ]
 }
