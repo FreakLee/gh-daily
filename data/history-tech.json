@@ -4902,6 +4902,26 @@
         "https://36kr.com/newsflashes/4057912345908356?f=rss"
       ],
       "url": "tech/archive/2026-11-06.html"
+    },
+    {
+      "date": "2026-11-07",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/cloudflare/security-audit-skill",
+        "https://github.com/microsoft/vscode",
+        "https://github.com/rust-lang/rust",
+        "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+        "https://www.filfre.net/2026/11/deus-ex/",
+        "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+        "https://huggingface.co/papers/2611.02075",
+        "https://huggingface.co/papers/2611.04277",
+        "https://arxiv.org/abs/2611.08483v1",
+        "https://sspai.com/post/118623",
+        "https://sspai.com/post/118250",
+        "https://36kr.com/newsflashes/4058919436883078?f=rss"
+      ],
+      "url": "tech/archive/2026-11-07.html"
     }
   ]
 }
