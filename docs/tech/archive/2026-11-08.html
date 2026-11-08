@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<title>AI科技日报 · 11月8日（周日）</title>
+<style>
+  :root { --accent: #0071e3; --accent-dark: #0058b9; }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: #eef0f3;
+    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Microsoft YaHei", sans-serif;
+  }
+  .page-frame {
+    max-width: 677px;
+    margin: 0 auto;
+    background: #fff;
+    min-height: 100vh;
+    box-shadow: 0 0 24px rgba(0,0,0,0.06);
+  }
+  .top-band {
+    background: linear-gradient(135deg, var(--accent), var(--accent-dark));
+    color: #fff;
+    padding: 18px 20px 16px;
+  }
+  .top-band .kicker { font-size: 12px; opacity: 0.85; letter-spacing: 2px; }
+  .top-band .brand { font-size: 19px; font-weight: 800; margin-top: 4px; }
+  .copy-bar {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background: rgba(255,255,255,0.92);
+    backdrop-filter: saturate(180%) blur(8px);
+    border-bottom: 1px solid #e8ebef;
+    padding: 12px 16px;
+    text-align: center;
+  }
+  .copy-btn {
+    width: 100%;
+    max-width: 380px;
+    min-height: 50px;
+    font-size: 16px;
+    font-weight: 700;
+    color: #fff;
+    background: #07c160;
+    border: none;
+    border-radius: 25px;
+    padding: 13px 16px;
+    cursor: pointer;
+    box-shadow: 0 4px 14px rgba(7,193,96,0.32);
+    transition: transform .05s ease;
+  }
+  .copy-btn:active { background: #06a050; transform: translateY(1px); }
+  .copy-btn[data-state="ok"] { background: var(--accent); box-shadow: none; }
+  .copy-btn[data-state="err"] { background: #c0392b; box-shadow: none; }
+  .content-host { padding: 20px 18px 32px; }
+  .hint { color: #94a3b8; font-size: 12px; margin-top: 8px; }
+</style>
+</head>
+<body>
+<div class="page-frame">
+  <div class="top-band">
+    <div class="kicker">GH-DAILY</div>
+    <div class="brand">AI科技日报 · 11月8日（周日）</div>
+  </div>
+  <div class="copy-bar">
+    <button id="copy-btn" class="copy-btn">📋 复制富文本(用于公众号)</button>
+    <div class="hint">复制后切换到公众号后台「写新文章」编辑器,粘贴即可</div>
+  </div>
+  <div class="content-host">
+    <div id="content-to-copy"><section class="digest-root tech" style='font-family:-apple-system, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Microsoft YaHei", sans-serif; color:#2c3e50; font-size:16px; line-height:1.8; padding:0'>
+<h1 class="digest-title" style="font-size:23px; font-weight:800; color:#1a202c; margin:0 0 10px 0; padding:0; line-height:1.4; text-align:center" align="center">AI科技日报 · 11月8日（周日）</h1>
+<p class="digest-summary" style="margin:0 0 6px 0; padding:0; text-align:center" align="center"><span class="digest-summary-pill" style="display:inline-block; background-color:#e8f1fd; color:#0058b9; font-size:13px; padding:4px 14px; border-radius:14px" bgcolor="#e8f1fd">📌 今日 11 条 · GitHub、Hacker News、HF Papers、arXiv、少数派、36氪</span></p>
+
+<hr class="digest-sep" style="border:none; border-top:1px solid #e2e8f0; margin:18px 0; height:0" height="0">
+<h3 class="repo-header" style="margin:0 0 9px 0; padding:0; font-size:17px; font-weight:700; color:#1a202c; line-height:1.5"><span class="repo-num" style="display:inline-block; background-color:#0071e3; color:#fff; font-size:13px; font-weight:700; padding:1px 9px; margin-right:9px; border-radius:10px" bgcolor="#0071e3">1</span><span class="repo-name" style="color:#1a202c; font-weight:700">milind-soni/OpenMausBot</span></h3>
+<p class="repo-desc" style="margin:0 0 10px 0; padding:0; color:#2d3748; font-size:15.5px; line-height:1.8">开源的 Grok Bot 替代品，给 bot 配了台虚拟机让它自己动手干活，TypeScript 写的，想折腾自主 agent 的可以看看。</p>
+<p class="repo-meta" style="margin:0 0 7px 0; padding:0; font-size:13px; line-height:2.4"><span class="repo-source" style="display:inline-block; background-color:#e8f1fd; color:#0058b9; font-weight:700; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#e8f1fd">🐙 GitHub</span><span class="repo-metric" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; font-weight:600; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">📈 +2.0k ⭐</span><span class="repo-meta-bit" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">🔧 TypeScript</span></p>
+<p class="repo-link" style="margin:0; padding:0; color:#718096; font-size:12.5px; word-break:break-all; line-height:1.6">🔗 <a href="https://github.com/milind-soni/OpenMausBot" style="color:#3182ce">https://github.com/milind-soni/OpenMausBot</a></p>
+<hr class="repo-sep" style="border:none; border-top:1px dashed #e2e8f0; margin:18px 0; height:0" height="0">
+<h3 class="repo-header" style="margin:0 0 9px 0; padding:0; font-size:17px; font-weight:700; color:#1a202c; line-height:1.5"><span class="repo-num" style="display:inline-block; background-color:#0071e3; color:#fff; font-size:13px; font-weight:700; padding:1px 9px; margin-right:9px; border-radius:10px" bgcolor="#0071e3">2</span><span class="repo-name" style="color:#1a202c; font-weight:700">anthropics/skills</span></h3>
+<p class="repo-desc" style="margin:0 0 10px 0; padding:0; color:#2d3748; font-size:15.5px; line-height:1.8">Anthropic 官方放出的 Agent Skills 示例仓库，用 Python 写，能直接拿来抄怎么给 Claude 加自定义技能，想动手扩展 agent 能力的人可以看看。</p>
+<p class="repo-meta" style="margin:0 0 7px 0; padding:0; font-size:13px; line-height:2.4"><span class="repo-source" style="display:inline-block; background-color:#e8f1fd; color:#0058b9; font-weight:700; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#e8f1fd">🐙 GitHub</span><span class="repo-metric" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; font-weight:600; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">📈 +390 ⭐</span><span class="repo-meta-bit" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">🔧 Python</span></p>
+<p class="repo-link" style="margin:0; padding:0; color:#718096; font-size:12.5px; word-break:break-all; line-height:1.6">🔗 <a href="https://github.com/anthropics/skills" style="color:#3182ce">https://github.com/anthropics/skills</a></p>
+<hr class="repo-sep" style="border:none; border-top:1px dashed #e2e8f0; margin:18px 0; height:0" height="0">
+<h3 class="repo-header" style="margin:0 0 9px 0; padding:0; font-size:17px; font-weight:700; color:#1a202c; line-height:1.5"><span class="repo-num" style="display:inline-block; background-color:#0071e3; color:#fff; font-size:13px; font-weight:700; padding:1px 9px; margin-right:9px; border-radius:10px" bgcolor="#0071e3">3</span><span class="repo-name" style="color:#1a202c; font-weight:700">sherlock-project/sherlock</span></h3>
+<p class="repo-desc" style="margin:0 0 10px 0; padding:0; color:#2d3748; font-size:15.5px; line-height:1.8">一个用户名就能在四百多个社交网站上扒出对应账号，Python 写的，查人肉搜索和做 OSINT 调查的人用得上。</p>
+<p class="repo-meta" style="margin:0 0 7px 0; padding:0; font-size:13px; line-height:2.4"><span class="repo-source" style="display:inline-block; background-color:#e8f1fd; color:#0058b9; font-weight:700; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#e8f1fd">🐙 GitHub</span><span class="repo-metric" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; font-weight:600; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">📈 +1.8k ⭐</span><span class="repo-meta-bit" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">🔧 Python</span></p>
+<p class="repo-link" style="margin:0; padding:0; color:#718096; font-size:12.5px; word-break:break-all; line-height:1.6">🔗 <a href="https://github.com/sherlock-project/sherlock" style="color:#3182ce">https://github.com/sherlock-project/sherlock</a></p>
+<hr class="repo-sep" style="border:none; border-top:1px dashed #e2e8f0; margin:18px 0; height:0" height="0">
+<h3 class="repo-header" style="margin:0 0 9px 0; padding:0; font-size:17px; font-weight:700; color:#1a202c; line-height:1.5"><span class="repo-num" style="display:inline-block; background-color:#0071e3; color:#fff; font-size:13px; font-weight:700; padding:1px 9px; margin-right:9px; border-radius:10px" bgcolor="#0071e3">4</span><span class="repo-name" style="color:#1a202c; font-weight:700">浏览器里玩极品飞车地下2</span></h3>
+<p class="repo-desc" style="margin:0 0 10px 0; padding:0; color:#2d3748; font-size:15.5px; line-height:1.8">把 2004 年的《极品飞车：地下狂飙 2》联机对战搬进浏览器，靠模拟网络层还原当年的线上模式，老玩家怀旧、想重温局域网飙车的会感兴趣。</p>
+<p class="repo-meta" style="margin:0 0 7px 0; padding:0; font-size:13px; line-height:2.4"><span class="repo-source" style="display:inline-block; background-color:#e8f1fd; color:#0058b9; font-weight:700; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#e8f1fd">🟧 Hacker News</span><span class="repo-metric" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; font-weight:600; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">🔺 775 分</span><span class="repo-meta-bit" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">💬 222 评论</span></p>
+<p class="repo-link" style="margin:0; padding:0; color:#718096; font-size:12.5px; word-break:break-all; line-height:1.6">🔗 <a href="https://nfsu2.xyz/" style="color:#3182ce">https://nfsu2.xyz/</a></p>
+<hr class="repo-sep" style="border:none; border-top:1px dashed #e2e8f0; margin:18px 0; height:0" height="0">
+<h3 class="repo-header" style="margin:0 0 9px 0; padding:0; font-size:17px; font-weight:700; color:#1a202c; line-height:1.5"><span class="repo-num" style="display:inline-block; background-color:#0071e3; color:#fff; font-size:13px; font-weight:700; padding:1px 9px; margin-right:9px; border-radius:10px" bgcolor="#0071e3">5</span><span class="repo-name" style="color:#1a202c; font-weight:700">Mac 自带隐藏人脸分类器</span></h3>
+<p class="repo-desc" style="margin:0 0 10px 0; padding:0; color:#2d3748; font-size:15.5px; line-height:1.8">macOS 相册能按人脸自动归类，靠的是系统里没公开的 Vision 框架，自己写几行代码就能调，不用再买云服务。</p>
+<p class="repo-meta" style="margin:0 0 7px 0; padding:0; font-size:13px; line-height:2.4"><span class="repo-source" style="display:inline-block; background-color:#e8f1fd; color:#0058b9; font-weight:700; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#e8f1fd">🟧 Hacker News</span><span class="repo-metric" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; font-weight:600; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">🔺 573 分</span><span class="repo-meta-bit" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">💬 329 评论</span></p>
+<p class="repo-link" style="margin:0; padding:0; color:#718096; font-size:12.5px; word-break:break-all; line-height:1.6">🔗 <a href="https://8rank.ai/game/apple-intelligence-personal-knowledge-graph" style="color:#3182ce">https://8rank.ai/game/apple-intelligence-personal-knowledge-graph</a></p>
+<hr class="repo-sep" style="border:none; border-top:1px dashed #e2e8f0; margin:18px 0; height:0" height="0">
+<h3 class="repo-header" style="margin:0 0 9px 0; padding:0; font-size:17px; font-weight:700; color:#1a202c; line-height:1.5"><span class="repo-num" style="display:inline-block; background-color:#0071e3; color:#fff; font-size:13px; font-weight:700; padding:1px 9px; margin-right:9px; border-radius:10px" bgcolor="#0071e3">6</span><span class="repo-name" style="color:#1a202c; font-weight:700">微软AI前沿组解散</span></h3>
+<p class="repo-desc" style="margin:0 0 10px 0; padding:0; color:#2d3748; font-size:15.5px; line-height:1.8">微软研究院把 AI Frontiers 组撤了，这个组专攻多智能体和大模型前沿，191 条评论里同行都在猜是收缩还是转向产品。</p>
+<p class="repo-meta" style="margin:0 0 7px 0; padding:0; font-size:13px; line-height:2.4"><span class="repo-source" style="display:inline-block; background-color:#e8f1fd; color:#0058b9; font-weight:700; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#e8f1fd">🟧 Hacker News</span><span class="repo-metric" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; font-weight:600; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">🔺 328 分</span><span class="repo-meta-bit" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">💬 191 评论</span></p>
+<p class="repo-link" style="margin:0; padding:0; color:#718096; font-size:12.5px; word-break:break-all; line-height:1.6">🔗 <a href="https://hunch.net/?p=13764006" style="color:#3182ce">https://hunch.net/?p=13764006</a></p>
+<hr class="repo-sep" style="border:none; border-top:1px dashed #e2e8f0; margin:18px 0; height:0" height="0">
+<h3 class="repo-header" style="margin:0 0 9px 0; padding:0; font-size:17px; font-weight:700; color:#1a202c; line-height:1.5"><span class="repo-num" style="display:inline-block; background-color:#0071e3; color:#fff; font-size:13px; font-weight:700; padding:1px 9px; margin-right:9px; border-radius:10px" bgcolor="#0071e3">7</span><span class="repo-name" style="color:#1a202c; font-weight:700">From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intell…</span></h3>
+<p class="repo-desc" style="margin:0 0 10px 0; padding:0; color:#2d3748; font-size:15.5px; line-height:1.8">别老盯着机器人了，这篇论文说物理 AI 还有另一半：一个贴身、懂你多年上下文的认知共生体，补的是你工作记忆装不下的那部分。</p>
+<p class="repo-meta" style="margin:0 0 7px 0; padding:0; font-size:13px; line-height:2.4"><span class="repo-source" style="display:inline-block; background-color:#e8f1fd; color:#0058b9; font-weight:700; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#e8f1fd">🤗 HF Papers</span><span class="repo-metric" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; font-weight:600; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">👍 84</span></p>
+<p class="repo-link" style="margin:0; padding:0; color:#718096; font-size:12.5px; word-break:break-all; line-height:1.6">🔗 <a href="https://huggingface.co/papers/2611.05376" style="color:#3182ce">https://huggingface.co/papers/2611.05376</a></p>
+<hr class="repo-sep" style="border:none; border-top:1px dashed #e2e8f0; margin:18px 0; height:0" height="0">
+<h3 class="repo-header" style="margin:0 0 9px 0; padding:0; font-size:17px; font-weight:700; color:#1a202c; line-height:1.5"><span class="repo-num" style="display:inline-block; background-color:#0071e3; color:#fff; font-size:13px; font-weight:700; padding:1px 9px; margin-right:9px; border-radius:10px" bgcolor="#0071e3">8</span><span class="repo-name" style="color:#1a202c; font-weight:700">SLA: Scaling Spatial-Language-Action Model via Continual Pre-training</span></h3>
+<p class="repo-desc" style="margin:0 0 10px 0; padding:0; color:#2d3748; font-size:15.5px; line-height:1.8">把 3D 空间感知直接焊进 VLA 的预训练里，靠冻结的 3D 模型当老师对齐中间特征，训练完辅助模块全扔掉，推理架构一点不改。</p>
+<p class="repo-meta" style="margin:0 0 7px 0; padding:0; font-size:13px; line-height:2.4"><span class="repo-source" style="display:inline-block; background-color:#e8f1fd; color:#0058b9; font-weight:700; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#e8f1fd">🤗 HF Papers</span><span class="repo-metric" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; font-weight:600; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">👍 81</span></p>
+<p class="repo-link" style="margin:0; padding:0; color:#718096; font-size:12.5px; word-break:break-all; line-height:1.6">🔗 <a href="https://huggingface.co/papers/2611.08373" style="color:#3182ce">https://huggingface.co/papers/2611.08373</a></p>
+<hr class="repo-sep" style="border:none; border-top:1px dashed #e2e8f0; margin:18px 0; height:0" height="0">
+<h3 class="repo-header" style="margin:0 0 9px 0; padding:0; font-size:17px; font-weight:700; color:#1a202c; line-height:1.5"><span class="repo-num" style="display:inline-block; background-color:#0071e3; color:#fff; font-size:13px; font-weight:700; padding:1px 9px; margin-right:9px; border-radius:10px" bgcolor="#0071e3">9</span><span class="repo-name" style="color:#1a202c; font-weight:700">Scientist World: Grow a Research World for AI-Scientists</span></h3>
+<p class="repo-desc" style="margin:0 0 10px 0; padding:0; color:#2d3748; font-size:15.5px; line-height:1.8">把每篇论文变成一个能跑的环境，AI 科学家进去跟原作者比成绩，头 1000 个环境里前沿模型已有 74% 超过人类，还能当训练场把模型研究点子能力拉高 158%。</p>
+<p class="repo-meta" style="margin:0 0 7px 0; padding:0; font-size:13px; line-height:2.4"><span class="repo-source" style="display:inline-block; background-color:#e8f1fd; color:#0058b9; font-weight:700; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#e8f1fd">📄 arXiv</span><span class="repo-metric" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; font-weight:600; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">🆕 最新</span><span class="repo-meta-bit" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">🏷️ cs.AI</span></p>
+<p class="repo-link" style="margin:0; padding:0; color:#718096; font-size:12.5px; word-break:break-all; line-height:1.6">🔗 <a href="https://arxiv.org/abs/2611.08478v1" style="color:#3182ce">https://arxiv.org/abs/2611.08478v1</a></p>
+<hr class="repo-sep" style="border:none; border-top:1px dashed #e2e8f0; margin:18px 0; height:0" height="0">
+<h3 class="repo-header" style="margin:0 0 9px 0; padding:0; font-size:17px; font-weight:700; color:#1a202c; line-height:1.5"><span class="repo-num" style="display:inline-block; background-color:#0071e3; color:#fff; font-size:13px; font-weight:700; padding:1px 9px; margin-right:9px; border-radius:10px" bgcolor="#0071e3">10</span><span class="repo-name" style="color:#1a202c; font-weight:700">一个 05 后的个人数码编年史</span></h3>
+<p class="repo-desc" style="margin:0 0 10px 0; padding:0; color:#2d3748; font-size:15.5px; line-height:1.8">一个 05 后按时间顺序记下自己用过的数码产品，写的是少年心气和个人记忆，不是评测，同龄人看了会有共鸣。</p>
+<p class="repo-meta" style="margin:0 0 7px 0; padding:0; font-size:13px; line-height:2.4"><span class="repo-source" style="display:inline-block; background-color:#e8f1fd; color:#0058b9; font-weight:700; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#e8f1fd">📱 少数派</span></p>
+<p class="repo-link" style="margin:0; padding:0; color:#718096; font-size:12.5px; word-break:break-all; line-height:1.6">🔗 <a href="https://sspai.com/post/116750" style="color:#3182ce">https://sspai.com/post/116750</a></p>
+<hr class="repo-sep" style="border:none; border-top:1px dashed #e2e8f0; margin:18px 0; height:0" height="0">
+<h3 class="repo-header" style="margin:0 0 9px 0; padding:0; font-size:17px; font-weight:700; color:#1a202c; line-height:1.5"><span class="repo-num" style="display:inline-block; background-color:#0071e3; color:#fff; font-size:13px; font-weight:700; padding:1px 9px; margin-right:9px; border-radius:10px" bgcolor="#0071e3">11</span><span class="repo-name" style="color:#1a202c; font-weight:700">巴西成立电动汽车工作组，推动交通低碳转型</span></h3>
+<p class="repo-desc" style="margin:0 0 10px 0; padding:0; color:#2d3748; font-size:15.5px; line-height:1.8">巴西批准国家能源转型计划，并成立电动汽车工作组，跟进推广进度、推动交通低碳转型。</p>
+<p class="repo-meta" style="margin:0 0 7px 0; padding:0; font-size:13px; line-height:2.4"><span class="repo-source" style="display:inline-block; background-color:#e8f1fd; color:#0058b9; font-weight:700; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#e8f1fd">💼 36氪</span></p>
+<p class="repo-link" style="margin:0; padding:0; color:#718096; font-size:12.5px; word-break:break-all; line-height:1.6">🔗 <a href="https://36kr.com/newsflashes/4059309879334016?f=rss" style="color:#3182ce">https://36kr.com/newsflashes/4059309879334016?f=rss</a></p>
+<hr class="digest-sep" style="border:none; border-top:1px solid #e2e8f0; margin:18px 0; height:0" height="0">
+<p class="digest-footer" style="margin:0; padding:0; color:#a0aec0; font-size:12.5px; text-align:center; line-height:1.9" align="center">📅 本期生成时间: 2026-11-08 08:08<br>💡 数据来源: GitHub、Hacker News、HF Papers、arXiv、少数派、36氪</p>
+</section></div>
+  </div>
+</div>
+<script>
+(function() {
+  const btn = document.getElementById('copy-btn');
+  btn.addEventListener('click', async () => {
+    const node = document.getElementById('content-to-copy');
+    const html = node.innerHTML;
+    const text = node.innerText;
+    try {
+      await navigator.clipboard.write([
+        new ClipboardItem({
+          'text/html': new Blob([html], {type: 'text/html'}),
+          'text/plain': new Blob([text], {type: 'text/plain'})
+        })
+      ]);
+      btn.textContent = '✅ 已复制,去公众号粘贴';
+      btn.dataset.state = 'ok';
+    } catch (e) {
+      btn.textContent = '⚠️ 复制失败,请长按手动选';
+      btn.dataset.state = 'err';
+      console.error(e);
+    }
+    setTimeout(() => {
+      btn.textContent = '📋 复制富文本(用于公众号)';
+      btn.dataset.state = '';
+    }, 3000);
+  });
+})();
+</script>
+</body>
+</html>

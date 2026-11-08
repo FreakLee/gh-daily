@@ -4922,6 +4922,25 @@
         "https://36kr.com/newsflashes/4058919436883078?f=rss"
       ],
       "url": "tech/archive/2026-11-07.html"
+    },
+    {
+      "date": "2026-11-08",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/milind-soni/OpenMausBot",
+        "https://github.com/anthropics/skills",
+        "https://github.com/sherlock-project/sherlock",
+        "https://nfsu2.xyz/",
+        "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+        "https://hunch.net/?p=13764006",
+        "https://huggingface.co/papers/2611.05376",
+        "https://huggingface.co/papers/2611.08373",
+        "https://arxiv.org/abs/2611.08478v1",
+        "https://sspai.com/post/116750",
+        "https://36kr.com/newsflashes/4059309879334016?f=rss"
+      ],
+      "url": "tech/archive/2026-11-08.html"
     }
   ]
 }
