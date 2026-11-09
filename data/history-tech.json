@@ -4941,6 +4941,26 @@
         "https://36kr.com/newsflashes/4059309879334016?f=rss"
       ],
       "url": "tech/archive/2026-11-08.html"
+    },
+    {
+      "date": "2026-11-09",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/meta/astryx",
+        "https://github.com/vercel-labs/agent-browser",
+        "https://github.com/ranxianglei/billion-context",
+        "https://caleb.software/posts/claude-to-pi.html",
+        "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+        "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+        "https://huggingface.co/papers/2611.07392",
+        "https://huggingface.co/papers/2611.06741",
+        "https://arxiv.org/abs/2611.08472v1",
+        "https://sspai.com/post/118805",
+        "https://sspai.com/post/118114",
+        "https://36kr.com/newsflashes/4061755287458945?f=rss"
+      ],
+      "url": "tech/archive/2026-11-09.html"
     }
   ]
 }
