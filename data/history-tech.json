@@ -5001,6 +5001,26 @@
         "https://36kr.com/newsflashes/4063186549413001?f=rss"
       ],
       "url": "tech/archive/2026-11-10.html"
+    },
+    {
+      "date": "2026-11-10",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/ZhuLinsen/daily_stock_analysis",
+        "https://github.com/ruvnet/RuView",
+        "https://github.com/anthropics/claude-quickstarts",
+        "https://www.foldableflight.com",
+        "https://postalpro.usps.com/zcb",
+        "https://github.com/thisisme6598/gemini_files/",
+        "https://huggingface.co/papers/2611.09124",
+        "https://huggingface.co/papers/2611.08175",
+        "https://arxiv.org/abs/2611.12884v1",
+        "https://sspai.com/post/111065",
+        "https://sspai.com/post/118854",
+        "https://36kr.com/newsflashes/4063612395344773?f=rss"
+      ],
+      "url": "tech/archive/2026-11-10.html"
     }
   ]
 }
