@@ -4981,6 +4981,26 @@
         "https://36kr.com/newsflashes/4062160138376067?f=rss"
       ],
       "url": "tech/archive/2026-11-09.html"
+    },
+    {
+      "date": "2026-11-10",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/ZhuLinsen/daily_stock_analysis",
+        "https://github.com/ruvnet/RuView",
+        "https://github.com/anthropics/claude-quickstarts",
+        "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+        "https://www.foldableflight.com",
+        "https://twitter.com/shanemelaugh/status/2119192075505893695",
+        "https://huggingface.co/papers/2611.08264",
+        "https://huggingface.co/papers/2611.03953",
+        "https://arxiv.org/abs/2611.09891v1",
+        "https://sspai.com/post/118833",
+        "https://sspai.com/post/118799",
+        "https://36kr.com/newsflashes/4063186549413001?f=rss"
+      ],
+      "url": "tech/archive/2026-11-10.html"
     }
   ]
 }

@@ -4254,6 +4254,22 @@
         "https://www.cnbc.com/2026/11/08/democrats-trump-oversight-blanche-doj-investigations.html"
       ],
       "url": "finance/archive/2026-11-09.html"
+    },
+    {
+      "date": "2026-11-10",
+      "category": "finance",
+      "mode": "daily",
+      "items": [
+        "https://wallstreetcn.com/articles/3785611",
+        "https://wallstreetcn.com/articles/3785609",
+        "https://wallstreetcn.com/articles/3785604",
+        "https://wallstreetcn.com/articles/3785607",
+        "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-china-spy-trump-lobbying.html",
+        "https://www.cnbc.com/2026/11/09/cnbcs-the-china-connection-newsletter-wall-street-dips-in-again.html",
+        "https://www.cnbc.com/2026/11/09/jensen-huang-affair-nvidia-succession.html",
+        "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm"
+      ],
+      "url": "finance/archive/2026-11-10.html"
     }
   ]
 }
