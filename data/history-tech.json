@@ -5041,6 +5041,26 @@
         "https://36kr.com/newsflashes/4064593771336580?f=rss"
       ],
       "url": "tech/archive/2026-11-11.html"
+    },
+    {
+      "date": "2026-11-11",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/addyosmani/agent-skills",
+        "https://github.com/tokio-rs/topcoat",
+        "https://github.com/mattpocock/skills",
+        "https://docodethatmatters.com/home-automation-overnight-success/",
+        "https://neil.fraser.name/news/2026/11/10/",
+        "https://deepmind.google/blog/introducing-alphaproof-code/",
+        "https://huggingface.co/papers/2611.12426",
+        "https://huggingface.co/papers/2611.14309",
+        "https://arxiv.org/abs/2611.14519v1",
+        "https://sspai.com/post/118458",
+        "https://sspai.com/post/118905",
+        "https://36kr.com/newsflashes/4064982696170624?f=rss"
+      ],
+      "url": "tech/archive/2026-11-11.html"
     }
   ]
 }
