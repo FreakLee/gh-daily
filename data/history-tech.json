@@ -5080,6 +5080,26 @@
         "https://36kr.com/newsflashes/4065997484970881?f=rss"
       ],
       "url": "tech/archive/2026-11-12.html"
+    },
+    {
+      "date": "2026-11-12",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/we-promise/sure",
+        "https://github.com/homeassistant-ai/ha-mcp",
+        "https://github.com/shadcn/improve",
+        "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+        "https://pietromiotti.com/latest/maya-site",
+        "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+        "https://huggingface.co/papers/2611.14320",
+        "https://huggingface.co/papers/2611.13001",
+        "https://arxiv.org/abs/2611.14518v1",
+        "https://sspai.com/post/118921",
+        "https://sspai.com/post/118935",
+        "https://36kr.com/newsflashes/4066442613429121?f=rss"
+      ],
+      "url": "tech/archive/2026-11-12.html"
     }
   ]
 }
