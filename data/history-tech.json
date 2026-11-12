@@ -5061,6 +5061,25 @@
         "https://36kr.com/newsflashes/4064982696170624?f=rss"
       ],
       "url": "tech/archive/2026-11-11.html"
+    },
+    {
+      "date": "2026-11-12",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/we-promise/sure",
+        "https://github.com/homeassistant-ai/ha-mcp",
+        "https://github.com/shadcn/improve",
+        "https://pietromiotti.com/latest/maya-site",
+        "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+        "https://github.com/aws/aws-emulator",
+        "https://huggingface.co/papers/2611.14210",
+        "https://huggingface.co/papers/2611.14320",
+        "https://sspai.com/post/118781",
+        "https://sspai.com/post/118175",
+        "https://36kr.com/newsflashes/4065997484970881?f=rss"
+      ],
+      "url": "tech/archive/2026-11-12.html"
     }
   ]
 }
