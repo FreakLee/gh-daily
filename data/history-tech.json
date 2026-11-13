@@ -5120,6 +5120,26 @@
         "https://36kr.com/newsflashes/4067431669748867?f=rss"
       ],
       "url": "tech/archive/2026-11-13.html"
+    },
+    {
+      "date": "2026-11-13",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/Alishahryar1/free-claude-code",
+        "https://github.com/CopilotKit/OpenBot",
+        "https://github.com/GoogleChrome/modern-web-guidance-src",
+        "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+        "https://ipo.anthropic.com/us/",
+        "https://status.cloud.microsoft/",
+        "https://huggingface.co/papers/2611.13410",
+        "https://huggingface.co/papers/2611.14815",
+        "https://arxiv.org/abs/2611.17334v1",
+        "https://sspai.com/post/118512",
+        "https://sspai.com/post/118966",
+        "https://36kr.com/newsflashes/4067801393386371?f=rss"
+      ],
+      "url": "tech/archive/2026-11-13.html"
     }
   ]
 }
