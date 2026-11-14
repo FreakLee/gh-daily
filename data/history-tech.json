@@ -5140,6 +5140,26 @@
         "https://36kr.com/newsflashes/4067801393386371?f=rss"
       ],
       "url": "tech/archive/2026-11-13.html"
+    },
+    {
+      "date": "2026-11-14",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/tailscale/tailcat",
+        "https://github.com/alibaba/open-code-review",
+        "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+        "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+        "https://twitter.com/LibreOffice/status/2121205272479998268",
+        "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+        "https://huggingface.co/papers/2611.15777",
+        "https://huggingface.co/papers/2611.16748",
+        "https://arxiv.org/abs/2611.17332v1",
+        "https://sspai.com/post/118999",
+        "https://sspai.com/post/118153",
+        "https://36kr.com/newsflashes/4068190633366409?f=rss"
+      ],
+      "url": "tech/archive/2026-11-14.html"
     }
   ]
 }
