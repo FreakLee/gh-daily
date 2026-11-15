@@ -5160,6 +5160,24 @@
         "https://36kr.com/newsflashes/4068190633366409?f=rss"
       ],
       "url": "tech/archive/2026-11-14.html"
+    },
+    {
+      "date": "2026-11-15",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/JuliusBrussee/caveman",
+        "https://github.com/dream-num/univer",
+        "https://github.com/backnotprop/plannotator",
+        "https://www.crissyfield.de/research/lovable-en/",
+        "https://www.spacex.com/launches/starship-flight-15",
+        "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
+        "https://huggingface.co/papers/2611.15844",
+        "https://huggingface.co/papers/2611.17167",
+        "https://sspai.com/post/118276",
+        "https://36kr.com/newsflashes/4069208477373312?f=rss"
+      ],
+      "url": "tech/archive/2026-11-15.html"
     }
   ]
 }
