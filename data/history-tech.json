@@ -5178,6 +5178,25 @@
         "https://36kr.com/newsflashes/4069208477373312?f=rss"
       ],
       "url": "tech/archive/2026-11-15.html"
+    },
+    {
+      "date": "2026-11-16",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/google-labs-code/stitch-skills",
+        "https://github.com/tradermonty/claude-trading-skills",
+        "https://github.com/Tencent/LoopForge",
+        "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+        "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+        "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+        "https://huggingface.co/papers/2611.17060",
+        "https://huggingface.co/papers/2611.17331",
+        "https://arxiv.org/abs/2611.17329v1",
+        "https://sspai.com/post/118392",
+        "https://36kr.com/newsflashes/4071673613669252?f=rss"
+      ],
+      "url": "tech/archive/2026-11-16.html"
     }
   ]
 }
