@@ -5217,6 +5217,26 @@
         "https://36kr.com/newsflashes/4072063770743942?f=rss"
       ],
       "url": "tech/archive/2026-11-16.html"
+    },
+    {
+      "date": "2026-11-17",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/mvanhorn/last30days-skill",
+        "https://github.com/ag-ui-protocol/ag-ui",
+        "https://github.com/NVIDIA/SkillEvaluator",
+        "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/",
+        "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+        "https://www.cs.cmu.edu/learn/",
+        "https://huggingface.co/papers/2611.15789",
+        "https://huggingface.co/papers/2611.12068",
+        "https://arxiv.org/abs/2611.18561v1",
+        "https://sspai.com/post/119148",
+        "https://sspai.com/post/118100",
+        "https://36kr.com/newsflashes/4073078841463682?f=rss"
+      ],
+      "url": "tech/archive/2026-11-17.html"
     }
   ]
 }
