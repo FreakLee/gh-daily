@@ -5257,6 +5257,26 @@
         "https://36kr.com/newsflashes/4073559667233927?f=rss"
       ],
       "url": "tech/archive/2026-11-17.html"
+    },
+    {
+      "date": "2026-11-18",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/affaan-m/ECC",
+        "https://github.com/obra/superpowers",
+        "https://github.com/jingyaogong/minimind",
+        "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
+        "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+        "https://developer.apple.com/system-status/",
+        "https://huggingface.co/papers/2611.21072",
+        "https://huggingface.co/papers/2611.21218",
+        "https://arxiv.org/abs/2611.21605v1",
+        "https://sspai.com/post/119184",
+        "https://sspai.com/post/119160",
+        "https://36kr.com/newsflashes/4074501849076612?f=rss"
+      ],
+      "url": "tech/archive/2026-11-18.html"
     }
   ]
 }
