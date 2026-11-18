@@ -5277,6 +5277,26 @@
         "https://36kr.com/newsflashes/4074501849076612?f=rss"
       ],
       "url": "tech/archive/2026-11-18.html"
+    },
+    {
+      "date": "2026-11-18",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/affaan-m/ECC",
+        "https://github.com/obra/superpowers",
+        "https://github.com/jingyaogong/minimind",
+        "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+        "https://calif.io/java4shell/",
+        "https://developer.apple.com/system-status/",
+        "https://huggingface.co/papers/2611.22115",
+        "https://huggingface.co/papers/2611.17621",
+        "https://arxiv.org/abs/2611.23229v1",
+        "https://sspai.com/post/119193",
+        "https://sspai.com/post/118975",
+        "https://36kr.com/newsflashes/4074935383659399?f=rss"
+      ],
+      "url": "tech/archive/2026-11-18.html"
     }
   ]
 }
