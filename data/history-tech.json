@@ -5297,6 +5297,25 @@
         "https://36kr.com/newsflashes/4074935383659399?f=rss"
       ],
       "url": "tech/archive/2026-11-18.html"
+    },
+    {
+      "date": "2026-11-19",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/n8n-io/n8n",
+        "https://github.com/punkpeye/awesome-mcp-servers",
+        "https://github.com/HKUDS/CLI-Anything",
+        "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+        "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
+        "https://www.inside-db.com/",
+        "https://huggingface.co/papers/2611.17048",
+        "https://huggingface.co/papers/2611.23226",
+        "https://sspai.com/post/118985",
+        "https://sspai.com/post/118732",
+        "https://36kr.com/newsflashes/4075916769170562?f=rss"
+      ],
+      "url": "tech/archive/2026-11-19.html"
     }
   ]
 }
