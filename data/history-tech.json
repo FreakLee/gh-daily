@@ -5356,6 +5356,26 @@
         "https://36kr.com/newsflashes/4077342051816328?f=rss"
       ],
       "url": "tech/archive/2026-11-20.html"
+    },
+    {
+      "date": "2026-11-20",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/firecrawl/firecrawl",
+        "https://github.com/cathrynlavery/diagram-design",
+        "https://github.com/zhouxiaoka/autoclip",
+        "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+        "https://blog.harrison.page/garage-door-spam/",
+        "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
+        "https://huggingface.co/papers/2611.21383",
+        "https://huggingface.co/papers/2611.26444",
+        "https://arxiv.org/abs/2611.26627v1",
+        "https://sspai.com/post/118879",
+        "https://sspai.com/post/119311",
+        "https://36kr.com/newsflashes/4077768164791170?f=rss"
+      ],
+      "url": "tech/archive/2026-11-20.html"
     }
   ]
 }
