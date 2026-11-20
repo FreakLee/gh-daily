@@ -4532,6 +4532,22 @@
         "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm"
       ],
       "url": "finance/archive/2026-11-19.html"
+    },
+    {
+      "date": "2026-11-20",
+      "category": "finance",
+      "mode": "daily",
+      "items": [
+        "https://wallstreetcn.com/articles/3786317",
+        "https://wallstreetcn.com/articles/3786322",
+        "https://wallstreetcn.com/articles/3786319",
+        "https://wallstreetcn.com/articles/3786267",
+        "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
+        "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
+        "https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-stocks-selloff.html",
+        "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261119a.htm"
+      ],
+      "url": "finance/archive/2026-11-20.html"
     }
   ]
 }

@@ -5336,6 +5336,26 @@
         "https://36kr.com/newsflashes/4076346678858632?f=rss"
       ],
       "url": "tech/archive/2026-11-19.html"
+    },
+    {
+      "date": "2026-11-20",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/firecrawl/firecrawl",
+        "https://github.com/cathrynlavery/diagram-design",
+        "https://github.com/zhouxiaoka/autoclip",
+        "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+        "https://blog.harrison.page/garage-door-spam/",
+        "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
+        "https://huggingface.co/papers/2611.24654",
+        "https://huggingface.co/papers/2611.24789",
+        "https://arxiv.org/abs/2611.24932v1",
+        "https://sspai.com/post/119191",
+        "https://sspai.com/post/119287",
+        "https://36kr.com/newsflashes/4077342051816328?f=rss"
+      ],
+      "url": "tech/archive/2026-11-20.html"
     }
   ]
 }
