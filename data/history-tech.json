@@ -5376,6 +5376,26 @@
         "https://36kr.com/newsflashes/4077768164791170?f=rss"
       ],
       "url": "tech/archive/2026-11-20.html"
+    },
+    {
+      "date": "2026-11-21",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/elementalsouls/Claude-BugHunter",
+        "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+        "https://github.com/mjmirza/app-store-compliance",
+        "https://alpo.ge/remark.pdf",
+        "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+        "https://architectlabs.com/blog/frostbite",
+        "https://huggingface.co/papers/2611.26590",
+        "https://huggingface.co/papers/2611.26107",
+        "https://arxiv.org/abs/2611.26624v1",
+        "https://sspai.com/post/119337",
+        "https://sspai.com/post/119327",
+        "https://36kr.com/newsflashes/4078099126621059?f=rss"
+      ],
+      "url": "tech/archive/2026-11-21.html"
     }
   ]
 }
