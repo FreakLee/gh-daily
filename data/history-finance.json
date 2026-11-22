@@ -4580,6 +4580,22 @@
         "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm"
       ],
       "url": "finance/archive/2026-11-21.html"
+    },
+    {
+      "date": "2026-11-22",
+      "category": "finance",
+      "mode": "daily",
+      "items": [
+        "https://wallstreetcn.com/articles/3786435",
+        "https://wallstreetcn.com/articles/3786432",
+        "https://wallstreetcn.com/articles/3786430",
+        "https://wallstreetcn.com/articles/3786429",
+        "https://www.cnbc.com/2026/11/21/trump-fbi-database-hack.html",
+        "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
+        "https://www.cnbc.com/2026/11/20/anthropic-ipo-ai-stock-market-selloff.html",
+        "https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm"
+      ],
+      "url": "finance/archive/2026-11-22.html"
     }
   ]
 }
