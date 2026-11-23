@@ -5432,6 +5432,25 @@
         "https://36kr.com/newsflashes/4081587974182018?f=rss"
       ],
       "url": "tech/archive/2026-11-23.html"
+    },
+    {
+      "date": "2026-11-23",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/openvinotoolkit/openvino",
+        "https://github.com/nginx/nginx",
+        "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+        "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
+        "https://openai.com/index/perplexity-and-intelligence/",
+        "https://huggingface.co/papers/2611.27193",
+        "https://huggingface.co/papers/2611.27963",
+        "https://arxiv.org/abs/2611.27983v1",
+        "https://sspai.com/post/118705",
+        "https://sspai.com/post/119418",
+        "https://36kr.com/newsflashes/4082037526254468?f=rss"
+      ],
+      "url": "tech/archive/2026-11-23.html"
     }
   ]
 }
