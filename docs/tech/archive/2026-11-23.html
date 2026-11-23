@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<title>AI科技日报 · 11月23日（周一）</title>
+<style>
+  :root { --accent: #0071e3; --accent-dark: #0058b9; }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: #eef0f3;
+    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Microsoft YaHei", sans-serif;
+  }
+  .page-frame {
+    max-width: 677px;
+    margin: 0 auto;
+    background: #fff;
+    min-height: 100vh;
+    box-shadow: 0 0 24px rgba(0,0,0,0.06);
+  }
+  .top-band {
+    background: linear-gradient(135deg, var(--accent), var(--accent-dark));
+    color: #fff;
+    padding: 18px 20px 16px;
+  }
+  .top-band .kicker { font-size: 12px; opacity: 0.85; letter-spacing: 2px; }
+  .top-band .brand { font-size: 19px; font-weight: 800; margin-top: 4px; }
+  .copy-bar {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background: rgba(255,255,255,0.92);
+    backdrop-filter: saturate(180%) blur(8px);
+    border-bottom: 1px solid #e8ebef;
+    padding: 12px 16px;
+    text-align: center;
+  }
+  .copy-btn {
+    width: 100%;
+    max-width: 380px;
+    min-height: 50px;
+    font-size: 16px;
+    font-weight: 700;
+    color: #fff;
+    background: #07c160;
+    border: none;
+    border-radius: 25px;
+    padding: 13px 16px;
+    cursor: pointer;
+    box-shadow: 0 4px 14px rgba(7,193,96,0.32);
+    transition: transform .05s ease;
+  }
+  .copy-btn:active { background: #06a050; transform: translateY(1px); }
+  .copy-btn[data-state="ok"] { background: var(--accent); box-shadow: none; }
+  .copy-btn[data-state="err"] { background: #c0392b; box-shadow: none; }
+  .content-host { padding: 20px 18px 32px; }
+  .hint { color: #94a3b8; font-size: 12px; margin-top: 8px; }
+</style>
+</head>
+<body>
+<div class="page-frame">
+  <div class="top-band">
+    <div class="kicker">GH-DAILY</div>
+    <div class="brand">AI科技日报 · 11月23日（周一）</div>
+  </div>
+  <div class="copy-bar">
+    <button id="copy-btn" class="copy-btn">📋 复制富文本(用于公众号)</button>
+    <div class="hint">复制后切换到公众号后台「写新文章」编辑器,粘贴即可</div>
+  </div>
+  <div class="content-host">
+    <div id="content-to-copy"><section class="digest-root tech" style='font-family:-apple-system, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Microsoft YaHei", sans-serif; color:#2c3e50; font-size:16px; line-height:1.8; padding:0'>
+<h1 class="digest-title" style="font-size:23px; font-weight:800; color:#1a202c; margin:0 0 10px 0; padding:0; line-height:1.4; text-align:center" align="center">AI科技日报 · 11月23日（周一）</h1>
+<p class="digest-summary" style="margin:0 0 6px 0; padding:0; text-align:center" align="center"><span class="digest-summary-pill" style="display:inline-block; background-color:#e8f1fd; color:#0058b9; font-size:13px; padding:4px 14px; border-radius:14px" bgcolor="#e8f1fd">📌 今日 9 条 · GitHub、Hacker News、HF Papers、少数派、36氪</span></p>
+
+<hr class="digest-sep" style="border:none; border-top:1px solid #e2e8f0; margin:18px 0; height:0" height="0">
+<h3 class="repo-header" style="margin:0 0 9px 0; padding:0; font-size:17px; font-weight:700; color:#1a202c; line-height:1.5"><span class="repo-num" style="display:inline-block; background-color:#0071e3; color:#fff; font-size:13px; font-weight:700; padding:1px 9px; margin-right:9px; border-radius:10px" bgcolor="#0071e3">1</span><span class="repo-name" style="color:#1a202c; font-weight:700">openvinotoolkit/openvino</span></h3>
+<p class="repo-desc" style="margin:0 0 10px 0; padding:0; color:#2d3748; font-size:15.5px; line-height:1.8">英特尔开源的推理部署工具，把训练好的模型转成中间表示再针对 CPU、核显做量化加速，适合在没独显的机器上跑视觉类模型。</p>
+<p class="repo-meta" style="margin:0 0 7px 0; padding:0; font-size:13px; line-height:2.4"><span class="repo-source" style="display:inline-block; background-color:#e8f1fd; color:#0058b9; font-weight:700; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#e8f1fd">🐙 GitHub</span><span class="repo-metric" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; font-weight:600; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">📈 +158 ⭐</span><span class="repo-meta-bit" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">🔧 C++</span></p>
+<p class="repo-link" style="margin:0; padding:0; color:#718096; font-size:12.5px; word-break:break-all; line-height:1.6">🔗 <a href="https://github.com/openvinotoolkit/openvino" style="color:#3182ce">https://github.com/openvinotoolkit/openvino</a></p>
+<hr class="repo-sep" style="border:none; border-top:1px dashed #e2e8f0; margin:18px 0; height:0" height="0">
+<h3 class="repo-header" style="margin:0 0 9px 0; padding:0; font-size:17px; font-weight:700; color:#1a202c; line-height:1.5"><span class="repo-num" style="display:inline-block; background-color:#0071e3; color:#fff; font-size:13px; font-weight:700; padding:1px 9px; margin-right:9px; border-radius:10px" bgcolor="#0071e3">2</span><span class="repo-name" style="color:#1a202c; font-weight:700">nginx/nginx</span></h3>
+<p class="repo-desc" style="margin:0 0 10px 0; padding:0; color:#2d3748; font-size:15.5px; line-height:1.8">NGINX 官方源码仓库，C 写的反向代理和 Web 服务器，高并发场景下比 Apache 省内存，运维和网关开发都绕不开它。</p>
+<p class="repo-meta" style="margin:0 0 7px 0; padding:0; font-size:13px; line-height:2.4"><span class="repo-source" style="display:inline-block; background-color:#e8f1fd; color:#0058b9; font-weight:700; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#e8f1fd">🐙 GitHub</span><span class="repo-metric" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; font-weight:600; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">📈 +163 ⭐</span><span class="repo-meta-bit" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">🔧 C</span></p>
+<p class="repo-link" style="margin:0; padding:0; color:#718096; font-size:12.5px; word-break:break-all; line-height:1.6">🔗 <a href="https://github.com/nginx/nginx" style="color:#3182ce">https://github.com/nginx/nginx</a></p>
+<hr class="repo-sep" style="border:none; border-top:1px dashed #e2e8f0; margin:18px 0; height:0" height="0">
+<h3 class="repo-header" style="margin:0 0 9px 0; padding:0; font-size:17px; font-weight:700; color:#1a202c; line-height:1.5"><span class="repo-num" style="display:inline-block; background-color:#0071e3; color:#fff; font-size:13px; font-weight:700; padding:1px 9px; margin-right:9px; border-radius:10px" bgcolor="#0071e3">3</span><span class="repo-name" style="color:#1a202c; font-weight:700">日本三大车企统一零件</span></h3>
+<p class="repo-desc" style="margin:0 0 10px 0; padding:0; color:#2d3748; font-size:15.5px; line-height:1.8">丰田、日产、本田要共用零件规格来压成本，日系供应链的老办法，能不能真省钱还得看执行。</p>
+<p class="repo-meta" style="margin:0 0 7px 0; padding:0; font-size:13px; line-height:2.4"><span class="repo-source" style="display:inline-block; background-color:#e8f1fd; color:#0058b9; font-weight:700; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#e8f1fd">🟧 Hacker News</span><span class="repo-metric" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; font-weight:600; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">🔺 1.2k 分</span><span class="repo-meta-bit" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">💬 670 评论</span></p>
+<p class="repo-link" style="margin:0; padding:0; color:#718096; font-size:12.5px; word-break:break-all; line-height:1.6">🔗 <a href="https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/" style="color:#3182ce">https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/</a></p>
+<hr class="repo-sep" style="border:none; border-top:1px dashed #e2e8f0; margin:18px 0; height:0" height="0">
+<h3 class="repo-header" style="margin:0 0 9px 0; padding:0; font-size:17px; font-weight:700; color:#1a202c; line-height:1.5"><span class="repo-num" style="display:inline-block; background-color:#0071e3; color:#fff; font-size:13px; font-weight:700; padding:1px 9px; margin-right:9px; border-radius:10px" bgcolor="#0071e3">4</span><span class="repo-name" style="color:#1a202c; font-weight:700">2028年Anthropic用电靠天然气</span></h3>
+<p class="repo-desc" style="margin:0 0 10px 0; padding:0; color:#2d3748; font-size:15.5px; line-height:1.8">Anthropic 2028年87%电力靠天然气、11%靠煤，AI 训练的电从哪来，这账比模型参数更值得盯。</p>
+<p class="repo-meta" style="margin:0 0 7px 0; padding:0; font-size:13px; line-height:2.4"><span class="repo-source" style="display:inline-block; background-color:#e8f1fd; color:#0058b9; font-weight:700; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#e8f1fd">🟧 Hacker News</span><span class="repo-metric" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; font-weight:600; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">🔺 855 分</span><span class="repo-meta-bit" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">💬 866 评论</span></p>
+<p class="repo-link" style="margin:0; padding:0; color:#718096; font-size:12.5px; word-break:break-all; line-height:1.6">🔗 <a href="https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/" style="color:#3182ce">https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/</a></p>
+<hr class="repo-sep" style="border:none; border-top:1px dashed #e2e8f0; margin:18px 0; height:0" height="0">
+<h3 class="repo-header" style="margin:0 0 9px 0; padding:0; font-size:17px; font-weight:700; color:#1a202c; line-height:1.5"><span class="repo-num" style="display:inline-block; background-color:#0071e3; color:#fff; font-size:13px; font-weight:700; padding:1px 9px; margin-right:9px; border-radius:10px" bgcolor="#0071e3">5</span><span class="repo-name" style="color:#1a202c; font-weight:700">困惑度与智能</span></h3>
+<p class="repo-desc" style="margin:0 0 10px 0; padding:0; color:#2d3748; font-size:15.5px; line-height:1.8">Perplexity 这词在语言模型里是衡量预测不确定性的指标，文章把它和智能本身挂钩，讨论挺有嚼头，做 LLM 评测的值得一读。</p>
+<p class="repo-meta" style="margin:0 0 7px 0; padding:0; font-size:13px; line-height:2.4"><span class="repo-source" style="display:inline-block; background-color:#e8f1fd; color:#0058b9; font-weight:700; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#e8f1fd">🟧 Hacker News</span><span class="repo-metric" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; font-weight:600; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">🔺 451 分</span><span class="repo-meta-bit" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">💬 304 评论</span></p>
+<p class="repo-link" style="margin:0; padding:0; color:#718096; font-size:12.5px; word-break:break-all; line-height:1.6">🔗 <a href="https://openai.com/index/perplexity-and-intelligence/" style="color:#3182ce">https://openai.com/index/perplexity-and-intelligence/</a></p>
+<hr class="repo-sep" style="border:none; border-top:1px dashed #e2e8f0; margin:18px 0; height:0" height="0">
+<h3 class="repo-header" style="margin:0 0 9px 0; padding:0; font-size:17px; font-weight:700; color:#1a202c; line-height:1.5"><span class="repo-num" style="display:inline-block; background-color:#0071e3; color:#fff; font-size:13px; font-weight:700; padding:1px 9px; margin-right:9px; border-radius:10px" bgcolor="#0071e3">6</span><span class="repo-name" style="color:#1a202c; font-weight:700">RL Post-Training in Diffusion Transformers Is Activation Steering</span></h3>
+<p class="repo-desc" style="margin:0 0 10px 0; padding:0; color:#2d3748; font-size:15.5px; line-height:1.8">扩散模型 RL 微调那点提升，大半靠一组跟输入无关的固定向量就能复现，参数比 LoRA 少 65 倍，说明 RL 只是把模型往它本来就会的方向推了一把。</p>
+<p class="repo-meta" style="margin:0 0 7px 0; padding:0; font-size:13px; line-height:2.4"><span class="repo-source" style="display:inline-block; background-color:#e8f1fd; color:#0058b9; font-weight:700; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#e8f1fd">🤗 HF Papers</span><span class="repo-metric" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; font-weight:600; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">👍 20</span></p>
+<p class="repo-link" style="margin:0; padding:0; color:#718096; font-size:12.5px; word-break:break-all; line-height:1.6">🔗 <a href="https://huggingface.co/papers/2611.26627" style="color:#3182ce">https://huggingface.co/papers/2611.26627</a></p>
+<hr class="repo-sep" style="border:none; border-top:1px dashed #e2e8f0; margin:18px 0; height:0" height="0">
+<h3 class="repo-header" style="margin:0 0 9px 0; padding:0; font-size:17px; font-weight:700; color:#1a202c; line-height:1.5"><span class="repo-num" style="display:inline-block; background-color:#0071e3; color:#fff; font-size:13px; font-weight:700; padding:1px 9px; margin-right:9px; border-radius:10px" bgcolor="#0071e3">7</span><span class="repo-name" style="color:#1a202c; font-weight:700">Language Models Can Rewrite Their Own Weights</span></h3>
+<p class="repo-desc" style="margin:0 0 10px 0; padding:0; color:#2d3748; font-size:15.5px; line-height:1.8">27B 模型能自己诊断错题、直接改权重，不用梯度也不用训练，单卡几小时就涨 6.6 分，还能修好自己损坏的权重矩阵；2B 和 4B 都做不到，这能力得够大才冒出来。</p>
+<p class="repo-meta" style="margin:0 0 7px 0; padding:0; font-size:13px; line-height:2.4"><span class="repo-source" style="display:inline-block; background-color:#e8f1fd; color:#0058b9; font-weight:700; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#e8f1fd">🤗 HF Papers</span><span class="repo-metric" style="display:inline-block; background-color:#f2f4f7; color:#5a6c7d; font-weight:600; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#f2f4f7">👍 19</span></p>
+<p class="repo-link" style="margin:0; padding:0; color:#718096; font-size:12.5px; word-break:break-all; line-height:1.6">🔗 <a href="https://huggingface.co/papers/2611.21885" style="color:#3182ce">https://huggingface.co/papers/2611.21885</a></p>
+<hr class="repo-sep" style="border:none; border-top:1px dashed #e2e8f0; margin:18px 0; height:0" height="0">
+<h3 class="repo-header" style="margin:0 0 9px 0; padding:0; font-size:17px; font-weight:700; color:#1a202c; line-height:1.5"><span class="repo-num" style="display:inline-block; background-color:#0071e3; color:#fff; font-size:13px; font-weight:700; padding:1px 9px; margin-right:9px; border-radius:10px" bgcolor="#0071e3">8</span><span class="repo-name" style="color:#1a202c; font-weight:700">从深圳到上海，少数派的共创故事还在继续</span></h3>
+<p class="repo-desc" style="margin:0 0 10px 0; padding:0; color:#2d3748; font-size:15.5px; line-height:1.8">少数派跑去虹桥科技周办了个论坛，讲他们从深圳到上海的共创故事，说白了就是内容社区在线下攒局拉人。</p>
+<p class="repo-meta" style="margin:0 0 7px 0; padding:0; font-size:13px; line-height:2.4"><span class="repo-source" style="display:inline-block; background-color:#e8f1fd; color:#0058b9; font-weight:700; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#e8f1fd">📱 少数派</span></p>
+<p class="repo-link" style="margin:0; padding:0; color:#718096; font-size:12.5px; word-break:break-all; line-height:1.6">🔗 <a href="https://sspai.com/post/119318" style="color:#3182ce">https://sspai.com/post/119318</a></p>
+<hr class="repo-sep" style="border:none; border-top:1px dashed #e2e8f0; margin:18px 0; height:0" height="0">
+<h3 class="repo-header" style="margin:0 0 9px 0; padding:0; font-size:17px; font-weight:700; color:#1a202c; line-height:1.5"><span class="repo-num" style="display:inline-block; background-color:#0071e3; color:#fff; font-size:13px; font-weight:700; padding:1px 9px; margin-right:9px; border-radius:10px" bgcolor="#0071e3">9</span><span class="repo-name" style="color:#1a202c; font-weight:700">近两个月超7500亿元借道ETF入市，资金流入呈现两大特征</span></h3>
+<p class="repo-desc" style="margin:0 0 10px 0; padding:0; color:#2d3748; font-size:15.5px; line-height:1.8">两个月里超 7500 亿资金借道 ETF 进场，光 11 月 20 日一天就净流入 919 亿，钱几乎全砸在沪深 300、创业板指、科创 50 这几只宽基上，摆明了是抄底而非挑赛道。</p>
+<p class="repo-meta" style="margin:0 0 7px 0; padding:0; font-size:13px; line-height:2.4"><span class="repo-source" style="display:inline-block; background-color:#e8f1fd; color:#0058b9; font-weight:700; padding:3px 11px; margin:0 8px 6px 0; border-radius:12px" bgcolor="#e8f1fd">💼 36氪</span></p>
+<p class="repo-link" style="margin:0; padding:0; color:#718096; font-size:12.5px; word-break:break-all; line-height:1.6">🔗 <a href="https://36kr.com/newsflashes/4081587974182018?f=rss" style="color:#3182ce">https://36kr.com/newsflashes/4081587974182018?f=rss</a></p>
+<hr class="digest-sep" style="border:none; border-top:1px solid #e2e8f0; margin:18px 0; height:0" height="0">
+<p class="digest-footer" style="margin:0; padding:0; color:#a0aec0; font-size:12.5px; text-align:center; line-height:1.9" align="center">📅 本期生成时间: 2026-11-23 08:08<br>💡 数据来源: GitHub、Hacker News、HF Papers、少数派、36氪</p>
+</section></div>
+  </div>
+</div>
+<script>
+(function() {
+  const btn = document.getElementById('copy-btn');
+  btn.addEventListener('click', async () => {
+    const node = document.getElementById('content-to-copy');
+    const html = node.innerHTML;
+    const text = node.innerText;
+    try {
+      await navigator.clipboard.write([
+        new ClipboardItem({
+          'text/html': new Blob([html], {type: 'text/html'}),
+          'text/plain': new Blob([text], {type: 'text/plain'})
+        })
+      ]);
+      btn.textContent = '✅ 已复制,去公众号粘贴';
+      btn.dataset.state = 'ok';
+    } catch (e) {
+      btn.textContent = '⚠️ 复制失败,请长按手动选';
+      btn.dataset.state = 'err';
+      console.error(e);
+    }
+    setTimeout(() => {
+      btn.textContent = '📋 复制富文本(用于公众号)';
+      btn.dataset.state = '';
+    }, 3000);
+  });
+})();
+</script>
+</body>
+</html>

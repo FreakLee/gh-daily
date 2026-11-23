@@ -5415,6 +5415,23 @@
         "https://36kr.com/p/4079476599772038?f=rss"
       ],
       "url": "tech/archive/2026-11-22.html"
+    },
+    {
+      "date": "2026-11-23",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/openvinotoolkit/openvino",
+        "https://github.com/nginx/nginx",
+        "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+        "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+        "https://openai.com/index/perplexity-and-intelligence/",
+        "https://huggingface.co/papers/2611.26627",
+        "https://huggingface.co/papers/2611.21885",
+        "https://sspai.com/post/119318",
+        "https://36kr.com/newsflashes/4081587974182018?f=rss"
+      ],
+      "url": "tech/archive/2026-11-23.html"
     }
   ]
 }
