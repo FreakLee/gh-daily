@@ -5451,6 +5451,24 @@
         "https://36kr.com/newsflashes/4082037526254468?f=rss"
       ],
       "url": "tech/archive/2026-11-23.html"
+    },
+    {
+      "date": "2026-11-24",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/google-labs-code/stitch-skills",
+        "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+        "https://ladybird.org/posts/alpha/",
+        "https://z.ai/blog/glm-5.4",
+        "https://huggingface.co/papers/2611.24636",
+        "https://huggingface.co/papers/2611.26954",
+        "https://arxiv.org/abs/2611.27978v1",
+        "https://sspai.com/post/119438",
+        "https://sspai.com/prime/story/weird-phones-are-returning",
+        "https://36kr.com/newsflashes/4082990104302466?f=rss"
+      ],
+      "url": "tech/archive/2026-11-24.html"
     }
   ]
 }
