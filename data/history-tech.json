@@ -5487,6 +5487,24 @@
         "https://36kr.com/newsflashes/4083574837439104?f=rss"
       ],
       "url": "tech/archive/2026-11-24.html"
+    },
+    {
+      "date": "2026-11-25",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/mvanhorn/last30days-skill",
+        "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+        "https://quad9.net/news/blog/quad9-service-deactivation-in-france/",
+        "https://mechanical-pencil.com/products/spray-bottle",
+        "https://huggingface.co/papers/2611.12164",
+        "https://huggingface.co/papers/2611.18639",
+        "https://arxiv.org/abs/2611.31237v1",
+        "https://sspai.com/post/119492",
+        "https://sspai.com/post/119460",
+        "https://36kr.com/newsflashes/4084409848359301?f=rss"
+      ],
+      "url": "tech/archive/2026-11-25.html"
     }
   ]
 }
