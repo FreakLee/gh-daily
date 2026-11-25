@@ -5505,6 +5505,24 @@
         "https://36kr.com/newsflashes/4084409848359301?f=rss"
       ],
       "url": "tech/archive/2026-11-25.html"
+    },
+    {
+      "date": "2026-11-25",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/mvanhorn/last30days-skill",
+        "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+        "https://mechanical-pencil.com/products/spray-bottle",
+        "https://prismml.com/news/bonsai-2-5-27b",
+        "https://huggingface.co/papers/2611.31205",
+        "https://huggingface.co/papers/2611.30634",
+        "https://arxiv.org/abs/2611.33158v1",
+        "https://sspai.com/post/119310",
+        "https://sspai.com/post/118791",
+        "https://36kr.com/newsflashes/4084914496776834?f=rss"
+      ],
+      "url": "tech/archive/2026-11-25.html"
     }
   ]
 }
