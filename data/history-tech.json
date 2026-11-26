@@ -5542,6 +5542,25 @@
         "https://36kr.com/newsflashes/4085836951988612?f=rss"
       ],
       "url": "tech/archive/2026-11-26.html"
+    },
+    {
+      "date": "2026-11-26",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/obra/superpowers",
+        "https://github.com/jingyaogong/minimind",
+        "https://scottaaronson.blog/?p=10379",
+        "https://1password.com/blog/update-on-nov-2026-security-incident",
+        "https://github.com/lsernau/grh-lean",
+        "https://huggingface.co/papers/2611.34237",
+        "https://huggingface.co/papers/2611.34575",
+        "https://arxiv.org/abs/2611.34942v1",
+        "https://sspai.com/post/119563",
+        "https://sspai.com/post/117510",
+        "https://36kr.com/newsflashes/4086321427114369?f=rss"
+      ],
+      "url": "tech/archive/2026-11-26.html"
     }
   ]
 }
