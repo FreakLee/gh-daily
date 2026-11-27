@@ -5579,6 +5579,24 @@
         "https://36kr.com/newsflashes/4087229362141827?f=rss"
       ],
       "url": "tech/archive/2026-11-27.html"
+    },
+    {
+      "date": "2026-11-27",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/HKUDS/CLI-Anything",
+        "https://news.ycombinator.com/item?id=50655664",
+        "https://janlukas.blog/posts/ai-self-hosting",
+        "https://github.com/intel/intel-one-mono",
+        "https://huggingface.co/papers/2611.34232",
+        "https://huggingface.co/papers/2611.34051",
+        "https://arxiv.org/abs/2611.34938v1",
+        "https://sspai.com/post/119601",
+        "https://sspai.com/post/119632",
+        "https://36kr.com/newsflashes/4087756787513988?f=rss"
+      ],
+      "url": "tech/archive/2026-11-27.html"
     }
   ]
 }
