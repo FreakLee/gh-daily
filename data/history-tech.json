@@ -5597,6 +5597,25 @@
         "https://36kr.com/newsflashes/4087756787513988?f=rss"
       ],
       "url": "tech/archive/2026-11-27.html"
+    },
+    {
+      "date": "2026-11-28",
+      "category": "tech",
+      "mode": "daily",
+      "items": [
+        "https://github.com/firecrawl/firecrawl",
+        "https://github.com/cathrynlavery/diagram-design",
+        "https://github.com/zhouxiaoka/autoclip",
+        "https://twitter.com/RealAstropulse/status/2126119408997466389",
+        "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+        "https://neuralnetworksanddeeplearning.com/",
+        "https://huggingface.co/papers/2611.34813",
+        "https://huggingface.co/papers/2611.31619",
+        "https://arxiv.org/abs/2611.34935v1",
+        "https://sspai.com/post/119658",
+        "https://36kr.com/newsflashes/4088009622665860?f=rss"
+      ],
+      "url": "tech/archive/2026-11-28.html"
     }
   ]
 }
